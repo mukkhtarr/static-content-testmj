@@ -1,14 +1,14 @@
 {
-  "name": "static-content-cannabis",
+  "name": "static-content-testmj",
   "version": "2.0.1058",
-  "description": "Static site generator for https://headless.cannabis.ca.gov",
+  "description": "Static site generator for https://api.testmj.com",
   "main": "index.js",
   "keywords": [
     "@cagov",
     "Office of Data and Innovation",
     "Department of Cannabis Control"
   ],
-  "repository": "https://github.com/static-content-cannabis",
+  "repository": "https://github.com/static-content-testmj",
   "author": "Office of Data and Innovation",
   "license": ""
 }

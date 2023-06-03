@@ -47,10 +47,10 @@ jobs:
       - name: "cat package.json"
         # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
-      - name: Repository dispatch to cagov/cannabis.ca.gov [main]
+      - name: Repository dispatch to mukkhtarr/testmj.com [main]
         # description: "Send signal to static site generation repo to trigger an update."
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.ODI_GITHUB_TOKEN }}
-          repository: cagov/cannabis.ca.gov
+          repository: mukkhtarr/testmj.com
           event-type: static_content_update_main
