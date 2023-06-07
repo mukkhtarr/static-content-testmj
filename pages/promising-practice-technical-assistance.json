@@ -4,12 +4,12 @@
     "updated_date": "2022-12-07T00:38:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/12281",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/12281",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "promising-practice-technical-assistance",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/equity/promising-practice-technical-assistance/",
+    "link": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-technical-assistance/",
     "title": "Promising Practice: Technical Assistance",
     "excerpt": "<p>“I’m a firm believer in a social, entrepreneurial approach to addressing health and safety issues in California. We wanted to service senior citizens, people of color and bring equity into our communities.” – Carrie Broadus, Pot Luck Enterprises Owner Spotlight: Carrie Broadus Pot Luck Enterprises, LLC Jurisdiction: Los Angeles Carrie Broadus is the owner of [&hellip;]</p>\n",
     "author": 15,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-technical-assistance/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-technical-assistance/",
       "page_title": "Promising Practice: Technical Assistance",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Promising Practice: Technical Assistance",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-technical-assistance/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-technical-assistance/",
       "open_graph_title": "Promising Practice: Technical Assistance",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Promising Practice: Technical Assistance",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-technical-assistance/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-technical-assistance/"
   }
 }

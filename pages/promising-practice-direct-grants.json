@@ -4,12 +4,12 @@
     "updated_date": "2022-12-07T00:36:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/12285",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/12285",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "promising-practice-direct-grants",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/equity/promising-practice-direct-grants/",
+    "link": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-direct-grants/",
     "title": "Promising Practice: Direct Grants",
     "excerpt": "<p>“For me, equity is big. There’s a lot of people who have been arrested, but there’s not a lot of people who have a license. Families have been totally wiped out. A license is real equity.” – Reese Benton, Posh Green Cannabis Boutique Owner Spotlight: Reese Benton Posh Green Cannabis Boutique Jurisdiction: San Francisco Reese [&hellip;]</p>\n",
     "author": 15,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-direct-grants/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-direct-grants/",
       "page_title": "Promising Practice: Direct Grants",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Promising Practice: Direct Grants",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-direct-grants/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-direct-grants/",
       "open_graph_title": "Promising Practice: Direct Grants",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Promising Practice: Direct Grants",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-direct-grants/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-direct-grants/"
   }
 }

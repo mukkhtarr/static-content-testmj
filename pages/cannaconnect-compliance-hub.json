@@ -1,15 +1,15 @@
 {
   "meta": {
     "created_date": "2022-03-08T21:00:21",
-    "updated_date": "2023-05-19T16:53:32",
+    "updated_date": "2023-04-19T23:34:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/9492",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/9492",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -18,12 +18,12 @@
     "date": "2022-03-08T13:00:21",
     "date_gmt": "2022-03-08T21:00:21",
     "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2023-05-19T09:53:32",
-    "modified_gmt": "2023-05-19T16:53:32",
+    "modified": "2023-04-19T16:34:07",
+    "modified_gmt": "2023-04-19T23:34:07",
     "slug": "cannaconnect-compliance-hub",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
     "title": "CannaConnect Compliance Hub",
     "excerpt": "<p>CannaConnect is the Department of Cannabis Control’s (DCC) resource hub, here to help license holders get the tools &amp; support they need to maintain compliance and thrive.&nbsp; Quick actions Getting started Being a cannabis license holder makes you a pioneer in a budding industry. You are in the right place to begin or continue your [&hellip;]</p>\n",
     "author": 2,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
       "page_title": "CannaConnect Compliance Hub",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "CannaConnect Compliance Hub",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
       "open_graph_title": "CannaConnect Compliance Hub",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CannaConnect Compliance Hub",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/"
   }
 }

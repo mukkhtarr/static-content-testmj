@@ -4,12 +4,12 @@
     "updated_date": "2022-12-06T18:20:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/12291",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/12291",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "promising-practice-no-interest-revolving-loans",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/equity/promising-practice-no-interest-revolving-loans/",
+    "link": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-no-interest-revolving-loans/",
     "title": "Promising Practice: No-interest Revolving Loans",
     "excerpt": "<p>“I’m very grateful for the equity program. I’m a huge believer in the fact that equity is how I got into this position. I wouldn’t have gotten here had I not had the program or the funding that was provided through CORE. It’s been life-changing.” – Maisha Bahati, CEO of Crystal Nugs Owner Spotlight: Maisha [&hellip;]</p>\n",
     "author": 15,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-no-interest-revolving-loans/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-no-interest-revolving-loans/",
       "page_title": "Promising Practice: No-interest Revolving Loans",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Promising Practice: No-interest Revolving Loans",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-no-interest-revolving-loans/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-no-interest-revolving-loans/",
       "open_graph_title": "Promising Practice: No-interest Revolving Loans",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Promising Practice: No-interest Revolving Loans",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/equity/promising-practice-no-interest-revolving-loans/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/equity/promising-practice-no-interest-revolving-loans/"
   }
 }

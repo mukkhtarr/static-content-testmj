@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:50:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/695",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/695",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "medicinal-cannabis",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/consumers/medicinal-cannabis/",
+    "link": "https://live-testmj-com.pantheonsite.io/consumers/medicinal-cannabis/",
     "title": "Medicinal cannabis",
     "excerpt": "<p>Your doctor can recommend cannabis to help you manage some medical conditions.</p>\n",
     "author": 2,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/consumers/medicinal-cannabis/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/consumers/medicinal-cannabis/",
       "page_title": "Medicinal cannabis",
       "page_description": "Your doctor can recommend cannabis to help you manage some medical conditions.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Medicinal cannabis",
       "meta_description": "Your doctor can recommend cannabis to help you manage some medical conditions.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/consumers/medicinal-cannabis/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/consumers/medicinal-cannabis/",
       "open_graph_title": "Medicinal cannabis",
       "open_graph_description": "Your doctor can recommend cannabis to help you manage some medical conditions.",
       "twitter_title": "Medicinal cannabis",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/consumers/medicinal-cannabis/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/consumers/medicinal-cannabis/"
   }
 }

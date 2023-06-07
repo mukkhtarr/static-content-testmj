@@ -4,12 +4,12 @@
     "updated_date": "2022-12-29T18:25:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/12421",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/12421",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "make-a-payment",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/make-a-payment/",
+    "link": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/",
     "title": "Make a payment",
     "excerpt": "<p>Visit our offices You can visit our offices in Rancho Cordova or Eureka for the following services: Schedule a payment appointment Make a payment for an application, license, or renewal fee Inquire about your license or application payment status North Hollywood office coming Spring 2023! Payment hours of operation Eureka office: Monday through Thursday from [&hellip;]</p>\n",
     "author": 15,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/make-a-payment/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/",
       "page_title": "Make a payment",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Make a payment",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/make-a-payment/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/",
       "open_graph_title": "Make a payment",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Make a payment",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/make-a-payment/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/"
   }
 }

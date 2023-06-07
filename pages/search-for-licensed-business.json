@@ -4,12 +4,12 @@
     "updated_date": "2022-10-19T18:32:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/714",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/714",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "search-for-licensed-business",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/resources/search-for-licensed-business/",
+    "link": "https://live-testmj-com.pantheonsite.io/resources/search-for-licensed-business/",
     "title": "Search for a licensed business",
     "excerpt": "<p>Search for a business licensed by the Department of Cannabis Control.</p>\n",
     "author": 2,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/resources/search-for-licensed-business/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/search-for-licensed-business/",
       "page_title": "Search for a licensed business",
       "page_description": "Search for a business licensed by the Department of Cannabis Control.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Search for a licensed business",
       "meta_description": "Search for a business licensed by the Department of Cannabis Control.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/resources/search-for-licensed-business/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/search-for-licensed-business/",
       "open_graph_title": "Search for a licensed business",
       "open_graph_description": "Search for a business licensed by the Department of Cannabis Control.",
       "twitter_title": "Search for a licensed business",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/resources/search-for-licensed-business/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/search-for-licensed-business/"
   }
 }

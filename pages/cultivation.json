@@ -1,15 +1,15 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:31",
-    "updated_date": "2023-05-19T16:54:30",
+    "updated_date": "2023-03-15T16:02:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/pages/718",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/718",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -18,12 +18,12 @@
     "date": "2021-06-19T15:07:31",
     "date_gmt": "2021-06-19T15:07:31",
     "guid": "http://wordpress.test:8888/cultivation/",
-    "modified": "2023-05-19T09:54:30",
-    "modified_gmt": "2023-05-19T16:54:30",
+    "modified": "2023-03-15T09:02:49",
+    "modified_gmt": "2023-03-15T16:02:49",
     "slug": "cultivation",
     "status": "publish",
     "type": "page",
-    "link": "https://api.cannabis.ca.gov/licensees/cultivation/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensees/cultivation/",
     "title": "Cultivation",
     "excerpt": "<p>Cultivators grow all of the cannabis plants that are harvested, sold as flower, and made into products.</p>\n",
     "author": 2,
@@ -48,12 +48,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensees/cultivation/",
       "page_title": "Cultivation",
       "page_description": "Cultivators grow all of the cannabis plants that are harvested, sold as flower, and made into products.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cultivation",
       "meta_description": "Cultivators grow all of the cannabis plants that are harvested, sold as flower, and made into products.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/licensees/cultivation/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensees/cultivation/",
       "open_graph_title": "Cultivation",
       "open_graph_description": "Cultivators grow all of the cannabis plants that are harvested, sold as flower, and made into products.",
       "twitter_title": "Cultivation",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://api.cannabis.ca.gov/licensees/cultivation/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensees/cultivation/"
   }
 }
