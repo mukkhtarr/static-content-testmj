@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:47:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/10018",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/10018",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "california-looks-to-standardize-cannabis-testing-statewide",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/07/california-looks-to-standardize-cannabis-testing-statewide/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/07/california-looks-to-standardize-cannabis-testing-statewide/",
     "title": "California looks to standardize cannabis testing statewide",
     "excerpt": "<p>New regulations will protect public health and ensure consumer confidence CALIFORNIA – Delivering on calls to strengthen uniformity in cannabis laboratory testing procedures, the Department of Cannabis Control (DCC) is proposing standards to lab testing methods across the state and is accepting public comments until August 2, 2022. The regulatory package comes on the heels [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/07/california-looks-to-standardize-cannabis-testing-statewide/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/07/california-looks-to-standardize-cannabis-testing-statewide/",
       "page_title": "California looks to standardize cannabis testing statewide",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "California looks to standardize cannabis testing statewide",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/07/california-looks-to-standardize-cannabis-testing-statewide/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/07/california-looks-to-standardize-cannabis-testing-statewide/",
       "open_graph_title": "California looks to standardize cannabis testing statewide",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California looks to standardize cannabis testing statewide",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/07/california-looks-to-standardize-cannabis-testing-statewide/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/07/california-looks-to-standardize-cannabis-testing-statewide/"
   }
 }

@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:48:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/6023",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/6023",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/",
+    "link": "https://live-testmj-com.pantheonsite.io/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/",
     "title": "Bureau of Cannabis Control Announces Enforcement Action on Unlicensed Cannabis Retailer",
     "excerpt": "<p>The Bureau of Cannabis Control and the Department of Consumer Affairs’ Division of Investigation-Cannabis Enforcement Unit, in coordination with the Los Angeles Police Department, today announced enforcement action on an unlicensed cannabis retailer operating within the city of Los Angeles.</p>\n",
     "author": 2,
@@ -62,12 +62,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/",
       "page_title": "Bureau of Cannabis Control Announces Enforcement Action on Unlicensed Cannabis Retailer",
       "page_description": "The Bureau of Cannabis Control and the Department of Consumer Affairs’ Division of Investigation-Cannabis Enforcement Unit, in coordination with the Los Angeles Police Department, today announced enforcement action on an unlicensed cannabis retailer operating within the city of Los Angeles.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -76,7 +76,7 @@
       "page_social_image_alt": "",
       "meta_title": "Bureau of Cannabis Control Announces Enforcement Action on Unlicensed Cannabis Retailer",
       "meta_description": "The Bureau of Cannabis Control and the Department of Consumer Affairs’ Division of Investigation-Cannabis Enforcement Unit, in coordination with the Los Angeles Police Department, today announced enforcement action on an unlicensed cannabis retailer operating within the city of Los Angeles.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/",
       "open_graph_title": "Bureau of Cannabis Control Announces Enforcement Action on Unlicensed Cannabis Retailer",
       "open_graph_description": "The Bureau of Cannabis Control and the Department of Consumer Affairs’ Division of Investigation-Cannabis Enforcement Unit, in coordination with the Los Angeles Police Department, today announced enforcement action on an unlicensed cannabis retailer operating within the city of Los Angeles.",
       "twitter_title": "Bureau of Cannabis Control Announces Enforcement Action on Unlicensed Cannabis Retailer",
@@ -233,6 +233,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2018/10/bureau-of-cannabis-control-announces-enforcement-action-on-unlicensed-cannabis-retailer/"
   }
 }

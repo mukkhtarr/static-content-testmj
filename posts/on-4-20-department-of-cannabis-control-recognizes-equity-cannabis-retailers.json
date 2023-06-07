@@ -4,12 +4,12 @@
     "updated_date": "2023-04-20T18:24:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13546",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13546",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/",
     "title": "On 4/20 Department of Cannabis Control Recognizes Equity Cannabis Retailers",
     "excerpt": "<p>DCC releases list of equity cannabis storefront retailers in key counties across California; provides helpful tips to consumers California &ndash; Today, on 4/20 &mdash; a day often celebrated by cannabis consumers &mdash; the Department of Cannabis Control (DCC) is providing tips for consumers to support equity in the cannabis industry by releasing a list of [&hellip;]</p>\n",
     "author": 33,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/",
       "page_title": "On 4/20 Department of Cannabis Control Recognizes Equity Cannabis Retailers",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "On 4/20 Department of Cannabis Control Recognizes Equity Cannabis Retailers",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/",
       "open_graph_title": "On 4/20 Department of Cannabis Control Recognizes Equity Cannabis Retailers",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "On 4/20 Department of Cannabis Control Recognizes Equity Cannabis Retailers",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/04/on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers/"
   }
 }

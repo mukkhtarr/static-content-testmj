@@ -4,12 +4,12 @@
     "updated_date": "2022-12-07T00:14:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/12556",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/12556",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "dcc-wins-court-judgement-against-illegal-cannabis-market",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
     "title": "DCC wins court victory against illegal cannabis businesses",
     "excerpt": "<p>The Department of Cannabis Control (DCC) announced today that it has won a significant legal victory against participants in the illegal cannabis market. Represented by its partners in the Attorney General’s Office, DCC obtained a court order awarding more than $128 million in civil penalties—the maximum sought by DCC—against businesses and individuals that were engaged [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
       "page_title": "DCC wins court victory against illegal cannabis businesses",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "DCC wins court victory against illegal cannabis businesses",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/",
       "open_graph_title": "DCC wins court victory against illegal cannabis businesses",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "DCC wins court victory against illegal cannabis businesses",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-wins-court-judgement-against-illegal-cannabis-market/"
   }
 }

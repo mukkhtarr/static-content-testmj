@@ -4,12 +4,12 @@
     "updated_date": "2023-02-14T19:58:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13234",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13234",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/",
     "title": "California Launches $20M Grant Program to Expand Consumer Access to Regulated Cannabis ",
     "excerpt": "<p>First Of Its Kind Program Provides Financial Assistance to Local Governments for Development of Retail Cannabis Licensing Programs&nbsp; CALIFORNIA &#8211; The Department of Cannabis Control (DCC) is launching its Local Jurisdiction Retail Access Grant, a national first-of-its kind program that will provide local jurisdictions with resources to expand access to regulated cannabis products to underserved [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/",
       "page_title": "California Launches $20M Grant Program to Expand Consumer Access to Regulated Cannabis ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "California Launches $20M Grant Program to Expand Consumer Access to Regulated Cannabis ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/",
       "open_graph_title": "California Launches $20M Grant Program to Expand Consumer Access to Regulated Cannabis ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California Launches $20M Grant Program to Expand Consumer Access to Regulated Cannabis ",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/02/california-launches-20m-grant-program-to-expand-consumer-access-to-regulated-cannabis/"
   }
 }

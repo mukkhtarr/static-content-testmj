@@ -4,12 +4,12 @@
     "updated_date": "2022-10-07T20:10:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/12104",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/12104",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "dcc-applauds-president-bidens-announcement-on-cannabis-reforms",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/",
     "title": "DCC applauds President Biden’s announcement on cannabis reforms",
     "excerpt": "<p>The Department of Cannabis Control applauds&nbsp;President Biden’s announcement today&nbsp;to pardon federal convictions for simple cannabis possession and review the federal classification of cannabis under the Controlled Substances Act. This is an important and significant step to repair the harms of the failed War on Drugs, which have plagued communities and individuals for generations. States like [&hellip;]</p>\n",
     "author": 22,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/",
       "page_title": "DCC applauds President Biden’s announcement on cannabis reforms",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "DCC applauds President Biden’s announcement on cannabis reforms",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/",
       "open_graph_title": "DCC applauds President Biden’s announcement on cannabis reforms",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "DCC applauds President Biden’s announcement on cannabis reforms",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/10/dcc-applauds-president-bidens-announcement-on-cannabis-reforms/"
   }
 }

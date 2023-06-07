@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:49:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/6272",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/6272",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/",
+    "link": "https://live-testmj-com.pantheonsite.io/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/",
     "title": "Marijuana goes legal in California on Jan. 1 &#8212; what you need to know",
     "excerpt": "<p>Move over, 4/20. California has a new pot holiday: Jan.&nbsp;1, 2018.</p>\n",
     "author": 2,
@@ -57,12 +57,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/",
       "page_title": "Marijuana goes legal in California on Jan. 1 &#8212; what you need to know",
       "page_description": "Move over, 4/20. California has a new pot holiday: Jan.&nbsp;1, 2018.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -71,7 +71,7 @@
       "page_social_image_alt": "",
       "meta_title": "Marijuana goes legal in California on Jan. 1 &#8212; what you need to know",
       "meta_description": "Move over, 4/20. California has a new pot holiday: Jan.&nbsp;1, 2018.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/",
       "open_graph_title": "Marijuana goes legal in California on Jan. 1 &#8212; what you need to know",
       "open_graph_description": "Move over, 4/20. California has a new pot holiday: Jan.&nbsp;1, 2018.",
       "twitter_title": "Marijuana goes legal in California on Jan. 1 &#8212; what you need to know",
@@ -173,6 +173,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2017/12/marijuana-goes-legal-in-california-on-jan-1-what-you-need-to-know/"
   }
 }

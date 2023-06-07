@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:47:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/9831",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/9831",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/",
     "title": "Department of Cannabis Control highlights potential for drought-related regulatory relief",
     "excerpt": "<p>CALIFORNIA – As California prepares for another summer of historic drought, the Department of Cannabis Control encourages cannabis licensees affected by the ongoing statewide drought emergency—including cultivators seeking to conserve water—to request disaster relief. Under DCC’s&nbsp;disaster-relief authority, licensees may request temporary relief from certain DCC regulations. Licensees seeking disaster relief are encouraged to submit a&nbsp;Request [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/",
       "page_title": "Department of Cannabis Control highlights potential for drought-related regulatory relief",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Department of Cannabis Control highlights potential for drought-related regulatory relief",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/",
       "open_graph_title": "Department of Cannabis Control highlights potential for drought-related regulatory relief",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Department of Cannabis Control highlights potential for drought-related regulatory relief",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/06/department-of-cannabis-control-highlights-potential-for-drought-related-regulatory-relief/"
   }
 }

@@ -4,12 +4,12 @@
     "updated_date": "2023-02-04T00:58:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13106",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13106",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "californias-cannabis-advisory-committee-to-hold-subcommittee-meetings",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/",
     "title": "California&#8217;s Cannabis Advisory Committee to hold subcommittee meetings",
     "excerpt": "<p>The Cannabis Advisory Committee (CAC) will hold three subcommittee meetings during the month of February: &nbsp; &nbsp; &nbsp;Medicinal Use Subcommittee&nbsp;&nbsp; &nbsp; &nbsp;Monday, February 13, 2023 – 1 p.m.&nbsp; &nbsp; &nbsp;View the&nbsp;meeting agenda&nbsp;and&nbsp;information about the meeting. &nbsp; &nbsp; &nbsp;Cultivation Subcommittee&nbsp;&nbsp; &nbsp; &nbsp;Wednesday, February 15, 2023 &#8211; 9 a.m.&nbsp; &nbsp; &nbsp;View the&nbsp;meeting agenda&nbsp;and&nbsp;information about the meeting. &nbsp; [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/",
       "page_title": "California's Cannabis Advisory Committee to hold subcommittee meetings",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "California's Cannabis Advisory Committee to hold subcommittee meetings",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/",
       "open_graph_title": "California's Cannabis Advisory Committee to hold subcommittee meetings",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California's Cannabis Advisory Committee to hold subcommittee meetings",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/02/californias-cannabis-advisory-committee-to-hold-subcommittee-meetings/"
   }
 }

@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:47:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/9952",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/9952",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "good-news-for-cannabis-in-governors-budget",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/07/good-news-for-cannabis-in-governors-budget/",
     "title": "Good news for cannabis in Governor Newsom’s budget",
     "excerpt": "<p>Good Afternoon, Yesterday, Governor Gavin Newsom signed legislation implementing the 2022-23 state budget, including a trailer bill focused on measures that will bring tax relief to the cannabis industry, support equity businesses, strengthen enforcement tools against illegal cannabis operators, and protect youth, environmental, and public safety programs funded by cannabis tax revenue.&nbsp; The cannabis tax [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/07/good-news-for-cannabis-in-governors-budget/",
       "page_title": "Good news for cannabis in Governor Newsom’s budget",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Good news for cannabis in Governor Newsom’s budget",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/07/good-news-for-cannabis-in-governors-budget/",
       "open_graph_title": "Good news for cannabis in Governor Newsom’s budget",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Good news for cannabis in Governor Newsom’s budget",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/07/good-news-for-cannabis-in-governors-budget/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/07/good-news-for-cannabis-in-governors-budget/"
   }
 }

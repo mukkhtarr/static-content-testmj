@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:49:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/6245",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/6245",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/",
+    "link": "https://live-testmj-com.pantheonsite.io/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/",
     "title": "Bureau of Cannabis Control Announces Readoption of Emergency Cannabis Regulations",
     "excerpt": "<p>The Bureau of Cannabis Control’s (Bureau) emergency cannabis regulations were officially readopted on June 4, 2018, and are now in effect as of June 6, 2018.</p>\n",
     "author": 2,
@@ -57,12 +57,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/",
       "page_title": "Bureau of Cannabis Control Announces Readoption of Emergency Cannabis Regulations",
       "page_description": "The Bureau of Cannabis Control’s (Bureau) emergency cannabis regulations were officially readopted on June 4, 2018, and are now in effect as of June 6, 2018.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -71,7 +71,7 @@
       "page_social_image_alt": "",
       "meta_title": "Bureau of Cannabis Control Announces Readoption of Emergency Cannabis Regulations",
       "meta_description": "The Bureau of Cannabis Control’s (Bureau) emergency cannabis regulations were officially readopted on June 4, 2018, and are now in effect as of June 6, 2018.",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/",
       "open_graph_title": "Bureau of Cannabis Control Announces Readoption of Emergency Cannabis Regulations",
       "open_graph_description": "The Bureau of Cannabis Control’s (Bureau) emergency cannabis regulations were officially readopted on June 4, 2018, and are now in effect as of June 6, 2018.",
       "twitter_title": "Bureau of Cannabis Control Announces Readoption of Emergency Cannabis Regulations",
@@ -173,6 +173,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2018/06/bureau-of-cannabis-control-announces-readoption-of-emergency-cannabis-regulations/"
   }
 }

@@ -4,12 +4,12 @@
     "updated_date": "2022-10-07T20:13:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/12108",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/12108",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/",
     "title": "California Department of Cannabis Control solicits proposals for cannabis-related research",
     "excerpt": "<p>CALIFORNIA – The California Department of Cannabis Control (DCC) is soliciting proposals for research projects that advance public understanding of cannabis and its legalization. DCC will fund up to $20 million in cannabis-related academic research by California public universities and is prioritizing topics that will be instrumental in addressing gaps in scientific knowledge and guiding [&hellip;]</p>\n",
     "author": 22,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/",
       "page_title": "California Department of Cannabis Control solicits proposals for cannabis-related research",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "California Department of Cannabis Control solicits proposals for cannabis-related research",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/",
       "open_graph_title": "California Department of Cannabis Control solicits proposals for cannabis-related research",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California Department of Cannabis Control solicits proposals for cannabis-related research",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/10/california-department-of-cannabis-control-solicits-proposals-for-cannabis-related-research/"
   }
 }

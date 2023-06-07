@@ -4,12 +4,12 @@
     "updated_date": "2022-10-02T23:47:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/9084",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/9084",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/",
+    "link": "https://live-testmj-com.pantheonsite.io/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/",
     "title": "CDFW’s Cannabis Grant Program awards nearly $1 million for watershed remediation projects",
     "excerpt": "<p>The California Department of Fish and Wildlife (CDFW) issued this press release. Contact CDFW if you have any questions: Janice Mackey, janice.mackey@wildlife.ca.gov, CDFW Communications. CDFW today announced the selection of four projects to receive funding for watershed remediation and enhancement projects. The awards, totaling $966,649, were made under CDFW’s Cannabis Restoration Grant Program (CRGP) through [&hellip;]</p>\n",
     "author": 2,
@@ -57,12 +57,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/",
       "page_title": "CDFW’s Cannabis Grant Program awards nearly $1 million for watershed remediation projects",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -71,7 +71,7 @@
       "page_social_image_alt": "",
       "meta_title": "CDFW’s Cannabis Grant Program awards nearly $1 million for watershed remediation projects",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/",
       "open_graph_title": "CDFW’s Cannabis Grant Program awards nearly $1 million for watershed remediation projects",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CDFW’s Cannabis Grant Program awards nearly $1 million for watershed remediation projects",
@@ -173,6 +173,6 @@
       "custom_post_date": "2021-11-08",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2021/11/cdfws-cannabis-grant-program-awards-nearly-1-million-for-watershed-remediation-projects/"
   }
 }

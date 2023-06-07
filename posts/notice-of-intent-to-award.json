@@ -4,12 +4,12 @@
     "updated_date": "2023-02-27T18:03:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/13265",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13265",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "notice-of-intent-to-award",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/02/notice-of-intent-to-award/",
     "title": "Notice of Intent to Award",
     "excerpt": "<p>Amendment No. 1 Date amendment issued: 2/23/2023 This amendment No. 1 is being issued to correct the closing date of the protest period. Except as modified hereby, the Notice of Intent to Award remains unmodified. The Department of Cannabis Control intends to award solicitation No.&nbsp;RFP 22-002 For:&nbsp;Cannabis Consumer Awareness Campaign To:&nbsp;Fiona Hutton &amp; Associates Any [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/02/notice-of-intent-to-award/",
       "page_title": "Notice of Intent to Award",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Notice of Intent to Award",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/02/notice-of-intent-to-award/",
       "open_graph_title": "Notice of Intent to Award",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Notice of Intent to Award",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2023/02/notice-of-intent-to-award/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/02/notice-of-intent-to-award/"
   }
 }

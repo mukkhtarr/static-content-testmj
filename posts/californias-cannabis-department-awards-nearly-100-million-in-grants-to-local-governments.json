@@ -4,12 +4,12 @@
     "updated_date": "2022-10-24T20:30:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/9326",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/9326",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/",
     "title": "California’s cannabis department awards nearly $100 million in grants to local governments",
     "excerpt": "<p>SACRAMENTO, CA – The Department of Cannabis Control (DCC) has awarded nearly $100 million in grant funding through the Local Jurisdiction Assistance Grant Program. The program, proposed by Governor Newsom in the 2021-2022 budget and passed by the Legislature, provides funding for local jurisdictions to aid in more swiftly transitioning high numbers of provisional cannabis [&hellip;]</p>\n",
     "author": 2,
@@ -56,12 +56,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/",
       "page_title": "California’s cannabis department awards nearly $100 million in grants to local governments",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -70,7 +70,7 @@
       "page_social_image_alt": "",
       "meta_title": "California’s cannabis department awards nearly $100 million in grants to local governments",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/",
       "open_graph_title": "California’s cannabis department awards nearly $100 million in grants to local governments",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California’s cannabis department awards nearly $100 million in grants to local governments",
@@ -161,6 +161,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/01/californias-cannabis-department-awards-nearly-100-million-in-grants-to-local-governments/"
   }
 }

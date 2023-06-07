@@ -4,12 +4,12 @@
     "updated_date": "2022-12-07T18:12:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/12567",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/12567",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "dcc-tracks-promising-equity-practices-on-new-webpage",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/",
     "title": "DCC tracks Promising Equity Practices on new webpage",
     "excerpt": "<p>We are excited to introduce a new section of our Equity webpage called “Promising Practices” that is filled with dynamic stories about local programs providing important tools to help California’s equity applicants navigate the licensing process and achieve success in their cannabis business.&nbsp; They can be found on our website:&nbsp;www.cannabis.ca.gov/resources/equity When creating this section, the [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/",
       "page_title": "DCC tracks Promising Equity Practices on new webpage",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "DCC tracks Promising Equity Practices on new webpage",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/",
       "open_graph_title": "DCC tracks Promising Equity Practices on new webpage",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "DCC tracks Promising Equity Practices on new webpage",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-tracks-promising-equity-practices-on-new-webpage/"
   }
 }

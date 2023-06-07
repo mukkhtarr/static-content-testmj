@@ -4,12 +4,12 @@
     "updated_date": "2022-12-16T19:17:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "api_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/",
-    "object_url": "https://api.cannabis.ca.gov/wp-json/wp/v2/posts/12686",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/12686",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
-      "source_data": "https://api.cannabis.ca.gov",
-      "deployment_target": "https://github.com/cagov/static-content-cannabis/tree/main"
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
     },
     "refresh_frequency": "as needed"
   },
@@ -23,7 +23,7 @@
     "slug": "dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery",
     "status": "publish",
     "type": "post",
-    "link": "https://api.cannabis.ca.gov/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/",
+    "link": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/",
     "title": "DCC files emergency rulemaking action for Track and Trace requirements for cannabis goods delivery",
     "excerpt": "<p>The Department of Cannabis Control (DCC) has filed an emergency rulemaking action with the Office of Administrative Law (OAL) that implements Assembly Bill 195, which requires that information relating to cannabis goods leaving a licensed retail premises in a delivery vehicle be recorded in the statewide track and trace system. The public comment period for [&hellip;]</p>\n",
     "author": 15,
@@ -50,12 +50,12 @@
         "plugin": "autodescription",
         "plugin_name": "The SEO Framework",
         "plugin_version": "4.1.5.1",
-        "editor_url": "https://api.cannabis.ca.gov"
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
       },
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
-      "site_url": "https://api.cannabis.ca.gov",
-      "canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/",
       "page_title": "DCC files emergency rulemaking action for Track and Trace requirements for cannabis goods delivery",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "DCC files emergency rulemaking action for Track and Trace requirements for cannabis goods delivery",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://api.cannabis.ca.gov/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/",
       "open_graph_title": "DCC files emergency rulemaking action for Track and Trace requirements for cannabis goods delivery",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "DCC files emergency rulemaking action for Track and Trace requirements for cannabis goods delivery",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://api.cannabis.ca.gov/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2022/12/dcc-files-emergency-rulemaking-action-for-track-and-trace-requirements-for-cannabis-goods-delivery/"
   }
 }
