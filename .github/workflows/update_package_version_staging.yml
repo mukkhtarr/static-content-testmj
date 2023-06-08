@@ -59,6 +59,6 @@ jobs:
         # description: "Send signal to static site generation repo to trigger an update."
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MUKHTAR_GITHUB_TOKEN }}
           repository: mukkhtarr/testmj.com
           event-type: static_content_update_staging
