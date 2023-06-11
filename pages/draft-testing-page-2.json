@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-11-30T21:43:27",
-    "updated_date": "2022-12-29T18:25:49",
+    "created_date": "2023-04-27T23:29:29",
+    "updated_date": "2023-04-27T23:29:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/12421",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/13574",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,33 +14,35 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 12421,
-    "date": "2022-11-30T13:43:27",
-    "date_gmt": "2022-11-30T21:43:27",
-    "guid": "https://api.cannabis.ca.gov/?page_id=12421",
-    "modified": "2022-12-29T10:25:49",
-    "modified_gmt": "2022-12-29T18:25:49",
-    "slug": "make-a-payment",
+    "id": 13574,
+    "date": "2023-04-27T16:29:29",
+    "date_gmt": "2023-04-27T23:29:29",
+    "guid": "https://api.cannabis.ca.gov/?page_id=13574",
+    "modified": "2023-04-27T16:29:34",
+    "modified_gmt": "2023-04-27T23:29:34",
+    "slug": "draft-testing-page-2",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/",
-    "title": "Make a payment",
-    "excerpt": "<p>Visit our offices You can visit our offices in Rancho Cordova or Eureka for the following services: Schedule a payment appointment Make a payment for an application, license, or renewal fee Inquire about your license or application payment status North Hollywood office coming Spring 2023! Payment hours of operation Eureka office: Monday through Thursday from [&hellip;]</p>\n",
-    "author": 15,
+    "link": "https://live-testmj-com.pantheonsite.io/draft-testing-page-2/",
+    "title": "DRAFT Testing-page-2",
+    "excerpt": "",
+    "author": 27,
     "featured_media": 0,
-    "parent": 759,
-    "menu_order": 4,
+    "parent": 0,
+    "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +55,37 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/",
-      "page_title": "Make a payment",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/draft-testing-page-2/",
+      "page_title": "DRAFT Testing-page-2",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Make a payment",
+      "meta_title": "DRAFT Testing-page-2",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/",
-      "open_graph_title": "Make a payment",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/draft-testing-page-2/",
+      "open_graph_title": "DRAFT Testing-page-2",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Make a payment",
+      "twitter_title": "DRAFT Testing-page-2",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/make-a-payment/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/draft-testing-page-2/"
   }
 }
