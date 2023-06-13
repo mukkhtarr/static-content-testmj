@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-13T19:45:01",
-    "updated_date": "2023-06-13T19:50:14",
+    "updated_date": "2023-06-13T19:50:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-13T12:45:01",
     "date_gmt": "2023-06-13T19:45:01",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13616",
-    "modified": "2023-06-13T12:50:14",
-    "modified_gmt": "2023-06-13T19:50:14",
+    "modified": "2023-06-13T12:50:20",
+    "modified_gmt": "2023-06-13T19:50:20",
     "slug": "mukhtar",
     "status": "publish",
     "type": "page",
