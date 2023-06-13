@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-13T19:45:01",
-    "updated_date": "2023-06-13T19:50:20",
+    "updated_date": "2023-06-13T19:54:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-13T12:45:01",
     "date_gmt": "2023-06-13T19:45:01",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13616",
-    "modified": "2023-06-13T12:50:20",
-    "modified_gmt": "2023-06-13T19:50:20",
+    "modified": "2023-06-13T12:54:29",
+    "modified_gmt": "2023-06-13T19:54:29",
     "slug": "mukhtar",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/mukhtar/",
     "title": "Mukhtar",
-    "excerpt": "<p>Test</p>\n",
+    "excerpt": "<p>Test staging</p>\n",
     "author": 33,
     "featured_media": 0,
     "parent": 0,
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -69,7 +71,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/mukhtar/"
