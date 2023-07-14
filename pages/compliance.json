@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "created_date": "2023-07-14T21:55:06",
+    "updated_date": "2023-07-14T21:55:11",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/13716",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13716,
+    "date": "2023-07-14T14:55:06",
+    "date_gmt": "2023-07-14T21:55:06",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13716",
+    "modified": "2023-07-14T14:55:11",
+    "modified_gmt": "2023-07-14T21:55:11",
+    "slug": "compliance",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/compliance/",
+    "title": "Compliance",
+    "excerpt": "<p>DCC partners with local jurisdictions and other state agencies to uphold California’s commercial cannabis laws and regulations, through both routine inspections of license holders, as well as coordinated investigations.  Query loop. Category = compliance</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 13701,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/compliance/",
+      "page_title": "Compliance",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Compliance",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/compliance/",
+      "open_graph_title": "Compliance",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Compliance",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/compliance/"
+  }
+}
