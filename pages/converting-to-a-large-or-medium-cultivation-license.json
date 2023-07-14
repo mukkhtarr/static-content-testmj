@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-14T21:51:44",
-    "updated_date": "2023-07-14T21:51:50",
+    "updated_date": "2023-07-14T21:52:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2023-07-14T14:51:44",
     "date_gmt": "2023-07-14T21:51:44",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13710",
-    "modified": "2023-07-14T14:51:50",
-    "modified_gmt": "2023-07-14T21:51:50",
+    "modified": "2023-07-14T14:52:21",
+    "modified_gmt": "2023-07-14T21:52:21",
     "slug": "converting-to-a-large-or-medium-cultivation-license",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/converting-to-a-large-or-medium-cultivation-license/",
+    "link": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/converting-to-a-large-or-medium-cultivation-license/",
     "title": "Converting to a Large or Medium cultivation license",
     "excerpt": "<p>Starting January 1, 2023, an eligible licensee may convert active and previously active cultivation licenses into a Large (Type 5, 5A, or 5B) or Medium cultivation license. Additionally, a licensee may hold more than one Medium cultivation license. Query loop. Category = license conversions</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 13701,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -53,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/converting-to-a-large-or-medium-cultivation-license/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/converting-to-a-large-or-medium-cultivation-license/",
       "page_title": "Converting to a Large or Medium cultivation license",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,7 +62,7 @@
       "page_social_image_alt": "",
       "meta_title": "Converting to a Large or Medium cultivation license",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/converting-to-a-large-or-medium-cultivation-license/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/converting-to-a-large-or-medium-cultivation-license/",
       "open_graph_title": "Converting to a Large or Medium cultivation license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Converting to a Large or Medium cultivation license",
@@ -72,6 +72,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/converting-to-a-large-or-medium-cultivation-license/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/converting-to-a-large-or-medium-cultivation-license/"
   }
 }
