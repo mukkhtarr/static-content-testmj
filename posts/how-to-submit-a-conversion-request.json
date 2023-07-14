@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "created_date": "2023-07-14T22:26:44",
+    "updated_date": "2023-07-14T22:26:50",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13737",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13737,
+    "date": "2023-07-14T15:26:44",
+    "date_gmt": "2023-07-14T22:26:44",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=13737",
+    "modified": "2023-07-14T15:26:50",
+    "modified_gmt": "2023-07-14T22:26:50",
+    "slug": "how-to-submit-a-conversion-request",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-a-conversion-request/",
+    "title": "How to Submit a Conversion Request",
+    "excerpt": "<p>Cultivation Licensing System (CLS) Quick Reference Guide https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/01/Guidance_How-to-Request-License-Conversion.pdf</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "License conversion"
+    ],
+    "tags": [
+      "cls"
+    ],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-a-conversion-request/",
+      "page_title": "How to Submit a Conversion Request",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "How to Submit a Conversion Request",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-a-conversion-request/",
+      "open_graph_title": "How to Submit a Conversion Request",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "How to Submit a Conversion Request",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 800,
+        "name": "License conversion",
+        "slug": "license-conversion",
+        "term_group": 0,
+        "term_taxonomy_id": 800,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 798,
+        "filter": "raw",
+        "cat_ID": 800,
+        "category_description": "",
+        "cat_name": "License conversion",
+        "category_nicename": "license-conversion",
+        "category_parent": 798
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 809,
+        "name": "cls",
+        "slug": "cls",
+        "term_group": 0,
+        "term_taxonomy_id": 809,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-a-conversion-request/"
+  }
+}
