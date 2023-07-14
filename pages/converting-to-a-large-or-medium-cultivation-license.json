@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-14T21:51:44",
-    "updated_date": "2023-07-14T21:52:21",
+    "updated_date": "2023-07-14T22:28:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-14T14:51:44",
     "date_gmt": "2023-07-14T21:51:44",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13710",
-    "modified": "2023-07-14T14:52:21",
-    "modified_gmt": "2023-07-14T21:52:21",
+    "modified": "2023-07-14T15:28:52",
+    "modified_gmt": "2023-07-14T22:28:52",
     "slug": "converting-to-a-large-or-medium-cultivation-license",
     "status": "publish",
     "type": "page",
