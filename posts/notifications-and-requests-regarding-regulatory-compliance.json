@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-14T22:13:28",
-    "updated_date": "2023-07-14T22:13:34",
+    "updated_date": "2023-07-14T22:20:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-14T15:13:28",
     "date_gmt": "2023-07-14T22:13:28",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13735",
-    "modified": "2023-07-14T15:13:34",
-    "modified_gmt": "2023-07-14T22:13:34",
+    "modified": "2023-07-14T15:20:15",
+    "modified_gmt": "2023-07-14T22:20:15",
     "slug": "notifications-and-requests-regarding-regulatory-compliance",
     "status": "publish",
     "type": "post",
@@ -38,8 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Provisional license forms",
-      "Provisional licenses"
+      "Provisional license forms"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,22 +86,6 @@
         "cat_name": "Provisional license forms",
         "category_nicename": "provisional-license-forms",
         "category_parent": 799
-      },
-      {
-        "term_id": 799,
-        "name": "Provisional licenses",
-        "slug": "provisional-licenses",
-        "term_group": 0,
-        "term_taxonomy_id": 799,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 798,
-        "filter": "raw",
-        "cat_ID": 799,
-        "category_description": "",
-        "cat_name": "Provisional licenses",
-        "category_nicename": "provisional-licenses",
-        "category_parent": 798
       }
     ],
     "headless_tags": [],
