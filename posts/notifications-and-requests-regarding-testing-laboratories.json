@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-14T22:10:56",
-    "updated_date": "2023-07-14T22:11:01",
+    "updated_date": "2023-07-14T22:12:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-14T15:10:56",
     "date_gmt": "2023-07-14T22:10:56",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13733",
-    "modified": "2023-07-14T15:11:01",
-    "modified_gmt": "2023-07-14T22:11:01",
+    "modified": "2023-07-14T15:12:16",
+    "modified_gmt": "2023-07-14T22:12:16",
     "slug": "notifications-and-requests-regarding-testing-laboratories",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "CannaConnect"
+      "CannaConnect",
+      "Provisional license forms"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "cat_name": "CannaConnect",
         "category_nicename": "cannaconnect",
         "category_parent": 0
+      },
+      {
+        "term_id": 807,
+        "name": "Provisional license forms",
+        "slug": "provisional-license-forms",
+        "term_group": 0,
+        "term_taxonomy_id": 807,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 807,
+        "category_description": "",
+        "cat_name": "Provisional license forms",
+        "category_nicename": "provisional-license-forms",
+        "category_parent": 799
       }
     ],
     "headless_tags": [],
