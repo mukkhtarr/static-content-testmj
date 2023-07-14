@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "created_date": "2023-07-14T22:39:06",
+    "updated_date": "2023-07-14T22:39:12",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13775",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13775,
+    "date": "2023-07-14T15:39:06",
+    "date_gmt": "2023-07-14T22:39:06",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=13775",
+    "modified": "2023-07-14T15:39:12",
+    "modified_gmt": "2023-07-14T22:39:12",
+    "slug": "what-to-expect-when-youre-inspected",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/07/what-to-expect-when-youre-inspected/",
+    "title": "What to Expect When You&#8217;re Inspected",
+    "excerpt": "<p>For businessowners, the word “inspection” can cause anxiety. The Department of Cannabis Control (DCC) wants to remove the anxiety from the process and serve as a resource and a partner for licensees — every step of the way. Download the flyer</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Compliance"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/what-to-expect-when-youre-inspected/",
+      "page_title": "What to Expect When You're Inspected",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "What to Expect When You're Inspected",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/what-to-expect-when-youre-inspected/",
+      "open_graph_title": "What to Expect When You're Inspected",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "What to Expect When You're Inspected",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 802,
+        "name": "Compliance",
+        "slug": "compliance",
+        "term_group": 0,
+        "term_taxonomy_id": 802,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 798,
+        "filter": "raw",
+        "cat_ID": 802,
+        "category_description": "",
+        "cat_name": "Compliance",
+        "category_nicename": "compliance",
+        "category_parent": 798
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/what-to-expect-when-youre-inspected/"
+  }
+}
