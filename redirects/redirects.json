@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 57,
+      "redirects": 60,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1855,6 +1855,32 @@
       "enabled": true
     },
     {
+      "id": 306,
+      "url": "/provisional-licensees/",
+      "match_url": "/provisional-licensees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannaconnect-dynamic-content/provisional-licensees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 57,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 232,
       "url": "/licensee-profile-mitchell/",
       "match_url": "/licensee-profile-mitchell",
@@ -1881,6 +1907,32 @@
       "enabled": true
     },
     {
+      "id": 307,
+      "url": "/converting-to-a-large-or-medium-cultivation-license/",
+      "match_url": "/converting-to-a-large-or-medium-cultivation-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannaconnect-dynamic-content/converting-to-a-large-or-medium-cultivation-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 58,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
       "id": 233,
       "url": "/licensee-profile-lutz/",
       "match_url": "/licensee-profile-lutz",
@@ -1896,6 +1948,32 @@
       "action_type": "url",
       "action_data": {
         "url": "/about-us/public-awareness-campaigns-2/this-is-california-cannabis/licensee-profile-lutz/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 59,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 308,
+      "url": "/using-track-and-trace/",
+      "match_url": "/using-track-and-trace",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannaconnect-dynamic-content/using-track-and-trace/"
       },
       "match_type": "url",
       "title": "",
