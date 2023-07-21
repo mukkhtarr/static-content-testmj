@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-07-14T22:43:55",
-    "updated_date": "2023-07-14T22:44:00",
+    "created_date": "2023-07-21T16:55:57",
+    "updated_date": "2023-07-21T16:56:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/13783",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/13821",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 13783,
-    "date": "2023-07-14T15:43:55",
-    "date_gmt": "2023-07-14T22:43:55",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13783",
-    "modified": "2023-07-14T15:44:00",
-    "modified_gmt": "2023-07-14T22:44:00",
+    "id": 13821,
+    "date": "2023-07-21T09:55:57",
+    "date_gmt": "2023-07-21T16:55:57",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13821",
+    "modified": "2023-07-21T09:56:03",
+    "modified_gmt": "2023-07-21T16:56:03",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/workers-rights/labor-peace-agreements/",
+    "link": "https://live-testmj-com.pantheonsite.io/labor-peace-agreements/",
     "title": "Labor Peace Agreements",
-    "excerpt": "<p>State law requires many commercial cannabis licensees to enter into, and abide by, labor peace agreements.</p>\n",
+    "excerpt": "",
     "author": 32,
     "featured_media": 0,
-    "parent": 13718,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,9 +37,7 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [
-      "Workplace safety"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -55,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/workers-rights/labor-peace-agreements/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/labor-peace-agreements/",
       "page_title": "Labor Peace Agreements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,33 +62,16 @@
       "page_social_image_alt": "",
       "meta_title": "Labor Peace Agreements",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/workers-rights/labor-peace-agreements/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/labor-peace-agreements/",
       "open_graph_title": "Labor Peace Agreements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Labor Peace Agreements",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 803,
-        "name": "Workplace safety",
-        "slug": "workplace-safety",
-        "term_group": 0,
-        "term_taxonomy_id": 803,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 810,
-        "filter": "raw",
-        "cat_ID": 803,
-        "category_description": "",
-        "cat_name": "Workplace safety",
-        "category_nicename": "workplace-safety",
-        "category_parent": 810
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/workers-rights/labor-peace-agreements/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/labor-peace-agreements/"
   }
 }
