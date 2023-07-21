@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-21T16:55:57",
-    "updated_date": "2023-07-21T16:57:01",
+    "updated_date": "2023-07-21T17:56:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-21T09:55:57",
     "date_gmt": "2023-07-21T16:55:57",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13821",
-    "modified": "2023-07-21T09:57:01",
-    "modified_gmt": "2023-07-21T16:57:01",
+    "modified": "2023-07-21T10:56:35",
+    "modified_gmt": "2023-07-21T17:56:35",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "page",
