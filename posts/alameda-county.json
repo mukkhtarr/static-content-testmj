@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-21T16:42:23",
-    "updated_date": "2023-07-21T16:59:04",
+    "updated_date": "2023-07-21T16:59:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-21T09:42:23",
     "date_gmt": "2023-07-21T16:42:23",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13813",
-    "modified": "2023-07-21T09:59:04",
-    "modified_gmt": "2023-07-21T16:59:04",
+    "modified": "2023-07-21T09:59:09",
+    "modified_gmt": "2023-07-21T16:59:09",
     "slug": "alameda-county",
     "status": "publish",
     "type": "post",
