@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-07-21T16:52:39",
+    "updated_date": "2023-07-21T16:52:45",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13819",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13819,
+    "date": "2023-07-21T09:52:39",
+    "date_gmt": "2023-07-21T16:52:39",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=13819",
+    "modified": "2023-07-21T09:52:45",
+    "modified_gmt": "2023-07-21T16:52:45",
+    "slug": "los-angeles-county-teamsters",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/07/los-angeles-county-teamsters/",
+    "title": "Los Angeles County-Teamsters",
+    "excerpt": "<p>Labor Organization Name Document Link Zen Healing Collective Corporation C11-0000265-LIC</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Labor Peace",
+      "Teamsters"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/los-angeles-county-teamsters/",
+      "page_title": "Los Angeles County-Teamsters",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Los Angeles County-Teamsters",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/los-angeles-county-teamsters/",
+      "open_graph_title": "Los Angeles County-Teamsters",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Los Angeles County-Teamsters",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 812,
+        "name": "Labor Peace",
+        "slug": "labor-peace-2",
+        "term_group": 0,
+        "term_taxonomy_id": 812,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 812,
+        "category_description": "",
+        "cat_name": "Labor Peace",
+        "category_nicename": "labor-peace-2",
+        "category_parent": 0
+      },
+      {
+        "term_id": 815,
+        "name": "Teamsters",
+        "slug": "teamsters",
+        "term_group": 0,
+        "term_taxonomy_id": 815,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 813,
+        "filter": "raw",
+        "cat_ID": 815,
+        "category_description": "",
+        "cat_name": "Teamsters",
+        "category_nicename": "teamsters",
+        "category_parent": 813
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/los-angeles-county-teamsters/"
+  }
+}
