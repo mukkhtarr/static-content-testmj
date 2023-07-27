@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-20T18:13:31",
-    "updated_date": "2023-04-20T18:24:33",
+    "updated_date": "2023-07-27T16:53:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-20T11:13:31",
     "date_gmt": "2023-04-20T18:13:31",
     "guid": "https://api.cannabis.ca.gov/?p=13546",
-    "modified": "2023-04-20T11:24:33",
-    "modified_gmt": "2023-04-20T18:24:33",
+    "modified": "2023-07-27T09:53:07",
+    "modified_gmt": "2023-07-27T16:53:07",
     "slug": "on-4-20-department-of-cannabis-control-recognizes-equity-cannabis-retailers",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Announcements",
+      "Licensee news"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "cat_name": "Announcements",
         "category_nicename": "announcements",
         "category_parent": 0
+      },
+      {
+        "term_id": 820,
+        "name": "Licensee news",
+        "slug": "licensee-news",
+        "term_group": 0,
+        "term_taxonomy_id": 820,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 820,
+        "category_description": "",
+        "cat_name": "Licensee news",
+        "category_nicename": "licensee-news",
+        "category_parent": 14
       }
     ],
     "headless_tags": [],
