@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-20T17:37:28",
-    "updated_date": "2023-07-27T16:57:07",
+    "updated_date": "2023-07-27T17:01:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-20T10:37:28",
     "date_gmt": "2023-07-20T17:37:28",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13807",
-    "modified": "2023-07-27T09:57:07",
-    "modified_gmt": "2023-07-27T16:57:07",
+    "modified": "2023-07-27T10:01:52",
+    "modified_gmt": "2023-07-27T17:01:52",
     "slug": "query-loop-cannaconnect",
     "status": "publish",
     "type": "page",
