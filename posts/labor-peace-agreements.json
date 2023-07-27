@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-07-27T16:44:33",
+    "updated_date": "2023-07-27T16:44:39",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13853",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13853,
+    "date": "2023-07-27T09:44:33",
+    "date_gmt": "2023-07-27T16:44:33",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=13853",
+    "modified": "2023-07-27T09:44:39",
+    "modified_gmt": "2023-07-27T16:44:39",
+    "slug": "labor-peace-agreements",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements/",
+    "title": "Labor Peace Agreements",
+    "excerpt": "<p>State law requires many commercial cannabis licensees to enter into, and abide by, labor peace agreements. Check out our labor peace agreement FAQ.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Worker's Rights",
+      "Workplace Safety"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements/",
+      "page_title": "Labor Peace Agreements",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Labor Peace Agreements",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements/",
+      "open_graph_title": "Labor Peace Agreements",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Labor Peace Agreements",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 810,
+        "name": "Worker's Rights",
+        "slug": "workers-rights",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "Worker's Rights",
+        "category_nicename": "workers-rights",
+        "category_parent": 0
+      },
+      {
+        "term_id": 819,
+        "name": "Workplace Safety",
+        "slug": "workplace-safety-cannaconnect",
+        "term_group": 0,
+        "term_taxonomy_id": 819,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 798,
+        "filter": "raw",
+        "cat_ID": 819,
+        "category_description": "",
+        "cat_name": "Workplace Safety",
+        "category_nicename": "workplace-safety-cannaconnect",
+        "category_parent": 798
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements/"
+  }
+}
