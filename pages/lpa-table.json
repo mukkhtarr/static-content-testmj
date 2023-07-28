@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-19T20:24:12",
-    "updated_date": "2023-07-27T15:18:01",
+    "updated_date": "2023-07-28T20:37:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-07-19T13:24:12",
     "date_gmt": "2023-07-19T20:24:12",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13802",
-    "modified": "2023-07-27T08:18:01",
-    "modified_gmt": "2023-07-27T15:18:01",
+    "modified": "2023-07-28T13:37:58",
+    "modified_gmt": "2023-07-28T20:37:58",
     "slug": "lpa-table",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/lpa-table/",
-    "title": "LPA Table",
-    "excerpt": "<p>License Number Legal Business Name Labor Organization Name Expiration County C9-0000683-LIC Lacc, LLC UFCW Local 770 1/1/2024 Alameda C9-0000701-LIC Expedite Retail Solutions, LLC UFCW 1/1/2024 Alameda C10-0001101-LIC 1261 Wishon Opco, LLC UFCW 1/1/2024 Alameda C10-0001197-LIC 1854 Newport Investments LLC UFCW 1/1/2024 Alameda C10-0000865-LIC 316 Florence Holdings, LLC UFCW 1/1/2024 Alameda C10-0000115-LIC 3242 Enterprises, Inc. UFCW [&hellip;]</p>\n",
+    "title": "Labor peace agreement contracts",
+    "excerpt": "<p>The table below includes cannabis licensees with whom DCC has a full or partial Labor Peace Agreement (LPA) on file. To request a copy of the full or partial LPA, contact DCC. License Number Legal Business Name Labor Organization Name Expiration County C9-0000683-LIC Lacc, LLC UFCW Local 770 1/1/2024 Alameda C9-0000701-LIC Expedite Retail Solutions, LLC [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
     "parent": 0,
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Labor Peace"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
@@ -54,21 +56,38 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/lpa-table/",
-      "page_title": "LPA Table",
+      "page_title": "Labor peace agreement contracts",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "LPA Table",
+      "meta_title": "Labor peace agreement contracts",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/lpa-table/",
-      "open_graph_title": "LPA Table",
+      "open_graph_title": "Labor peace agreement contracts",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "LPA Table",
+      "twitter_title": "Labor peace agreement contracts",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 812,
+        "name": "Labor Peace",
+        "slug": "labor-peace-2",
+        "term_group": 0,
+        "term_taxonomy_id": 812,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 812,
+        "category_description": "",
+        "cat_name": "Labor Peace",
+        "category_nicename": "labor-peace-2",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
