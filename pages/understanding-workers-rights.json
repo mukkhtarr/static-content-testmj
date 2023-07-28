@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-28T20:27:14",
-    "updated_date": "2023-07-28T20:27:20",
+    "updated_date": "2023-07-28T20:41:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-28T13:27:14",
     "date_gmt": "2023-07-28T20:27:14",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13899",
-    "modified": "2023-07-28T13:27:20",
-    "modified_gmt": "2023-07-28T20:27:20",
+    "modified": "2023-07-28T13:41:32",
+    "modified_gmt": "2023-07-28T20:41:32",
     "slug": "understanding-workers-rights",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [
-      "Labor Peace"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -70,24 +68,7 @@
       "twitter_title": "Understanding worker's rights",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 812,
-        "name": "Labor Peace",
-        "slug": "labor-peace-2",
-        "term_group": 0,
-        "term_taxonomy_id": 812,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 812,
-        "category_description": "",
-        "cat_name": "Labor Peace",
-        "category_nicename": "labor-peace-2",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
