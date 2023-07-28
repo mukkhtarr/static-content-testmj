@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-28T20:27:14",
-    "updated_date": "2023-07-28T20:41:32",
+    "updated_date": "2023-07-28T21:16:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-28T13:27:14",
     "date_gmt": "2023-07-28T20:27:14",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13899",
-    "modified": "2023-07-28T13:41:32",
-    "modified_gmt": "2023-07-28T20:41:32",
+    "modified": "2023-07-28T14:16:56",
+    "modified_gmt": "2023-07-28T21:16:56",
     "slug": "understanding-workers-rights",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Worker's Rights"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -68,7 +70,24 @@
       "twitter_title": "Understanding worker's rights",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 810,
+        "name": "Worker's Rights",
+        "slug": "workers-rights",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "Worker's Rights",
+        "category_nicename": "workers-rights",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
