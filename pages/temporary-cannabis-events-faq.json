@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "created_date": "2023-07-28T23:16:54",
+    "updated_date": "2023-07-28T23:16:59",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/13962",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13962,
+    "date": "2023-07-28T16:16:54",
+    "date_gmt": "2023-07-28T23:16:54",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13962",
+    "modified": "2023-07-28T16:16:59",
+    "modified_gmt": "2023-07-28T23:16:59",
+    "slug": "temporary-cannabis-events-faq",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/",
+    "title": "Temporary cannabis events FAQ",
+    "excerpt": "",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Cannabis events",
+      "FAQs"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/",
+      "page_title": "Temporary cannabis events FAQ",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Temporary cannabis events FAQ",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/",
+      "open_graph_title": "Temporary cannabis events FAQ",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Temporary cannabis events FAQ",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 806,
+        "name": "Cannabis events",
+        "slug": "cannabis-events",
+        "term_group": 0,
+        "term_taxonomy_id": 806,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 806,
+        "category_description": "",
+        "cat_name": "Cannabis events",
+        "category_nicename": "cannabis-events",
+        "category_parent": 0
+      },
+      {
+        "term_id": 6,
+        "name": "FAQs",
+        "slug": "faqs",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 6,
+        "category_description": "",
+        "cat_name": "FAQs",
+        "category_nicename": "faqs",
+        "category_parent": 2
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/"
+  }
+}
