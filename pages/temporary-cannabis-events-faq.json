@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-28T23:16:54",
-    "updated_date": "2023-07-28T23:16:59",
+    "updated_date": "2023-07-28T23:18:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2023-07-28T16:16:54",
     "date_gmt": "2023-07-28T23:16:54",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=13962",
-    "modified": "2023-07-28T16:16:59",
-    "modified_gmt": "2023-07-28T23:16:59",
+    "modified": "2023-07-28T16:18:04",
+    "modified_gmt": "2023-07-28T23:18:04",
     "slug": "temporary-cannabis-events-faq",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/",
+    "link": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/temporary-cannabis-events/temporary-cannabis-events-faq/",
     "title": "Temporary cannabis events FAQ",
     "excerpt": "",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 13724,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/temporary-cannabis-events/temporary-cannabis-events-faq/",
       "page_title": "Temporary cannabis events FAQ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Temporary cannabis events FAQ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/temporary-cannabis-events/temporary-cannabis-events-faq/",
       "open_graph_title": "Temporary cannabis events FAQ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Temporary cannabis events FAQ",
@@ -108,6 +108,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/temporary-cannabis-events-faq/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannaconnect-dynamic-content/temporary-cannabis-events/temporary-cannabis-events-faq/"
   }
 }
