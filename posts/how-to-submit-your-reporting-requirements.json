@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-07-27T16:43:43",
-    "updated_date": "2023-07-28T21:50:06",
+    "created_date": "2023-07-28T23:28:57",
+    "updated_date": "2023-07-28T23:29:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13851",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13974",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,37 +14,36 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 13851,
-    "date": "2023-07-27T09:43:43",
-    "date_gmt": "2023-07-27T16:43:43",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=13851",
-    "modified": "2023-07-28T14:50:06",
-    "modified_gmt": "2023-07-28T21:50:06",
-    "slug": "labor-violations-or-wage-theft",
+    "id": 13974,
+    "date": "2023-07-28T16:28:57",
+    "date_gmt": "2023-07-28T23:28:57",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=13974",
+    "modified": "2023-07-28T16:29:03",
+    "modified_gmt": "2023-07-28T23:29:03",
+    "slug": "how-to-submit-your-reporting-requirements",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/07/labor-violations-or-wage-theft/",
-    "title": "Labor violations or wage theft",
-    "excerpt": "<p>Experiencing labor violations or wage theft? File a complaint with the Department of Industrial Relations.</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-your-reporting-requirements/",
+    "title": "How to submit your reporting requirements  ",
+    "excerpt": "<p>Cultivation, nursery, and processor licenses&nbsp;&nbsp; Submit electricity usage information, such as the Electricity Reporting Worksheet, via a Science Amendment prior to the license expiration date.&nbsp;&nbsp; Microbusiness licenses with cultivation activities&nbsp; Email the electricity usage information, such as the Electricity Reporting Worksheet, to the Environmental Evaluation Office at&nbsp;environmentalreview@cannabis.ca.gov&nbsp;prior to the license expiration date.&nbsp;&nbsp;</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Worker's Rights",
-      "Workplace Safety",
-      "Workplace safety"
+      "CannaConnect",
+      "Electricity usage"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -57,69 +56,53 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-violations-or-wage-theft/",
-      "page_title": "Labor violations or wage theft",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-your-reporting-requirements/",
+      "page_title": "How to submit your reporting requirements  ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Labor violations or wage theft",
+      "meta_title": "How to submit your reporting requirements  ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-violations-or-wage-theft/",
-      "open_graph_title": "Labor violations or wage theft",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-your-reporting-requirements/",
+      "open_graph_title": "How to submit your reporting requirements  ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Labor violations or wage theft",
+      "twitter_title": "How to submit your reporting requirements  ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 810,
-        "name": "Worker's Rights",
-        "slug": "workers-rights",
+        "term_id": 798,
+        "name": "CannaConnect",
+        "slug": "cannaconnect",
         "term_group": 0,
-        "term_taxonomy_id": 810,
+        "term_taxonomy_id": 798,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 810,
+        "cat_ID": 798,
         "category_description": "",
-        "cat_name": "Worker's Rights",
-        "category_nicename": "workers-rights",
+        "cat_name": "CannaConnect",
+        "category_nicename": "cannaconnect",
         "category_parent": 0
       },
       {
-        "term_id": 819,
-        "name": "Workplace Safety",
-        "slug": "workplace-safety-cannaconnect",
+        "term_id": 805,
+        "name": "Electricity usage",
+        "slug": "electricity-usage",
         "term_group": 0,
-        "term_taxonomy_id": 819,
+        "term_taxonomy_id": 805,
         "taxonomy": "category",
         "description": "",
         "parent": 798,
         "filter": "raw",
-        "cat_ID": 819,
+        "cat_ID": 805,
         "category_description": "",
-        "cat_name": "Workplace Safety",
-        "category_nicename": "workplace-safety-cannaconnect",
+        "cat_name": "Electricity usage",
+        "category_nicename": "electricity-usage",
         "category_parent": 798
-      },
-      {
-        "term_id": 803,
-        "name": "Workplace safety",
-        "slug": "workplace-safety",
-        "term_group": 0,
-        "term_taxonomy_id": 803,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 810,
-        "filter": "raw",
-        "cat_ID": 803,
-        "category_description": "",
-        "cat_name": "Workplace safety",
-        "category_nicename": "workplace-safety",
-        "category_parent": 810
       }
     ],
     "headless_tags": [],
@@ -133,6 +116,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-violations-or-wage-theft/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/how-to-submit-your-reporting-requirements/"
   }
 }
