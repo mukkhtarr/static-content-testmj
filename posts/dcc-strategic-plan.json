@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-28T17:49:24",
-    "updated_date": "2023-07-28T18:17:19",
+    "updated_date": "2023-07-28T18:17:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-28T10:49:24",
     "date_gmt": "2023-07-28T17:49:24",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13884",
-    "modified": "2023-07-28T11:17:19",
-    "modified_gmt": "2023-07-28T18:17:19",
+    "modified": "2023-07-28T11:17:46",
+    "modified_gmt": "2023-07-28T18:17:46",
     "slug": "dcc-strategic-plan",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "About DCC"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 821,
+        "name": "About DCC",
+        "slug": "about-dcc",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 821,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 821,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "About DCC",
+        "category_nicename": "about-dcc",
         "category_parent": 0
       }
     ],
