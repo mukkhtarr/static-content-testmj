@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-08-30T18:25:37",
-    "updated_date": "2023-07-28T21:28:32",
+    "updated_date": "2023-07-28T21:39:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-08-30T11:25:37",
     "date_gmt": "2022-08-30T18:25:37",
     "guid": "https://cannabis.ca.gov/?page_id=11368",
-    "modified": "2023-07-28T14:28:32",
-    "modified_gmt": "2023-07-28T21:28:32",
+    "modified": "2023-07-28T14:39:29",
+    "modified_gmt": "2023-07-28T21:39:29",
     "slug": "labor-peace-agreements-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Labor Peace"
+      "Labor Peace",
+      "Worker's Rights"
     ],
     "tags": [],
     "design_system_fields": {
@@ -86,6 +87,22 @@
         "cat_name": "Labor Peace",
         "category_nicename": "labor-peace",
         "category_parent": 810
+      },
+      {
+        "term_id": 810,
+        "name": "Worker's Rights",
+        "slug": "workers-rights",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "Worker's Rights",
+        "category_nicename": "workers-rights",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
