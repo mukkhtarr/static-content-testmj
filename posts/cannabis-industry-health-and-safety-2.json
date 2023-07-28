@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-27T16:42:55",
-    "updated_date": "2023-07-28T21:58:00",
+    "updated_date": "2023-07-28T21:58:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-27T09:42:55",
     "date_gmt": "2023-07-27T16:42:55",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13849",
-    "modified": "2023-07-28T14:58:00",
-    "modified_gmt": "2023-07-28T21:58:00",
+    "modified": "2023-07-28T14:58:06",
+    "modified_gmt": "2023-07-28T21:58:06",
     "slug": "cannabis-industry-health-and-safety-2",
     "status": "publish",
     "type": "post",
