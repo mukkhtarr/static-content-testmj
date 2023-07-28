@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-08-30T18:25:37",
-    "updated_date": "2022-10-02T23:50:50",
+    "updated_date": "2023-07-28T20:30:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-08-30T11:25:37",
     "date_gmt": "2022-08-30T18:25:37",
     "guid": "https://cannabis.ca.gov/?page_id=11368",
-    "modified": "2022-10-02T16:50:50",
-    "modified_gmt": "2022-10-02T23:50:50",
+    "modified": "2023-07-28T13:30:52",
+    "modified_gmt": "2023-07-28T20:30:52",
     "slug": "labor-peace-agreements-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Labor Peace"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -68,7 +70,24 @@
       "twitter_title": "Labor Peace Agreements for Cannabis Businesses",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 812,
+        "name": "Labor Peace",
+        "slug": "labor-peace-2",
+        "term_group": 0,
+        "term_taxonomy_id": 812,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 812,
+        "category_description": "",
+        "cat_name": "Labor Peace",
+        "category_nicename": "labor-peace-2",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
