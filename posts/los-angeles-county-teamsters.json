@@ -79,13 +79,13 @@
         "term_taxonomy_id": 815,
         "taxonomy": "category",
         "description": "",
-        "parent": 813,
+        "parent": 0,
         "filter": "raw",
         "cat_ID": 815,
         "category_description": "",
         "cat_name": "Teamsters",
         "category_nicename": "teamsters",
-        "category_parent": 813
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
