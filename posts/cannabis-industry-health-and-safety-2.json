@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-27T16:42:55",
-    "updated_date": "2023-07-27T16:43:00",
+    "updated_date": "2023-07-28T21:58:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,31 +18,33 @@
     "date": "2023-07-27T09:42:55",
     "date_gmt": "2023-07-27T16:42:55",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13849",
-    "modified": "2023-07-27T09:43:00",
-    "modified_gmt": "2023-07-27T16:43:00",
+    "modified": "2023-07-28T14:58:06",
+    "modified_gmt": "2023-07-28T21:58:06",
     "slug": "cannabis-industry-health-and-safety-2",
     "status": "publish",
     "type": "post",
     "link": "https://live-testmj-com.pantheonsite.io/2023/07/cannabis-industry-health-and-safety-2/",
     "title": "Cannabis industry health and safety",
-    "excerpt": "",
+    "excerpt": "<p>CAL/OSHA (The Division of Occupational Safety and Health) provides detailed information about what is expected from employers when it comes to the health and safety of their employees. </p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Workplace Safety"
+      "Worker's Rights",
+      "Workplace Safety",
+      "Workplace safety"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -57,20 +59,36 @@
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/cannabis-industry-health-and-safety-2/",
       "page_title": "Cannabis industry health and safety",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "page_description": "CAL/OSHA (The Division of Occupational Safety and Health) provides detailed information about what is expected from employers when it comes to the health and safety of their employees. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Cannabis industry health and safety",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "CAL/OSHA (The Division of Occupational Safety and Health) provides detailed information about what is expected from employers when it comes to the health and safety of their employees. ",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/cannabis-industry-health-and-safety-2/",
       "open_graph_title": "Cannabis industry health and safety",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "CAL/OSHA (The Division of Occupational Safety and Health) provides detailed information about what is expected from employers when it comes to the health and safety of their employees. ",
       "twitter_title": "Cannabis industry health and safety",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "CAL/OSHA (The Division of Occupational Safety and Health) provides detailed information about what is expected from employers when it comes to the health and safety of their employees. "
     },
     "headless_categories": [
+      {
+        "term_id": 810,
+        "name": "Worker's Rights",
+        "slug": "workers-rights",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "Worker's Rights",
+        "category_nicename": "workers-rights",
+        "category_parent": 0
+      },
       {
         "term_id": 819,
         "name": "Workplace Safety",
@@ -86,6 +104,22 @@
         "cat_name": "Workplace Safety",
         "category_nicename": "workplace-safety-cannaconnect",
         "category_parent": 798
+      },
+      {
+        "term_id": 803,
+        "name": "Workplace safety",
+        "slug": "workplace-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 803,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 810,
+        "filter": "raw",
+        "cat_ID": 803,
+        "category_description": "",
+        "cat_name": "Workplace safety",
+        "category_nicename": "workplace-safety",
+        "category_parent": 810
       }
     ],
     "headless_tags": [],
