@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-27T16:43:43",
-    "updated_date": "2023-07-27T16:43:49",
+    "updated_date": "2023-07-28T21:50:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-27T09:43:43",
     "date_gmt": "2023-07-27T16:43:43",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13851",
-    "modified": "2023-07-27T09:43:49",
-    "modified_gmt": "2023-07-27T16:43:49",
+    "modified": "2023-07-28T14:50:06",
+    "modified_gmt": "2023-07-28T21:50:06",
     "slug": "labor-violations-or-wage-theft",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
+      "Worker's Rights",
+      "Workplace safety",
       "Workplace Safety"
     ],
     "tags": [],
@@ -71,6 +73,38 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 810,
+        "name": "Worker's Rights",
+        "slug": "workers-rights",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "Worker's Rights",
+        "category_nicename": "workers-rights",
+        "category_parent": 0
+      },
+      {
+        "term_id": 803,
+        "name": "Workplace safety",
+        "slug": "workplace-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 803,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 810,
+        "filter": "raw",
+        "cat_ID": 803,
+        "category_description": "",
+        "cat_name": "Workplace safety",
+        "category_nicename": "workplace-safety",
+        "category_parent": 810
+      },
       {
         "term_id": 819,
         "name": "Workplace Safety",
