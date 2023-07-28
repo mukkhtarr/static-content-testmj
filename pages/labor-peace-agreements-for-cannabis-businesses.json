@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Labor Peace"
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 812,
-        "name": "Labor Peace",
-        "slug": "labor-peace-2",
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
         "term_group": 0,
-        "term_taxonomy_id": 812,
+        "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 812,
+        "cat_ID": 14,
         "category_description": "",
-        "cat_name": "Labor Peace",
-        "category_nicename": "labor-peace-2",
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
         "category_parent": 0
       }
     ],
