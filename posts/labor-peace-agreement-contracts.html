@@ -13017,9 +13017,16 @@
     </tr>
     </tbody>
     </table>
-    <script>
+     <script>
         $(document).ready(function () {
-            $('#lpa_table').DataTable();
+            $('#lpa_table').DataTable({
+                columnDefs: [
+                    { 
+                        type: 'date', 
+                        targets: [4]
+                    }
+                ]
+            });
         });
     </script>
 
