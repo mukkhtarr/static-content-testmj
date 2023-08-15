@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-28T22:11:40",
-    "updated_date": "2023-08-10T22:49:58",
+    "updated_date": "2023-08-15T19:57:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2023-07-28T15:11:40",
     "date_gmt": "2023-07-28T22:11:40",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=13933",
-    "modified": "2023-08-10T15:49:58",
-    "modified_gmt": "2023-08-10T22:49:58",
-    "slug": "labor-peace-agreement-contracts",
+    "modified": "2023-08-15T12:57:15",
+    "modified_gmt": "2023-08-15T19:57:15",
+    "slug": "labor-peace-agreements-on-file",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreement-contracts/",
-    "title": "Labor peace agreement contracts",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements-on-file/",
+    "title": "Labor peace agreements on file",
     "excerpt": "<p>View data about full and partial labor peace agreements currently on file from licensees that have provided this information to DCC. </p>\n",
     "author": 32,
     "featured_media": 0,
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreement-contracts/",
-      "page_title": "Labor peace agreement contracts",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements-on-file/",
+      "page_title": "Labor peace agreements on file",
       "page_description": "View data about full and partial labor peace agreements currently on file from licensees that have provided this information to DCC. ",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Labor peace agreement contracts",
+      "meta_title": "Labor peace agreements on file",
       "meta_description": "View data about full and partial labor peace agreements currently on file from licensees that have provided this information to DCC. ",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreement-contracts/",
-      "open_graph_title": "Labor peace agreement contracts",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements-on-file/",
+      "open_graph_title": "Labor peace agreements on file",
       "open_graph_description": "View data about full and partial labor peace agreements currently on file from licensees that have provided this information to DCC. ",
-      "twitter_title": "Labor peace agreement contracts",
+      "twitter_title": "Labor peace agreements on file",
       "twitter_description": "View data about full and partial labor peace agreements currently on file from licensees that have provided this information to DCC. "
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreement-contracts/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/labor-peace-agreements-on-file/"
   }
 }
