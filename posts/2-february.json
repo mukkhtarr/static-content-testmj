@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T20:03:10",
-    "updated_date": "2023-08-24T20:06:24",
+    "updated_date": "2023-08-24T20:06:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T13:03:10",
     "date_gmt": "2023-08-24T20:03:10",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14103",
-    "modified": "2023-08-24T13:06:24",
-    "modified_gmt": "2023-08-24T20:06:24",
+    "modified": "2023-08-24T13:06:30",
+    "modified_gmt": "2023-08-24T20:06:30",
     "slug": "2-february",
     "status": "publish",
     "type": "post",
