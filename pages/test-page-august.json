@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "created_date": "2023-08-24T16:43:09",
+    "updated_date": "2023-08-24T16:43:15",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/14049",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14049,
+    "date": "2023-08-24T09:43:09",
+    "date_gmt": "2023-08-24T16:43:09",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14049",
+    "modified": "2023-08-24T09:43:15",
+    "modified_gmt": "2023-08-24T16:43:15",
+    "slug": "test-page-august",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/test-page-august/",
+    "title": "test page august",
+    "excerpt": "<p>test text here</p>\n",
+    "author": 39,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/test-page-august/",
+      "page_title": "test page august",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "test page august",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/test-page-august/",
+      "open_graph_title": "test page august",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "test page august",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/test-page-august/"
+  }
+}
