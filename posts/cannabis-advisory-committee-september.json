@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:03:57",
-    "updated_date": "2023-08-24T17:04:02",
+    "updated_date": "2023-08-24T17:04:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:03:57",
     "date_gmt": "2023-08-24T17:03:57",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14059",
-    "modified": "2023-08-24T10:04:02",
-    "modified_gmt": "2023-08-24T17:04:02",
+    "modified": "2023-08-24T10:04:15",
+    "modified_gmt": "2023-08-24T17:04:15",
     "slug": "cannabis-advisory-committee-september",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "CAC Subcommittees"
+      "Cannabis Advisory Committee"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 823,
-        "name": "CAC Subcommittees",
-        "slug": "cac-subcommittees",
+        "term_id": 822,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
         "term_group": 0,
-        "term_taxonomy_id": 823,
+        "term_taxonomy_id": 822,
         "taxonomy": "category",
         "description": "",
-        "parent": 822,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 823,
+        "cat_ID": 822,
         "category_description": "",
-        "cat_name": "CAC Subcommittees",
-        "category_nicename": "cac-subcommittees",
-        "category_parent": 822
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
