@@ -39,8 +39,8 @@
     },
     "categories": [
       "Worker's Rights",
-      "Workplace safety",
-      "Workplace Safety"
+      "Workplace Safety",
+      "Workplace safety"
     ],
     "tags": [],
     "design_system_fields": {
@@ -90,22 +90,6 @@
         "category_parent": 0
       },
       {
-        "term_id": 803,
-        "name": "Workplace safety",
-        "slug": "workplace-safety",
-        "term_group": 0,
-        "term_taxonomy_id": 803,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 810,
-        "filter": "raw",
-        "cat_ID": 803,
-        "category_description": "",
-        "cat_name": "Workplace safety",
-        "category_nicename": "workplace-safety",
-        "category_parent": 810
-      },
-      {
         "term_id": 819,
         "name": "Workplace Safety",
         "slug": "workplace-safety-cannaconnect",
@@ -120,6 +104,22 @@
         "cat_name": "Workplace Safety",
         "category_nicename": "workplace-safety-cannaconnect",
         "category_parent": 798
+      },
+      {
+        "term_id": 803,
+        "name": "Workplace safety",
+        "slug": "workplace-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 803,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 810,
+        "filter": "raw",
+        "cat_ID": 803,
+        "category_description": "",
+        "cat_name": "Workplace safety",
+        "category_nicename": "workplace-safety",
+        "category_parent": 810
       }
     ],
     "headless_tags": [],
