@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T20:02:36",
-    "updated_date": "2023-08-24T20:02:42",
+    "updated_date": "2023-08-24T20:05:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2023-08-24T13:02:36",
     "date_gmt": "2023-08-24T20:02:36",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14099",
-    "modified": "2023-08-24T13:02:42",
-    "modified_gmt": "2023-08-24T20:02:42",
-    "slug": "3-march",
+    "modified": "2023-08-24T13:05:36",
+    "modified_gmt": "2023-08-24T20:05:36",
+    "slug": "4-april",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/08/3-march/",
-    "title": "3. March",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/08/4-april/",
+    "title": "4. April",
     "excerpt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet magna in ipsum blandit dictum. Morbi et venenatis lacus. Donec tristique placerat condimentum. Quisque ut augue fringilla, molestie magna at, cursus odio. Pellentesque consectetur risus a odio convallis egestas. Cras imperdiet et lacus nec maximus. Nunc accumsan purus nunc, interdum convallis diam pulvinar ut. Quisque [&hellip;]</p>\n",
     "author": 39,
     "featured_media": 0,
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/3-march/",
-      "page_title": "3. March",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/4-april/",
+      "page_title": "4. April",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "3. March",
+      "meta_title": "4. April",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/3-march/",
-      "open_graph_title": "3. March",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/4-april/",
+      "open_graph_title": "4. April",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "3. March",
+      "twitter_title": "4. April",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/08/3-march/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/08/4-april/"
   }
 }
