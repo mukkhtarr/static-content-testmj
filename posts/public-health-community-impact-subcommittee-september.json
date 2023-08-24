@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T17:01:45",
-    "updated_date": "2023-08-24T17:02:00",
+    "updated_date": "2023-08-24T17:02:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T10:01:45",
     "date_gmt": "2023-08-24T17:01:45",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14054",
-    "modified": "2023-08-24T10:02:00",
-    "modified_gmt": "2023-08-24T17:02:00",
+    "modified": "2023-08-24T10:02:06",
+    "modified_gmt": "2023-08-24T17:02:06",
     "slug": "public-health-community-impact-subcommittee-september",
     "status": "publish",
     "type": "post",
