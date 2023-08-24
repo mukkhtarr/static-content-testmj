@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "created_date": "2023-08-24T17:01:45",
+    "updated_date": "2023-08-24T17:02:06",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14054",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14054,
+    "date": "2023-08-24T10:01:45",
+    "date_gmt": "2023-08-24T17:01:45",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=14054",
+    "modified": "2023-08-24T10:02:06",
+    "modified_gmt": "2023-08-24T17:02:06",
+    "slug": "public-health-community-impact-subcommittee-september",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/08/public-health-community-impact-subcommittee-september/",
+    "title": "Public Health &#038; Community Impact Subcommittee: September",
+    "excerpt": "<p>Webinar topic: Cannabis Advisory Committee &#8211; Public Health &amp; Community Impact Subcommittee Date and time: Wednesday, September 6, 2023 9:00 AM | (UTC-07:00) Pacific Time (US &amp; Canada) Join link: https://cannabis-meetings.webex.com/cannabis-meetings/j.php?MTID=m3064a8c201333e059c4ff40e1c1f8493 Webinar number: 2533 534 4872 Webinar password: PHCIPublic (74247825 from phones and video systems) Join by phone 1-844-621-3956 United States Toll Free +1-650-479-3208 United [&hellip;]</p>\n",
+    "author": 39,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "CAC Subcommittees"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/public-health-community-impact-subcommittee-september/",
+      "page_title": "Public Health & Community Impact Subcommittee: September",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Public Health & Community Impact Subcommittee: September",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/public-health-community-impact-subcommittee-september/",
+      "open_graph_title": "Public Health & Community Impact Subcommittee: September",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Public Health & Community Impact Subcommittee: September",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 823,
+        "name": "CAC Subcommittees",
+        "slug": "cac-subcommittees",
+        "term_group": 0,
+        "term_taxonomy_id": 823,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 822,
+        "filter": "raw",
+        "cat_ID": 823,
+        "category_description": "",
+        "cat_name": "CAC Subcommittees",
+        "category_nicename": "cac-subcommittees",
+        "category_parent": 822
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/08/public-health-community-impact-subcommittee-september/"
+  }
+}
