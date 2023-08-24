@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T20:02:54",
-    "updated_date": "2023-08-24T20:06:03",
+    "updated_date": "2023-08-24T20:06:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T13:02:54",
     "date_gmt": "2023-08-24T20:02:54",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14101",
-    "modified": "2023-08-24T13:06:03",
-    "modified_gmt": "2023-08-24T20:06:03",
+    "modified": "2023-08-24T13:06:08",
+    "modified_gmt": "2023-08-24T20:06:08",
     "slug": "3-march",
     "status": "publish",
     "type": "post",
