@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T16:43:09",
-    "updated_date": "2023-08-24T16:43:15",
+    "updated_date": "2023-08-24T18:39:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T09:43:09",
     "date_gmt": "2023-08-24T16:43:09",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14049",
-    "modified": "2023-08-24T09:43:15",
-    "modified_gmt": "2023-08-24T16:43:15",
+    "modified": "2023-08-24T11:39:43",
+    "modified_gmt": "2023-08-24T18:39:43",
     "slug": "test-page-august",
     "status": "publish",
     "type": "page",
