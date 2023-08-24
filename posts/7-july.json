@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-08-24T20:01:20",
-    "updated_date": "2023-08-24T20:04:26",
+    "updated_date": "2023-08-24T20:08:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-08-24T13:01:20",
     "date_gmt": "2023-08-24T20:01:20",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14093",
-    "modified": "2023-08-24T13:04:26",
-    "modified_gmt": "2023-08-24T20:04:26",
+    "modified": "2023-08-24T13:08:23",
+    "modified_gmt": "2023-08-24T20:08:23",
     "slug": "7-july",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Pagination Test"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 824,
+        "name": "Pagination Test",
+        "slug": "pagination-test",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 824,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 824,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "Pagination Test",
+        "category_nicename": "pagination-test",
         "category_parent": 0
       }
     ],
