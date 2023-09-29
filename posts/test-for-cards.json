@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-29T20:09:23",
-    "updated_date": "2023-09-29T20:15:48",
+    "updated_date": "2023-09-29T20:17:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-29T13:09:23",
     "date_gmt": "2023-09-29T20:09:23",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14151",
-    "modified": "2023-09-29T13:15:48",
-    "modified_gmt": "2023-09-29T20:15:48",
+    "modified": "2023-09-29T13:17:07",
+    "modified_gmt": "2023-09-29T20:17:07",
     "slug": "test-for-cards",
     "status": "publish",
     "type": "post",
