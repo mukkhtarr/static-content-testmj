@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-05-25T21:37:01",
-    "updated_date": "2022-10-02T23:47:24",
+    "updated_date": "2023-10-23T18:23:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-05-25T14:37:01",
     "date_gmt": "2022-05-25T21:37:01",
     "guid": "https://cannabis.ca.gov/?p=9788",
-    "modified": "2022-10-02T16:47:24",
-    "modified_gmt": "2022-10-02T23:47:24",
+    "modified": "2023-10-23T11:23:08",
+    "modified_gmt": "2023-10-23T18:23:08",
     "slug": "department-of-cannabis-control-files-readoption-of-emergency-regulations-for-equity-fee-waivers",
     "status": "publish",
     "type": "post",
