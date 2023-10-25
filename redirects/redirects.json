@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 71,
+      "redirects": 72,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2189,6 +2189,32 @@
       "regex": false,
       "group_id": 1,
       "position": 70,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 320,
+      "url": "/dcc-events/",
+      "match_url": "/dcc-events",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-chronicle/dcc-events/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 71,
       "last_access": "-",
       "enabled": true
     }
