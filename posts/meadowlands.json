@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-25T17:11:45",
-    "updated_date": "2023-10-25T17:12:24",
+    "updated_date": "2023-10-25T17:25:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-25T10:11:45",
     "date_gmt": "2023-10-25T17:11:45",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14200",
-    "modified": "2023-10-25T10:12:24",
-    "modified_gmt": "2023-10-25T17:12:24",
+    "modified": "2023-10-25T10:25:02",
+    "modified_gmt": "2023-10-25T17:25:02",
     "slug": "meadowlands",
     "status": "publish",
     "type": "post",

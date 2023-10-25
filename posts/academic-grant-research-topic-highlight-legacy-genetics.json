@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-25T17:22:24",
-    "updated_date": "2023-10-25T17:22:30",
+    "updated_date": "2023-10-25T17:25:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-25T10:22:24",
     "date_gmt": "2023-10-25T17:22:24",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14217",
-    "modified": "2023-10-25T10:22:30",
-    "modified_gmt": "2023-10-25T17:22:30",
+    "modified": "2023-10-25T10:25:01",
+    "modified_gmt": "2023-10-25T17:25:01",
     "slug": "academic-grant-research-topic-highlight-legacy-genetics",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
     },
     "categories": [
       "Cannabis Chronicle",
+      "October 2023",
       "Spotlights"
     ],
     "tags": [],
@@ -87,6 +88,22 @@
         "cat_name": "Cannabis Chronicle",
         "category_nicename": "cannabis-chronicle",
         "category_parent": 0
+      },
+      {
+        "term_id": 834,
+        "name": "October 2023",
+        "slug": "october-2023",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 825,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "October 2023",
+        "category_nicename": "october-2023",
+        "category_parent": 825
       },
       {
         "term_id": 830,
