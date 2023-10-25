@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-10-25T17:13:15",
+    "updated_date": "2023-10-25T17:13:21",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14203",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14203,
+    "date": "2023-10-25T10:13:15",
+    "date_gmt": "2023-10-25T17:13:15",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=14203",
+    "modified": "2023-10-25T10:13:21",
+    "modified_gmt": "2023-10-25T17:13:21",
+    "slug": "trade-sample",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/10/trade-sample/",
+    "title": "Trade Sample",
+    "excerpt": "<p>Last month Metrc introduced a new feature in CCTT to licensees, making it easier to designate trade samples in the system. Distributors, retailers, and microbusiness licensees can now identify test-passed trade sample packages by adding a Trade Sample flag. For more information about this feature, please review the Metrc Bulletin.  </p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Cannabis Chronicle",
+      "CCTT Updates"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/trade-sample/",
+      "page_title": "Trade Sample",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Trade Sample",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/trade-sample/",
+      "open_graph_title": "Trade Sample",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Trade Sample",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 825,
+        "name": "Cannabis Chronicle",
+        "slug": "cannabis-chronicle",
+        "term_group": 0,
+        "term_taxonomy_id": 825,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 825,
+        "category_description": "",
+        "cat_name": "Cannabis Chronicle",
+        "category_nicename": "cannabis-chronicle",
+        "category_parent": 0
+      },
+      {
+        "term_id": 827,
+        "name": "CCTT Updates",
+        "slug": "cctt-updates",
+        "term_group": 0,
+        "term_taxonomy_id": 827,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 825,
+        "filter": "raw",
+        "cat_ID": 827,
+        "category_description": "",
+        "cat_name": "CCTT Updates",
+        "category_nicename": "cctt-updates",
+        "category_parent": 825
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/10/trade-sample/"
+  }
+}
