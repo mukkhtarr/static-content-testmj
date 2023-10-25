@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-10-25T17:11:45",
+    "updated_date": "2023-10-25T17:11:51",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14200",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14200,
+    "date": "2023-10-25T10:11:45",
+    "date_gmt": "2023-10-25T17:11:45",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=14200",
+    "modified": "2023-10-25T10:11:51",
+    "modified_gmt": "2023-10-25T17:11:51",
+    "slug": "meadowlands",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/10/meadowlands/",
+    "title": "Meadowlands",
+    "excerpt": "<p>On Friday, September 29, 2023, DCC Director, Nicole Elliott, and Deputy Director of Compliance, Jeff Merriman, traveled to Mendocino County to engage with licensees and industry leaders at Meadowlands.&nbsp; At the event, Director Elliott participated in a keynote interview with Meadow’s CEO and Co-Founder, David Hua, that touched on several important issues including hemp, federal [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Cannabis Chronicle",
+      "CC Events"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/meadowlands/",
+      "page_title": "Meadowlands",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Meadowlands",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/meadowlands/",
+      "open_graph_title": "Meadowlands",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Meadowlands",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 825,
+        "name": "Cannabis Chronicle",
+        "slug": "cannabis-chronicle",
+        "term_group": 0,
+        "term_taxonomy_id": 825,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 825,
+        "category_description": "",
+        "cat_name": "Cannabis Chronicle",
+        "category_nicename": "cannabis-chronicle",
+        "category_parent": 0
+      },
+      {
+        "term_id": 826,
+        "name": "CC Events",
+        "slug": "events-cannabis-chronicle",
+        "term_group": 0,
+        "term_taxonomy_id": 826,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 825,
+        "filter": "raw",
+        "cat_ID": 826,
+        "category_description": "",
+        "cat_name": "CC Events",
+        "category_nicename": "events-cannabis-chronicle",
+        "category_parent": 825
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/10/meadowlands/"
+  }
+}
