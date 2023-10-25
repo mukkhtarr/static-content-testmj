@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-10-25T17:19:25",
-    "updated_date": "2023-10-25T17:19:31",
+    "created_date": "2023-10-25T17:22:24",
+    "updated_date": "2023-10-25T17:22:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14215",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14217",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 14215,
-    "date": "2023-10-25T10:19:25",
-    "date_gmt": "2023-10-25T17:19:25",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=14215",
-    "modified": "2023-10-25T10:19:31",
-    "modified_gmt": "2023-10-25T17:19:31",
-    "slug": "cannabis-advisory-committee-2",
+    "id": 14217,
+    "date": "2023-10-25T10:22:24",
+    "date_gmt": "2023-10-25T17:22:24",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=14217",
+    "modified": "2023-10-25T10:22:24",
+    "modified_gmt": "2023-10-25T17:22:24",
+    "slug": "academic-grant-research-topic-highlight-legacy-genetics",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/10/cannabis-advisory-committee-2/",
-    "title": "Cannabis Advisory Committee",
-    "excerpt": "<p>The Cannabis Advisory Committee (CAC) is tasked with advising DCC on the development of relevant standards and regulations for commercial cannabis businesses, including those necessary to protect public health and safety. &nbsp;&nbsp; Full CAC meetings are held quarterly; there are five subcommittees that meet as needed. The subcommittees are: &nbsp; Members of the committees represent businesses [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/10/academic-grant-research-topic-highlight-legacy-genetics/",
+    "title": "Academic Grant Research Topic Highlight: Legacy Genetics",
+    "excerpt": "<p>In April 2023, DCC awarded $20M in grants to 16 of California’s academic research institutions to support cannabis-related scientific research and studies on topics important to California consumers, businesses, and policy makers. Studies include medicinal use of cannabis, legacy genetics, the impact of cannabis on the mental health of young people, and novel cannabinoids like [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -56,19 +56,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/cannabis-advisory-committee-2/",
-      "page_title": "Cannabis Advisory Committee",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/academic-grant-research-topic-highlight-legacy-genetics/",
+      "page_title": "Academic Grant Research Topic Highlight: Legacy Genetics",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cannabis Advisory Committee",
+      "meta_title": "Academic Grant Research Topic Highlight: Legacy Genetics",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/cannabis-advisory-committee-2/",
-      "open_graph_title": "Cannabis Advisory Committee",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/academic-grant-research-topic-highlight-legacy-genetics/",
+      "open_graph_title": "Academic Grant Research Topic Highlight: Legacy Genetics",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cannabis Advisory Committee",
+      "twitter_title": "Academic Grant Research Topic Highlight: Legacy Genetics",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -116,6 +116,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/10/cannabis-advisory-committee-2/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/10/academic-grant-research-topic-highlight-legacy-genetics/"
   }
 }
