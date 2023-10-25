@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-25T17:13:53",
-    "updated_date": "2023-10-25T17:13:59",
+    "updated_date": "2023-10-25T17:25:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-25T10:13:53",
     "date_gmt": "2023-10-25T17:13:53",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14205",
-    "modified": "2023-10-25T10:13:59",
-    "modified_gmt": "2023-10-25T17:13:59",
+    "modified": "2023-10-25T10:25:02",
+    "modified_gmt": "2023-10-25T17:25:02",
     "slug": "deadline-monday-november-6-2023",
     "status": "publish",
     "type": "post",
@@ -39,7 +39,8 @@
     },
     "categories": [
       "Cannabis Chronicle",
-      "Deadlines"
+      "Deadlines",
+      "October 2023"
     ],
     "tags": [],
     "design_system_fields": {
@@ -102,6 +103,22 @@
         "category_description": "",
         "cat_name": "Deadlines",
         "category_nicename": "deadlines",
+        "category_parent": 825
+      },
+      {
+        "term_id": 834,
+        "name": "October 2023",
+        "slug": "october-2023",
+        "term_group": 0,
+        "term_taxonomy_id": 834,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 825,
+        "filter": "raw",
+        "cat_ID": 834,
+        "category_description": "",
+        "cat_name": "October 2023",
+        "category_nicename": "october-2023",
         "category_parent": 825
       }
     ],
