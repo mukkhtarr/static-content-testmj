@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-10-25T16:46:19",
-    "updated_date": "2023-10-25T17:02:09",
+    "updated_date": "2023-10-25T19:02:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-10-25T09:46:19",
     "date_gmt": "2023-10-25T16:46:19",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14168",
-    "modified": "2023-10-25T10:02:09",
-    "modified_gmt": "2023-10-25T17:02:09",
+    "modified": "2023-10-25T12:02:46",
+    "modified_gmt": "2023-10-25T19:02:46",
     "slug": "cannabis-chronicle",
     "status": "publish",
     "type": "page",
