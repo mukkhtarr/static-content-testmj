@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-09T21:06:29",
-    "updated_date": "2023-11-09T21:25:24",
+    "updated_date": "2023-11-09T21:35:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2023-11-09T13:06:29",
     "date_gmt": "2023-11-09T21:06:29",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14267",
-    "modified": "2023-11-09T13:25:24",
-    "modified_gmt": "2023-11-09T21:25:24",
+    "modified": "2023-11-09T13:35:13",
+    "modified_gmt": "2023-11-09T21:35:13",
     "slug": "final-decisions-adopted-pursuant-to-the-administrative-procedure-act",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
+    "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
     "title": "Final decisions adopted pursuant to the Administrative Procedure Act ",
     "excerpt": "<p>In certain circumstances, a license denial, citation or disciplinary action will result in DCC issuing a final Order of Decision pursuant to the Administrative Procedure Act. The following table provides information related to those decisions and allows you to view the Order of Decision by clicking in the case documents column.     &nbsp; Legal Business [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9438,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Compliance"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
@@ -53,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
       "page_title": "Final decisions adopted pursuant to the Administrative Procedure Act ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,16 +64,33 @@
       "page_social_image_alt": "",
       "meta_title": "Final decisions adopted pursuant to the Administrative Procedure Act ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
       "open_graph_title": "Final decisions adopted pursuant to the Administrative Procedure Act ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Final decisions adopted pursuant to the Administrative Procedure Act ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 802,
+        "name": "Compliance",
+        "slug": "compliance",
+        "term_group": 0,
+        "term_taxonomy_id": 802,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 798,
+        "filter": "raw",
+        "cat_ID": 802,
+        "category_description": "",
+        "cat_name": "Compliance",
+        "category_nicename": "compliance",
+        "category_parent": 798
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/"
   }
 }
