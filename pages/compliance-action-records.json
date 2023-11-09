@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-06T18:44:15",
-    "updated_date": "2023-11-09T21:09:14",
+    "updated_date": "2023-11-09T21:35:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2023-11-06T10:44:15",
     "date_gmt": "2023-11-06T18:44:15",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14235",
-    "modified": "2023-11-09T13:09:14",
-    "modified_gmt": "2023-11-09T21:09:14",
+    "modified": "2023-11-09T13:35:48",
+    "modified_gmt": "2023-11-09T21:35:48",
     "slug": "compliance-action-records",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/compliance-action-records/",
+    "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/",
     "title": "License denials, citations, and disciplinary actions ",
     "excerpt": "<p>The table below includes information related to license denials, citations, fines, suspensions, and revocations issued by DCC. These actions will not result in further proceedings for which a subsequent Order of Decision pursuant to the Administrative Procedure Act will be issued. &nbsp; How to use this table Click or tap into the business name to [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9438,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Compliance"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
@@ -53,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/compliance-action-records/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/",
       "page_title": "License denials, citations, and disciplinary actions ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,16 +64,33 @@
       "page_social_image_alt": "",
       "meta_title": "License denials, citations, and disciplinary actions ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/compliance-action-records/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/",
       "open_graph_title": "License denials, citations, and disciplinary actions ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "License denials, citations, and disciplinary actions ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 802,
+        "name": "Compliance",
+        "slug": "compliance",
+        "term_group": 0,
+        "term_taxonomy_id": 802,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 798,
+        "filter": "raw",
+        "cat_ID": 802,
+        "category_description": "",
+        "cat_name": "Compliance",
+        "category_nicename": "compliance",
+        "category_parent": 798
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/compliance-action-records/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/"
   }
 }
