@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-27T21:42:45",
-    "updated_date": "2023-11-27T21:43:59",
+    "updated_date": "2023-11-27T21:59:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-27T13:42:45",
     "date_gmt": "2023-11-27T21:42:45",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14306",
-    "modified": "2023-11-27T13:43:59",
-    "modified_gmt": "2023-11-27T21:43:59",
+    "modified": "2023-11-27T13:59:36",
+    "modified_gmt": "2023-11-27T21:59:36",
     "slug": "track-and-trace-requirements-for-delivery-of-cannabis-goods",
     "status": "publish",
     "type": "page",
