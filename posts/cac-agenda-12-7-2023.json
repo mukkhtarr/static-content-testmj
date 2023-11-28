@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-11-28T01:05:25",
-    "updated_date": "2023-11-28T19:06:36",
+    "updated_date": "2023-11-28T19:07:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-11-27T17:05:25",
     "date_gmt": "2023-11-28T01:05:25",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14342",
-    "modified": "2023-11-28T11:06:36",
-    "modified_gmt": "2023-11-28T19:06:36",
+    "modified": "2023-11-28T11:07:50",
+    "modified_gmt": "2023-11-28T19:07:50",
     "slug": "cac-agenda-12-7-2023",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
