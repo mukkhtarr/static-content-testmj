@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-19T15:07:40",
-    "updated_date": "2023-11-28T22:18:25",
+    "updated_date": "2023-11-28T22:23:51",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-06-19T15:07:40",
     "date_gmt": "2021-06-19T15:07:40",
     "guid": "http://wordpress.test:8888/scientific-research/",
-    "modified": "2023-11-28T14:18:25",
-    "modified_gmt": "2023-11-28T22:18:25",
+    "modified": "2023-11-28T14:23:51",
+    "modified_gmt": "2023-11-28T22:23:51",
     "slug": "scientific-research",
     "status": "publish",
     "type": "page",
