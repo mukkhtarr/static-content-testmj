@@ -96,11 +96,11 @@ if (enf_table.page.info().recordsTotal <= 10) {
 <table id="voluntary_table" class="display compact" width="100%">
     <thead>
                 <tr>
- <th class="desktop tablet">Recall Date</th>  
+ <th class="all">Recall Date</th>  
  <th class="desktop tablet">Recall Type</th>           
-<th class="desktop tablet">Product Name</th>
-<th class="min-tablet">Product Type</th>
-<th class="min-phone-l">Legal Business Name</th>
+<th class="all">Product Name</th>
+<th class="desktop tablet">Product Type</th>
+<th class="desktop">Legal Business Name</th>
 <th class="all">Recall Reason</th>
 <th class="none">Additional Details</th>
         </tr>
@@ -144,7 +144,7 @@ if (enf_table.page.info().recordsTotal <= 10) {
 <td>Voluntary</td>
 <td>Cannalean brand products</td>
 <td>Tincture</td>
-<td>outdated government warning</td>
+<td>Outdated government warning</td>
 <td>Last Minute Venture, LLC</td>
 <td> &nbsp; </br></br>
 <p><a href="https://cannabis.ca.gov/2023/07/voluntary-recall-last-minute-venture-llc-cannalean-brand-products/">View details about the Last Minute Venture recall</a></p>
@@ -208,7 +208,8 @@ if (enf_table.page.info().recordsTotal <= 10) {
                 { data: 'product' },
                 { data: 'type' },
                 { data: 'reason' },
-               { data: 'business' }
+               { data: 'business' },
+                { data: 'details' }
             ],
             responsive: true,
             colReorder: true,
