@@ -13,32 +13,31 @@
 <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
 <script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
 <div id="breakpoint"></div>
-<table id="voluntary_table" class="display compact" width="100%">
+<table id="recall_table" class="display compact" width="100%">
     <thead>
                 <tr>
- <th class="all">Recall Date</th>  
+ <th class="min-phone-l">Recall Date</th>  
  <th class="desktop">Recall Type</th>           
 <th class="all">Product</th>
 <th class="desktop tablet">Product Type</th>
 <th class="all">Recall Reason</th>
-<th class="none">Legal Business Name</th>
+<th class="none">Legal Business Name:</th>
 <th class="none">Additional Details</th>
         </tr>
     </thead>
   <tbody>
 <tr>
-<td>2/9/24</td>
-<td>TBD</td>
-<td>NFuzed AIR metered-dose inhalers</td>
+<td>2/15/24</td>
+<td>Mandatory</td>
+<td>Nfuzed AIR metered-dose inhalers and Nfuzed Cannabis Infused Inhalers</td>
 <td>Inhaler</td>
-<td>Prohibited Product: Metered Dose Inhalers</td>
+<td>Prohibited Product </td>
 <td>90nine Bridge Co Holdings, LLC</td>
 
 <td> &nbsp; </br></br>
-<p><a href="https://cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/urban-therapies-distribution-llc/">View details about the Urban Therapies recall</a></p>
+<p><a href="/resources/cannabis-recalls-and-safety-notices/nfuzed-inhaler/">View details about the Nfuzed inhaler recall</a></p>
 </td>
 </tr>
-
 <tr>
 <td>1/10/24</td>
 <td>Mandatory</td>
@@ -48,7 +47,7 @@
 <td>Urban Therapies Distribution, LLC</td>
 
 <td> &nbsp; </br></br>
-<p><a href="https://cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/urban-therapies-distribution-llc/">View details about the Urban Therapies recall</a></p>
+<p><a href="/resources/cannabis-recalls-and-safety-notices/urban-therapies-distribution-llc/">View details about the Gelato Orangeade recall</a></p>
 </td>
 </tr>
 <tr>
@@ -59,7 +58,7 @@
 <td>Adulterant: Microbial Contamination (Aspergillus) </td>
 <td>Ci Distribution, LLC</td>
 <td> &nbsp; </br></br>
-<p><a href="https://cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/mandatory-recall-2022-01-26/">View details about the Ci Distribution recall</a></p>
+<p><a href="/resources/cannabis-recalls-and-safety-notices/mandatory-recall-2022-01-26/">View details about the Claybourne Co. recall</a></p>
 </td>
 </tr>
 <tr>
@@ -71,7 +70,7 @@
 <td>Echsen Industries, LLC</td>
 
 <td> &nbsp; </br></br>
-<p><a href="https://cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/echsen-industries/">View details about the Echsen Industries recall</a></p>
+<p><a href="/resources/cannabis-recalls-and-safety-notices/echsen-industries/">View details about the Shark Bites recall</a></p>
 </td>
 </tr>
 <tr>
@@ -82,7 +81,7 @@
 <td>Adulterant: Pesticides (Chlorfenapyr)</td>
 <td>Grizzly Peak Farms, LLC</td>
 <td> &nbsp; </br></br>
-<p><a href="https://staging.cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/">View details about the Grizzly Peak Farms recall</a></p>
+<p><a href="/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/">View details about the Grizzly Peak Zoap recall</a></p>
 </td>
 </tr>
 <tr>
@@ -93,7 +92,7 @@
 <td>Potency: Inflation</td>
 <td>Left Coast, LLC</td>
 <td> &nbsp; </br></br>
-<p><a href="https://cannabis.ca.gov/resources/cannabis-recalls-and-safety-notices/left-coast-llc-lil-leftys/">View details about the Left Coast recall</a></p>
+<p><a href="/resources/cannabis-recalls-and-safety-notices/left-coast-llc-lil-leftys/">View details about the Lil Leftys recall</a></p>
 </td>
 </tr>
 <tr>
@@ -104,7 +103,7 @@
 <td>Labeling: Incorrect government warning </td>
 <td>Last Minute Venture, LLC</td>
 <td> &nbsp; </br></br>
-<p><a href="https://cannabis.ca.gov/2023/07/voluntary-recall-last-minute-venture-llc-cannalean-brand-products/">View details about the Last Minute Venture recall</a></p>
+<p><a href="/2023/07/voluntary-recall-last-minute-venture-llc-cannalean-brand-products/">View details about the Cannalean brand products recall</a></p>
 </td>
 </tr>
 <tr>
@@ -126,7 +125,6 @@
 <td>Packaging: Safety issues</td>
 <td>Lakewood Libations, Inc.</td>
 <td> &nbsp; </br></br>
-<p><a href="https://gomaryjones.com/recall-information/">Read more on the Mary Jones recall page</a></p>
 </td>
 </tr>
 <tr>
@@ -154,7 +152,7 @@
 </table>
 <script>
     $(document).ready(function () {
-        const vol_table = new DataTable('#voluntary_table', {
+        const vol_table = new DataTable('#recall_table', {
             columns: [
                {
                     data: 'date',
@@ -173,14 +171,13 @@
         });
         const newColumnOrder = [0, 1, 2, 3, 4, 5]
         vol_table.colReorder.order(newColumnOrder).draw();
-if (vol_table.page.info().recordsTotal <= 10) {
+if (vol_table.page.info().recordsTotal <= 20) {
   $('.dataTables_paginate').hide();
   $('.dataTables_info').hide();
   $('.dataTables_length').hide();
 }
     });
 </script>
-
 
 <h2 class="wp-block-heading">About the recall process</h2>
 
