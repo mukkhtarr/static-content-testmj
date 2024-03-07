@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T19:50:11",
-    "updated_date": "2024-03-07T19:50:17",
+    "updated_date": "2024-03-07T19:50:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-03-07T11:50:11",
     "date_gmt": "2024-03-07T19:50:11",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14720",
-    "modified": "2024-03-07T11:50:17",
-    "modified_gmt": "2024-03-07T19:50:17",
+    "modified": "2024-03-07T11:50:33",
+    "modified_gmt": "2024-03-07T19:50:33",
     "slug": "faq-limited-operations-status-for-cultivation-licenses",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/faq-limited-operations-status-for-cultivation-licenses/",
+    "link": "https://live-testmj-com.pantheonsite.io/cultivation-license-change-options-2/faq-limited-operations-status-for-cultivation-licenses/",
     "title": "FAQ: Limited Operations Status for cultivation licenses",
     "excerpt": "<p>Cultivation licensees may now place a cultivation license in Limited Operations Status.&nbsp;&nbsp; Q: How do I qualify for this status? To qualify for Limited Operations Status, the licensee must pay any applicable licensing fee and meet all applicable license renewal requirements.&nbsp;&nbsp; Licensees with licenses in Limited Operations Status are prohibited from having mature plants on [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 14682,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/faq-limited-operations-status-for-cultivation-licenses/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cultivation-license-change-options-2/faq-limited-operations-status-for-cultivation-licenses/",
       "page_title": "FAQ: Limited Operations Status for cultivation licenses",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "FAQ: Limited Operations Status for cultivation licenses",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/faq-limited-operations-status-for-cultivation-licenses/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cultivation-license-change-options-2/faq-limited-operations-status-for-cultivation-licenses/",
       "open_graph_title": "FAQ: Limited Operations Status for cultivation licenses",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "FAQ: Limited Operations Status for cultivation licenses",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/faq-limited-operations-status-for-cultivation-licenses/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cultivation-license-change-options-2/faq-limited-operations-status-for-cultivation-licenses/"
   }
 }
