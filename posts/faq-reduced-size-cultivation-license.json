@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T19:29:47",
-    "updated_date": "2024-03-07T19:29:53",
+    "updated_date": "2024-03-07T19:39:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-07T11:29:47",
     "date_gmt": "2024-03-07T19:29:47",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14698",
-    "modified": "2024-03-07T11:29:53",
-    "modified_gmt": "2024-03-07T19:29:53",
+    "modified": "2024-03-07T11:39:57",
+    "modified_gmt": "2024-03-07T19:39:57",
     "slug": "faq-reduced-size-cultivation-license",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Cultivation license changes"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 845,
+        "name": "Cultivation license changes",
+        "slug": "cultivation-license-changes",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 845,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 845,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "Cultivation license changes",
+        "category_nicename": "cultivation-license-changes",
         "category_parent": 0
       }
     ],
