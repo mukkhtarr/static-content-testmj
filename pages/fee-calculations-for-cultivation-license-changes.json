@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T18:51:12",
-    "updated_date": "2024-03-07T18:55:14",
+    "updated_date": "2024-03-07T19:41:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-03-07T10:51:12",
     "date_gmt": "2024-03-07T18:51:12",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14694",
-    "modified": "2024-03-07T10:55:14",
-    "modified_gmt": "2024-03-07T18:55:14",
+    "modified": "2024-03-07T11:41:14",
+    "modified_gmt": "2024-03-07T19:41:14",
     "slug": "fee-calculations-for-cultivation-license-changes",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/cultivation-license-change-options-2/fee-calculations-for-cultivation-license-changes/",
     "title": "Fee calculations for cultivation license changes",
-    "excerpt": "<p>Learn how to calculate the fees associated with certain types of cultivation license changes related to the implementation of Senate Bill 833:  reducing the size of a cultivation license, placing the cultivation license in Limited Operations Status, and making a one-time change to the expiration date of a processor, nursery, or cultivation license.  Fee calculations at time of [&hellip;]</p>\n",
+    "excerpt": "<p>Learn how to calculate the fees associated with certain types of cultivation license changes related to the implementation of Senate Bill 833:&nbsp;&nbsp;reducing the size of a cultivation license,&nbsp;placing the cultivation license in Limited Operations Status, and&nbsp;making a one-time change to the expiration date of a processor, nursery, or cultivation license.&nbsp; Fee calculations at time of [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 14682,
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Cultivation license changes"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -68,7 +70,24 @@
       "twitter_title": "Fee calculations for cultivation license changes",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 845,
+        "name": "Cultivation license changes",
+        "slug": "cultivation-license-changes",
+        "term_group": 0,
+        "term_taxonomy_id": 845,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 845,
+        "category_description": "",
+        "cat_name": "Cultivation license changes",
+        "category_nicename": "cultivation-license-changes",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
