@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T19:31:41",
-    "updated_date": "2024-03-07T19:39:30",
+    "updated_date": "2024-03-07T19:39:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-07T11:31:41",
     "date_gmt": "2024-03-07T19:31:41",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14701",
-    "modified": "2024-03-07T11:39:30",
-    "modified_gmt": "2024-03-07T19:39:30",
+    "modified": "2024-03-07T11:39:35",
+    "modified_gmt": "2024-03-07T19:39:35",
     "slug": "faq-one-time-changes-to-license-expiration-dates",
     "status": "publish",
     "type": "post",
