@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T19:51:35",
-    "updated_date": "2024-03-07T23:55:36",
+    "updated_date": "2024-03-07T23:55:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-07T11:51:35",
     "date_gmt": "2024-03-07T19:51:35",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14722",
-    "modified": "2024-03-07T15:55:36",
-    "modified_gmt": "2024-03-07T23:55:36",
+    "modified": "2024-03-07T15:55:55",
+    "modified_gmt": "2024-03-07T23:55:55",
     "slug": "faq-reduced-size-cultivation-license",
     "status": "publish",
     "type": "page",
