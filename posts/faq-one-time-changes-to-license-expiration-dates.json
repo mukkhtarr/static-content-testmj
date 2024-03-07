@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T19:31:41",
-    "updated_date": "2024-03-07T19:31:47",
+    "updated_date": "2024-03-07T19:39:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-07T11:31:41",
     "date_gmt": "2024-03-07T19:31:41",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=14701",
-    "modified": "2024-03-07T11:31:47",
-    "modified_gmt": "2024-03-07T19:31:47",
+    "modified": "2024-03-07T11:39:35",
+    "modified_gmt": "2024-03-07T19:39:35",
     "slug": "faq-one-time-changes-to-license-expiration-dates",
     "status": "publish",
     "type": "post",
@@ -31,18 +31,18 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Cultivation license changes"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 845,
+        "name": "Cultivation license changes",
+        "slug": "cultivation-license-changes",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 845,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 845,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "Cultivation license changes",
+        "category_nicename": "cultivation-license-changes",
         "category_parent": 0
       }
     ],
