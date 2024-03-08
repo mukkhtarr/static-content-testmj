@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-03-07T18:51:12",
-    "updated_date": "2024-03-07T23:17:23",
+    "updated_date": "2024-03-08T17:27:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-03-07T10:51:12",
     "date_gmt": "2024-03-07T18:51:12",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14694",
-    "modified": "2024-03-07T15:17:23",
-    "modified_gmt": "2024-03-07T23:17:23",
+    "modified": "2024-03-08T09:27:10",
+    "modified_gmt": "2024-03-08T17:27:10",
     "slug": "fee-calculations-for-cultivation-license-changes",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Cultivation license changes"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -68,7 +70,24 @@
       "twitter_title": "Fee calculations for cultivation license changes",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 845,
+        "name": "Cultivation license changes",
+        "slug": "cultivation-license-changes",
+        "term_group": 0,
+        "term_taxonomy_id": 845,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 845,
+        "category_description": "",
+        "cat_name": "Cultivation license changes",
+        "category_nicename": "cultivation-license-changes",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
