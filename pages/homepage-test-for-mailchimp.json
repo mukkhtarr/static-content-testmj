@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-08T20:37:54",
-    "updated_date": "2024-04-08T20:46:53",
+    "updated_date": "2024-04-08T20:52:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-08T13:37:54",
     "date_gmt": "2024-04-08T20:37:54",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14890",
-    "modified": "2024-04-08T13:46:53",
-    "modified_gmt": "2024-04-08T20:46:53",
+    "modified": "2024-04-08T13:52:22",
+    "modified_gmt": "2024-04-08T20:52:22",
     "slug": "homepage-test-for-mailchimp",
     "status": "publish",
     "type": "page",
