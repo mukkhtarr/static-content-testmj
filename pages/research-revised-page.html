@@ -1,0 +1,94 @@
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h3 class="wp-block-heading" id="mandatory"><strong>What we are studying</strong></h3>
+
+<p>Click or tap on the recall name to learn more about a specific recall. </p>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+<script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
+<div id="breakpoint"></div>
+<table id="research_table" class="display compact" width="100%">
+    <thead>
+                <tr>
+ <th class="min-phone-l">Year</th>  
+ <th class="all">Status</th>           
+<th class="all">Public University</th>
+<th class="desktop tablet">Funding Awarded</th>
+<th class="desktop">Category</th>
+<th class="none">Research focus:</th>
+<th class="none">Summary:</th>
+<th class="none">Topics:</th>
+        </tr>
+    </thead>
+  <tbody>
+<tr>
+<td>
+3/20/24
+</td>
+<td>
+Mandatory
+</td>
+<td>
+<a href="/resources/cannabis-recalls-and-safety-notices/almora-14-half-gram-pre-rolls/">Almora 14 Half Gram Pre-Rolls</a>
+</td>
+<td>
+Cannabis Pre-Rolls
+</td>
+<td>
+Adulterant: Microbial Contamination (Aspergillus niger)
+</td>
+<td>
+Adulterant: Microbial Contamination (Aspergillus niger)
+</td>
+<td>
+Fluids Manufacturing, Inc.
+</td>
+<td>
+<p>Mandatory recall of a single Almora 14 Half Gram Pre-Rolls product. 
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<script>
+    $(document).ready(function () {
+        const vol_table = new DataTable('#research_table', {
+            columns: [
+               {
+                    data: 'year',
+                    type: 'date'
+                },
+                { data: 'status' },
+                { data: 'university' },
+                { data: 'funding' },
+                { data: 'category' },
+               { data: 'focus' },
+                { data: 'summary' }
+ { data: 'topics' }
+            ],
+            responsive: true,
+            colReorder: true,
+            order: [[0, 'des']]
+        });
+        const newColumnOrder = [0, 1, 2, 3, 4, 5, 6, 7]
+        vol_table.colReorder.order(newColumnOrder).draw();
+if (vol_table.page.info().recordsTotal <= 10) {
+  $('.dataTables_paginate').hide();
+  $('.dataTables_info').hide();
+  $('.dataTables_length').hide();
+}
+    });
+</script>
+
+<style>
+.post-date{
+display:none;
+}
+.pdf-link-icon{
+display:none;
+}
+</style>
