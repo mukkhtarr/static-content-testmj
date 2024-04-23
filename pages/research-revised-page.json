@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-23T17:48:31",
-    "updated_date": "2024-04-23T22:51:06",
+    "updated_date": "2024-04-23T22:52:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2024-04-23T10:48:31",
     "date_gmt": "2024-04-23T17:48:31",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14925",
-    "modified": "2024-04-23T15:51:06",
-    "modified_gmt": "2024-04-23T22:51:06",
+    "modified": "2024-04-23T15:52:40",
+    "modified_gmt": "2024-04-23T22:52:40",
     "slug": "research-revised-page",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/research-revised-page/",
     "title": "Research revised page",
-    "excerpt": "<p>What we are studying Click or tap on the recall name to learn more about a specific recall. Year Status Public University Funding Awarded Category Research focus: Summary: Topics: Year Status Public University Funding Awarded Category Research Focus Summary Topics 2023 In progress UC Davis $856,881 Other Chemistry, toxicology, and brain disposition of cannabinoids, novel [&hellip;]</p>\n",
+    "excerpt": "<p>What we are studying Click or tap on the recall name to learn more about a specific recall. Year Status Public University Funding Awarded Category Research focus: Summary: Topics: UC Davis $856,881 Other Chemistry, toxicology, and brain disposition of cannabinoids, novel cannabinoids, and mixtures in electronic cigarettes. Studying the chemistry, toxicology, and health impacts of [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column-wide"
     },
     "og_meta": {
       "editor": {
