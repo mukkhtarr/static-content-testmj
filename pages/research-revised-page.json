@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-04-23T17:48:31",
-    "updated_date": "2024-04-24T18:22:53",
+    "updated_date": "2024-04-24T19:09:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-04-23T10:48:31",
     "date_gmt": "2024-04-23T17:48:31",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14925",
-    "modified": "2024-04-24T11:22:53",
-    "modified_gmt": "2024-04-24T18:22:53",
+    "modified": "2024-04-24T12:09:45",
+    "modified_gmt": "2024-04-24T19:09:45",
     "slug": "research-revised-page",
     "status": "publish",
     "type": "page",
