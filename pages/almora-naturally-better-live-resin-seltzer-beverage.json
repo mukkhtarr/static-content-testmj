@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-24T18:02:20",
-    "updated_date": "2024-05-24T18:37:07",
+    "updated_date": "2024-05-24T18:41:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-24T11:02:20",
     "date_gmt": "2024-05-24T18:02:20",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15067",
-    "modified": "2024-05-24T11:37:07",
-    "modified_gmt": "2024-05-24T18:37:07",
+    "modified": "2024-05-24T11:41:38",
+    "modified_gmt": "2024-05-24T18:41:38",
     "slug": "almora-naturally-better-live-resin-seltzer-beverage",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,10 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Recalls and Safety Notices",
+      "Voluntary Recalls"
+    ],
     "tags": [
       "staging"
     ],
@@ -70,7 +73,40 @@
       "twitter_title": "ALMORA NATURALLY BETTER LIVE RESIN SELTZER BEVERAGE",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 846,
+        "name": "Recalls and Safety Notices",
+        "slug": "recalls-and-safety-notices",
+        "term_group": 0,
+        "term_taxonomy_id": 846,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 846,
+        "category_description": "",
+        "cat_name": "Recalls and Safety Notices",
+        "category_nicename": "recalls-and-safety-notices",
+        "category_parent": 0
+      },
+      {
+        "term_id": 847,
+        "name": "Voluntary Recalls",
+        "slug": "voluntary-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 847,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 846,
+        "filter": "raw",
+        "cat_ID": 847,
+        "category_description": "",
+        "cat_name": "Voluntary Recalls",
+        "category_nicename": "voluntary-recalls",
+        "category_parent": 846
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 797,
