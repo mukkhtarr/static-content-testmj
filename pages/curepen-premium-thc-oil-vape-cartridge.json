@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-05-16T18:15:29",
-    "updated_date": "2024-07-02T20:45:22",
+    "created_date": "2024-06-24T20:16:38",
+    "updated_date": "2024-06-25T17:10:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15049",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15114",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,21 +14,21 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15049,
-    "date": "2024-05-16T11:15:29",
-    "date_gmt": "2024-05-16T18:15:29",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15049",
-    "modified": "2024-07-02T13:45:22",
-    "modified_gmt": "2024-07-02T20:45:22",
-    "slug": "recall-template",
+    "id": 15114,
+    "date": "2024-06-24T13:16:38",
+    "date_gmt": "2024-06-24T20:16:38",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15114",
+    "modified": "2024-06-25T10:10:43",
+    "modified_gmt": "2024-06-25T17:10:43",
+    "slug": "curepen-premium-thc-oil-vape-cartridge",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/recall-template/",
-    "title": "Recall template",
-    "excerpt": "<p>Recall overview INTRO TEXT Business Recall Date DCC Recall Publication Date Recall Type Product Type Product Description Legal Business Name Legal Business License Number Packaged By Packaged By License Number Business Website Dates Sold Product details This recall applies to the following PRODUCT DETAILS HERE Product&nbsp; Batch Number&nbsp; Product Size&nbsp; UID Number&nbsp; Date Packaged&nbsp; Locations [&hellip;]</p>\n",
-    "author": 32,
+    "link": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge/",
+    "title": "CUREpen PREMIUM THC OIL Vape Cartridge",
+    "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall of a single CUREpen PREMIUM THC OIL Vape Cartridge product due to the presence of the pesticide chlorfenapyr. DCC Recall Publication Date June 25, 2024 Recall Type Mandatory Product Type Vape Cartridge Product Description CUREpen PREMIUM THC OIL Vape Cartridge Legal Business [&hellip;]</p>\n",
+    "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -39,10 +39,11 @@
     },
     "categories": [
       "Mandatory Recalls",
-      "Recalls and Safety Notices",
-      "Voluntary Recalls"
+      "Recalls and Safety Notices"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -57,19 +58,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/recall-template/",
-      "page_title": "Recall template",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge/",
+      "page_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Recall template",
+      "meta_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/recall-template/",
-      "open_graph_title": "Recall template",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge/",
+      "open_graph_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Recall template",
+      "twitter_title": "CUREpen PREMIUM THC OIL Vape Cartridge",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -104,27 +105,23 @@
         "cat_name": "Recalls and Safety Notices",
         "category_nicename": "recalls-and-safety-notices",
         "category_parent": 0
-      },
-      {
-        "term_id": 847,
-        "name": "Voluntary Recalls",
-        "slug": "voluntary-recalls",
-        "term_group": 0,
-        "term_taxonomy_id": 847,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 846,
-        "filter": "raw",
-        "cat_ID": 847,
-        "category_description": "",
-        "cat_name": "Voluntary Recalls",
-        "category_nicename": "voluntary-recalls",
-        "category_parent": 846
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/recall-template/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge/"
   }
 }
