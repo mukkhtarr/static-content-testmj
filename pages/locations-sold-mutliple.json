@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-03-08T21:00:21",
-    "updated_date": "2024-06-13T00:06:53",
+    "created_date": "2024-07-02T19:42:29",
+    "updated_date": "2024-07-02T19:45:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/9492",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15165",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 9492,
-    "date": "2022-03-08T13:00:21",
-    "date_gmt": "2022-03-08T21:00:21",
-    "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2024-06-12T17:06:53",
-    "modified_gmt": "2024-06-13T00:06:53",
-    "slug": "cannaconnect-compliance-hub",
+    "id": 15165,
+    "date": "2024-07-02T12:42:29",
+    "date_gmt": "2024-07-02T19:42:29",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15165",
+    "modified": "2024-07-02T12:45:16",
+    "modified_gmt": "2024-07-02T19:45:16",
+    "slug": "locations-sold-mutliple",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
-    "title": "CannaConnect Compliance Hub",
-    "excerpt": "<p>CannaConnect is the Department of Cannabis Control’s (DCC) resource hub, here to help license holders get the tools &amp; support they need to maintain compliance and thrive.&nbsp; Latest updates New requirements for packaging, labeling, and marketing Beginning July 1, 2024, Assembly Bill 1894 will add new requirements for the packaging, labeling, advertising, or marketing of [&hellip;]</p>\n",
-    "author": 2,
+    "link": "https://live-testmj-com.pantheonsite.io/locations-sold-mutliple/",
+    "title": "Locations Sold, Multi-Product Version",
+    "excerpt": "<p>County Legal Business Name&nbsp; License Number Products RIVERSIDE OMEGA GROUP, INC. C10-0000003-LIC Birthday Cake, Lemon Cooler, Watermelon Sorbet SACRAMENTO HORIZON COLLECTIVE INC. C10-0000009-LIC Birthday Cake, Lemon Cooler LOS ANGELES SUNSET HERBAL CORNER, INC. C10-0000023-LIC Birthday Cake, Lemon Cooler, Watermelon Sorbet VENTURA DBO INVESTMENTS PH, LLC C10-0000030-LIC Birthday Cake, Lemon Cooler, Watermelon Sorbet SAN BERNARDINO THE [&hellip;]</p>\n",
+    "author": 32,
     "featured_media": 0,
-    "parent": 758,
-    "menu_order": 8,
+    "parent": 0,
+    "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
-      "page_title": "CannaConnect Compliance Hub",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/locations-sold-mutliple/",
+      "page_title": "Locations Sold, Multi-Product Version",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CannaConnect Compliance Hub",
+      "meta_title": "Locations Sold, Multi-Product Version",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
-      "open_graph_title": "CannaConnect Compliance Hub",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/locations-sold-mutliple/",
+      "open_graph_title": "Locations Sold, Multi-Product Version",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CannaConnect Compliance Hub",
+      "twitter_title": "Locations Sold, Multi-Product Version",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensees/cannaconnect-compliance-hub/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/locations-sold-mutliple/"
   }
 }
