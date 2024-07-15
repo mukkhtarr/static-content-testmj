@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-15T17:45:19",
-    "updated_date": "2024-07-15T18:04:35",
+    "updated_date": "2024-07-15T18:04:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-15T10:45:19",
     "date_gmt": "2024-07-15T17:45:19",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15181",
-    "modified": "2024-07-15T11:04:35",
-    "modified_gmt": "2024-07-15T18:04:35",
+    "modified": "2024-07-15T11:04:54",
+    "modified_gmt": "2024-07-15T18:04:54",
     "slug": "exhibit-1",
     "status": "publish",
     "type": "page",
@@ -32,7 +32,7 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page-single-column-wide"
     },
     "og_meta": {
       "editor": {
