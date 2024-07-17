@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-16T22:34:06",
-    "updated_date": "2024-07-17T19:50:42",
+    "updated_date": "2024-07-17T19:55:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-16T15:34:06",
     "date_gmt": "2024-07-16T22:34:06",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15205",
-    "modified": "2024-07-17T12:50:42",
-    "modified_gmt": "2024-07-17T19:50:42",
+    "modified": "2024-07-17T12:55:14",
+    "modified_gmt": "2024-07-17T19:55:14",
     "slug": "circles-cannabis-oil-vaporizer-vape-cartridge",
     "status": "publish",
     "type": "page",
@@ -41,9 +41,7 @@
       "Mandatory Recalls",
       "Recalls and Safety Notices"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -107,19 +105,7 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge/"
