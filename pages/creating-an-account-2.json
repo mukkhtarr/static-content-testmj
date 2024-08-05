@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-05T20:26:42",
-    "updated_date": "2024-08-05T20:26:48",
+    "updated_date": "2024-08-05T20:27:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-05T13:26:42",
     "date_gmt": "2024-08-05T20:26:42",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15299",
-    "modified": "2024-08-05T13:26:48",
-    "modified_gmt": "2024-08-05T20:26:48",
+    "modified": "2024-08-05T13:27:37",
+    "modified_gmt": "2024-08-05T20:27:37",
     "slug": "creating-an-account-2",
     "status": "publish",
     "type": "page",
