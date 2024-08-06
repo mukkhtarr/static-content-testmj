@@ -1,23 +1,18 @@
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
-<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
-<script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
-<div id="breakpoint"></div>
+<p>&nbsp;</p>
+<div id="breakpoint">&nbsp;</div>
 <table id="enforcement_table" class="display compact" width="100%">
-    <thead>
-                <tr>
+<thead>
+<tr>
 <th class="min-phone-l">Legal Business Name</th>
 <th class="all">License or App Number</th>
 <th class="min-tablet">License Type</th>
- <th class="min-tablet">License Status</th>
-            <th class="desktop tablet">Action</th>
-            <th class="desktop tablet">Effective Date</th>
-            <th class="none">Sections Violated: CCR</th>
+<th class="min-tablet">License Status</th>
+<th class="desktop tablet">Action</th>
+<th class="desktop tablet">Effective Date</th>
+<th class="none">Sections Violated: CCR</th>
 <th class="none">Sections Violated: BPC</th>
-        </tr>
-    </thead>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td>BMG Ventures Inc.</td>
@@ -26,7 +21,7 @@
 <td>Provisional</td>
 <td>Citation and Fine</td>
 <td>11/2/2023</td>
-<td>&nbsp;  &sect; 15047.2 &ndash; Track and Trace General Requirements, Accuracy and Completeness   &sect; 15048.5 &ndash; Track and Trace Requirements, Use of Harvest Batch Name and Package Tags &sect; 15314 &ndash; Shipping Manifests</td>
+<td><br />&sect; 15047.2 &ndash; Track and Trace General Requirements, Accuracy and Completeness   <br />&sect; 15048.5 &ndash; Track and Trace Requirements, Use of Harvest Batch Name and Package Tags <br />&sect; 15314 &ndash; Shipping Manifests</td>
 <td>None</td>
 </tr>
 <tr>
@@ -46,7 +41,7 @@
 <td>Provisional</td>
 <td>Revocation</td>
 <td>12/20/2023</td>
-<td>&nbsp;&sect; 15000.1 &#8211; General Requirements &sect; 15002 &#8211; Annual License Application Requirements, Disclosure of Owners &sect; 15003 &#8211; Owners of Commercial Cannabis Businesses &sect; 15023 &#8211; Business Modifications, Change in Ownership &sect; 15047.2 &#8211; Track and Trace Requirements, Recording of Commercial Cannabis Activity &sect; 15048.1 &#8211; Track and Trace Requirements, Responsibilities of Designated Account Manager &sect; 15048.5 &#8211; Track and Trace Requirements, Use of Harvest Batch Name and Package Tags &sect; 15049 &#8211; Track and Trace Requirements, Track and Trace Reporting &sect; 15719 &#8211; Residual Pesticides Testing &sect; 16307 &#8211; Pesticide Use Requirements &sect; 17801.5 &#8211; Embargo of Cannabis or Cannabis Products</td>
+<td>&nbsp;&sect; 15000.1 &#8211; General Requirements &sect; 15002 &#8211; Annual License Application Requirements, Disclosure of Owners <br />&sect; 15003 &#8211; Owners of Commercial Cannabis Businesses &sect; 15023 &#8211; Business Modifications, Change in Ownership <br />&sect; 15047.2 &#8211; Track and Trace Requirements, Recording of Commercial Cannabis Activity <br />&sect; 15048.1 &#8211; Track and Trace Requirements, Responsibilities of Designated Account Manager <br />&sect; 15048.5 &#8211; Track and Trace Requirements, Use of Harvest Batch Name and Package Tags <br />&sect; 15049 &#8211; Track and Trace Requirements, Track and Trace Reporting <br />&sect; 15719 &#8211; Residual Pesticides Testing <br />&sect; 16307 &#8211; Pesticide Use Requirements &sect; 17801.5 &#8211; Embargo of Cannabis or Cannabis Products</td>
 <td>&nbsp;&sect; 26039.3 &#8211; Embargo of Cannabis or Cannabis Products &sect; 26050 &#8211; Commercial Cannabis Licenses &sect; 26053 &#8211; Commercial Cannabis ActivityHSC &sect; 11054 &#8211; Possession of a Controlled Substance</td>
 </tr>
 <tr>
@@ -3120,29 +3115,4 @@
 <td>&nbsp;&sect;26037.5 &ndash; Unlicensed Commercial Cannabis Cultivation &sect;26037.5 &ndash; Unlicensed Commercial Cannabis Cultivation &sect;26037.5 &ndash; Unlicensed Commercial Cannabis Cultivation &sect;26037.5 &ndash; Unlicensed Commercial Cannabis Cultivation</td>
 </tr>
 </tbody>
-
 </table>
-<script>
-    $(document).ready(function () {
-        const enf_table = new DataTable('#enforcement_table', {
-            columns: [
-                { data: 'action' },
-                { data: 'license' },
-                { data: 'business' },
-                { data: 'type' },
-                { data: 'status' },
-                {
-                    data: 'date',
-                    type: 'date'
-                },
- { data: 'violated1' },
-                { data: 'violated2' }
-            ],
-            responsive: true,
-            colReorder: true,
-            order: [[1, 'asc']]
-        });
-        const newColumnOrder = [0, 1, 2, 3, 4, 5, 6, 7]
-        enf_table.colReorder.order(newColumnOrder).draw();
-    });
-</script>
