@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-06T21:18:39",
-    "updated_date": "2024-08-06T21:20:55",
+    "updated_date": "2024-08-06T21:21:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-06T14:18:39",
     "date_gmt": "2024-08-06T21:18:39",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=15337",
-    "modified": "2024-08-06T14:20:55",
-    "modified_gmt": "2024-08-06T21:20:55",
+    "modified": "2024-08-06T14:21:19",
+    "modified_gmt": "2024-08-06T21:21:19",
     "slug": "compliance-actions-new",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column-wide"
     },
     "og_meta": {
       "editor": {
