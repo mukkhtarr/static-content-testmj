@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "created_date": "2024-08-08T20:58:45",
+    "updated_date": "2024-08-08T20:58:50",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15412",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 15412,
+    "date": "2024-08-08T13:58:45",
+    "date_gmt": "2024-08-08T20:58:45",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15412",
+    "modified": "2024-08-08T13:58:50",
+    "modified_gmt": "2024-08-08T20:58:50",
+    "slug": "cls-declarations-and-final-affidavit",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/cls-declarations-and-final-affidavit/",
+    "title": "CLS: Declarations and Final Affidavit",
+    "excerpt": "<p>Email Notice Once all Owner Applications are submitted, the DRP must enter and submit the Declarations and Final Affidavit form.This application can only be submitted by the Designated Responsible Party (DRP).The system sends the DRP an email notification that this form can now be submitted. This message also appears under the Announcements once the DRP [&hellip;]</p>\n",
+    "author": 40,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [],
+    "tags": [
+      "staging"
+    ],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-declarations-and-final-affidavit/",
+      "page_title": "CLS: Declarations and Final Affidavit",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CLS: Declarations and Final Affidavit",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-declarations-and-final-affidavit/",
+      "open_graph_title": "CLS: Declarations and Final Affidavit",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CLS: Declarations and Final Affidavit",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-declarations-and-final-affidavit/"
+  }
+}
