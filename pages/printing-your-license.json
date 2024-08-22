@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T20:47:02",
-    "updated_date": "2024-08-22T20:47:08",
+    "updated_date": "2024-08-22T20:47:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-22T13:47:02",
     "date_gmt": "2024-08-22T20:47:02",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15633",
-    "modified": "2024-08-22T13:47:08",
-    "modified_gmt": "2024-08-22T20:47:08",
-    "slug": "clear-finalizing-and-printing-your-license",
+    "modified": "2024-08-22T13:47:55",
+    "modified_gmt": "2024-08-22T20:47:55",
+    "slug": "printing-your-license",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/printing-your-license/",
     "title": "CLEaR: Finalizing and printing  your license",
     "excerpt": "<p>If your application is approved, you must pay the license fee before your license can be issued.</p>\n",
     "author": 32,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/printing-your-license/",
       "page_title": "CLEaR: Finalizing and printing  your license",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: Finalizing and printing  your license",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/printing-your-license/",
       "open_graph_title": "CLEaR: Finalizing and printing  your license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: Finalizing and printing  your license",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/printing-your-license/"
   }
 }
