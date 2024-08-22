@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-12T21:52:43",
-    "updated_date": "2024-08-22T19:10:08",
+    "updated_date": "2024-08-22T20:55:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-12T14:52:43",
     "date_gmt": "2024-08-12T21:52:43",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15479",
-    "modified": "2024-08-22T12:10:08",
-    "modified_gmt": "2024-08-22T19:10:08",
-    "slug": "deficiencies-the-deficiencies-page",
+    "modified": "2024-08-22T13:55:19",
+    "modified_gmt": "2024-08-22T20:55:19",
+    "slug": "the-deficiencies-page",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/the-deficiencies-page/",
     "title": "Deficiencies: The Deficiencies Page",
     "excerpt": "<p>In this example, we’ve issued deficiencies in three areas of the main application and another deficiency for one of the Owner applications. We’ll begin by selecting the deficiency – Surety Bond was not payable to State of California, and then click Edit Selected. A pop-up A pop-up window opens for you to respond to the [&hellip;]</p>\n",
     "author": 40,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/the-deficiencies-page/",
       "page_title": "Deficiencies: The Deficiencies Page",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Deficiencies: The Deficiencies Page",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/the-deficiencies-page/",
       "open_graph_title": "Deficiencies: The Deficiencies Page",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Deficiencies: The Deficiencies Page",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/the-deficiencies-page/"
   }
 }
