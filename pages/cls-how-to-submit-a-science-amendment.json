@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T18:01:57",
-    "updated_date": "2024-08-22T19:11:23",
+    "updated_date": "2024-08-22T21:05:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-16T11:01:57",
     "date_gmt": "2024-08-16T18:01:57",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15495",
-    "modified": "2024-08-22T12:11:23",
-    "modified_gmt": "2024-08-22T19:11:23",
+    "modified": "2024-08-22T14:05:36",
+    "modified_gmt": "2024-08-22T21:05:36",
     "slug": "cls-how-to-submit-a-science-amendment",
     "status": "publish",
     "type": "page",
@@ -37,9 +37,7 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [
-      "CLS Main Guide"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -70,24 +68,7 @@
       "twitter_title": "CLS: How to Submit a Science Amendment",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 857,
-        "name": "CLS Main Guide",
-        "slug": "cls-main-guide",
-        "term_group": 0,
-        "term_taxonomy_id": 857,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 853,
-        "filter": "raw",
-        "cat_ID": 857,
-        "category_description": "",
-        "cat_name": "CLS Main Guide",
-        "category_nicename": "cls-main-guide",
-        "category_parent": 853
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
