@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T17:45:01",
-    "updated_date": "2024-08-22T20:14:53",
+    "updated_date": "2024-08-22T20:24:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-22T10:45:01",
     "date_gmt": "2024-08-22T17:45:01",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15560",
-    "modified": "2024-08-22T13:14:53",
-    "modified_gmt": "2024-08-22T20:14:53",
-    "slug": "clear-renewal-labs-distribution-retail-events",
+    "modified": "2024-08-22T13:24:18",
+    "modified_gmt": "2024-08-22T20:24:18",
+    "slug": "clear-renewal-guide",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-labs-distribution-retail-events/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-guide/",
     "title": "CLEaR Renewal: Labs, Distribution, Retail, Events",
     "excerpt": "",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-labs-distribution-retail-events/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-guide/",
       "page_title": "CLEaR Renewal: Labs, Distribution, Retail, Events",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR Renewal: Labs, Distribution, Retail, Events",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-labs-distribution-retail-events/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-guide/",
       "open_graph_title": "CLEaR Renewal: Labs, Distribution, Retail, Events",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR Renewal: Labs, Distribution, Retail, Events",
@@ -108,6 +108,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-labs-distribution-retail-events/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-guide/"
   }
 }
