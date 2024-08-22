@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T20:43:35",
-    "updated_date": "2024-08-22T20:43:41",
+    "updated_date": "2024-08-22T20:50:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-22T13:43:35",
     "date_gmt": "2024-08-22T20:43:35",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15627",
-    "modified": "2024-08-22T13:43:41",
-    "modified_gmt": "2024-08-22T20:43:41",
-    "slug": "clear-how-to-apply-for-a-license",
+    "modified": "2024-08-22T13:50:00",
+    "modified_gmt": "2024-08-22T20:50:00",
+    "slug": "how-to-apply",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/how-to-apply/",
     "title": "CLEaR: How to apply for a license",
     "excerpt": "<p>Follow these steps to apply for a license using the CLEaR system.</p>\n",
     "author": 32,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/how-to-apply/",
       "page_title": "CLEaR: How to apply for a license",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: How to apply for a license",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/how-to-apply/",
       "open_graph_title": "CLEaR: How to apply for a license",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: How to apply for a license",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/how-to-apply/"
   }
 }
