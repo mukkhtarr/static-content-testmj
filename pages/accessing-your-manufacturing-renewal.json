@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T17:54:37",
-    "updated_date": "2024-08-22T17:54:43",
+    "updated_date": "2024-08-22T17:55:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-22T10:54:37",
     "date_gmt": "2024-08-22T17:54:37",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15567",
-    "modified": "2024-08-22T10:54:43",
-    "modified_gmt": "2024-08-22T17:54:43",
+    "modified": "2024-08-22T10:55:07",
+    "modified_gmt": "2024-08-22T17:55:07",
     "slug": "accessing-your-manufacturing-renewal",
     "status": "publish",
     "type": "page",
