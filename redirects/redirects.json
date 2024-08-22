@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 78,
+      "redirects": 91,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2371,6 +2371,344 @@
       "regex": false,
       "group_id": 1,
       "position": 77,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 327,
+      "url": "/clear-user-guide/",
+      "match_url": "/clear-user-guide",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-user-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 78,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 328,
+      "url": "/cls-power-and-water-information/",
+      "match_url": "/cls-power-and-water-information",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-power-and-water-information/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 79,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 329,
+      "url": "/cls-declarations-and-final-affidavit/",
+      "match_url": "/cls-declarations-and-final-affidavit",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-declarations-and-final-affidavit/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 80,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 330,
+      "url": "/cls-how-to-submit-a-science-amendment/",
+      "match_url": "/cls-how-to-submit-a-science-amendment",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 81,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 331,
+      "url": "/cls-declarations/",
+      "match_url": "/cls-declarations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-declarations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 82,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 332,
+      "url": "/cls-how-to-pay-application-fee/",
+      "match_url": "/cls-how-to-pay-application-fee",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-how-to-pay-application-fee/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 83,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 333,
+      "url": "/cls-license-information/",
+      "match_url": "/cls-license-information",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-license-information/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 84,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 334,
+      "url": "/cls-electricity-usage-average-weighted-ggei/",
+      "match_url": "/cls-electricity-usage-average-weighted-ggei",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 85,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 335,
+      "url": "/cls-applying-for-a-license/",
+      "match_url": "/cls-applying-for-a-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-applying-for-a-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 86,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 336,
+      "url": "/cls-next-steps-for-owners/",
+      "match_url": "/cls-next-steps-for-owners",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-next-steps-for-owners/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 87,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 337,
+      "url": "/cls-logging-in-and-navigation-tips/",
+      "match_url": "/cls-logging-in-and-navigation-tips",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-logging-in-and-navigation-tips/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 88,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 338,
+      "url": "/cls-additional-premises-information/",
+      "match_url": "/cls-additional-premises-information",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-additional-premises-information/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 89,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 339,
+      "url": "/cls-adding-an-additional-account-user/",
+      "match_url": "/cls-adding-an-additional-account-user",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-how-to-complete-the-online-application/cls-adding-an-additional-account-user/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 90,
       "last_access": "-",
       "enabled": true
     }
