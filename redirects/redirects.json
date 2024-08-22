@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 96,
+      "redirects": 99,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2839,6 +2839,84 @@
       "regex": false,
       "group_id": 1,
       "position": 95,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 345,
+      "url": "/licensing-system-guides/cls-renewal-manufacturing/",
+      "match_url": "/licensing-system-guides/cls-renewal-manufacturing",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-manufacturing/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 96,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 346,
+      "url": "/licensing-system-guides/clear-renewal-labs-distribution-retailevents/",
+      "match_url": "/licensing-system-guides/clear-renewal-labs-distribution-retailevents",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 97,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 347,
+      "url": "/cls-how-to-complete-the-online-application/",
+      "match_url": "/cls-how-to-complete-the-online-application",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 98,
       "last_access": "-",
       "enabled": true
     }
