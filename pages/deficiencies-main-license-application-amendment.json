@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-12T21:59:17",
-    "updated_date": "2024-08-22T18:23:45",
+    "updated_date": "2024-08-22T19:10:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-12T14:59:17",
     "date_gmt": "2024-08-12T21:59:17",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15468",
-    "modified": "2024-08-22T11:23:45",
-    "modified_gmt": "2024-08-22T18:23:45",
+    "modified": "2024-08-22T12:10:21",
+    "modified_gmt": "2024-08-22T19:10:21",
     "slug": "deficiencies-main-license-application-amendment",
     "status": "publish",
     "type": "page",
@@ -40,9 +40,7 @@
     "categories": [
       "CLS Deficiencies"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -90,19 +88,7 @@
         "category_parent": 853
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-main-license-application-amendment/"
