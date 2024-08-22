@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-12T21:52:03",
-    "updated_date": "2024-08-22T18:22:31",
+    "updated_date": "2024-08-22T20:56:07",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-12T14:52:03",
     "date_gmt": "2024-08-12T21:52:03",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15484",
-    "modified": "2024-08-22T11:22:31",
-    "modified_gmt": "2024-08-22T18:22:31",
-    "slug": "deficiencies-what-is-a-deficiency",
+    "modified": "2024-08-22T13:56:07",
+    "modified_gmt": "2024-08-22T20:56:07",
+    "slug": "what-is-a-deficiency",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/what-is-a-deficiency/",
     "title": "Deficiencies: What is a Deficiency?",
     "excerpt": "<p>The Department of Cannabis Control (DCC) Licensing Division will issue a deficiency notification(s) if it is determined that your application requires additional information. Once the main application, all owner applications, the Declarations and Final Affidavit, and the application fee are submitted, the DCC will review the entirety for deficiencies. A deficiency can be found in [&hellip;]</p>\n",
     "author": 40,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/what-is-a-deficiency/",
       "page_title": "Deficiencies: What is a Deficiency?",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Deficiencies: What is a Deficiency?",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/what-is-a-deficiency/",
       "open_graph_title": "Deficiencies: What is a Deficiency?",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Deficiencies: What is a Deficiency?",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/what-is-a-deficiency/"
   }
 }
