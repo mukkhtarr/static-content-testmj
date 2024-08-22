@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 110,
+      "redirects": 119,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3203,6 +3203,240 @@
       "regex": false,
       "group_id": 1,
       "position": 109,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 359,
+      "url": "/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license/",
+      "match_url": "/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-user-guide/printing-your-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 110,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 360,
+      "url": "/licensing-system-guides/clear-user-guide/clear-paying-the-application-fee/",
+      "match_url": "/licensing-system-guides/clear-user-guide/clear-paying-the-application-fee",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-user-guide/paying-application-fee/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 111,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 361,
+      "url": "/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal/",
+      "match_url": "/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-user-guide/owner-submittal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 112,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 362,
+      "url": "/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license/",
+      "match_url": "/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-user-guide/how-to-apply/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 113,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 363,
+      "url": "/licensing-system-guides/clear-user-guide/clear-account-navigation/",
+      "match_url": "/licensing-system-guides/clear-user-guide/clear-account-navigation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-user-guide/account-navigation/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 114,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 364,
+      "url": "/licensing-system-guides/clear-user-guide/clear-creating-an-account/",
+      "match_url": "/licensing-system-guides/clear-user-guide/clear-creating-an-account",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-user-guide/creating-an-account/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 115,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 365,
+      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-main-license-application-amendment/",
+      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-main-license-application-amendment",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-deficiencies/main-license-application-amendment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 116,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 366,
+      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page/",
+      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-deficiencies/the-deficiencies-page/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 117,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 367,
+      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency/",
+      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-deficiencies/what-is-a-deficiency/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 118,
       "last_access": "-",
       "enabled": true
     }
