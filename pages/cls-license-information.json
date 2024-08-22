@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T17:52:48",
-    "updated_date": "2024-08-22T18:06:19",
+    "updated_date": "2024-08-22T18:15:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-16T10:52:48",
     "date_gmt": "2024-08-16T17:52:48",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15505",
-    "modified": "2024-08-22T11:06:19",
-    "modified_gmt": "2024-08-22T18:06:19",
+    "modified": "2024-08-22T11:15:36",
+    "modified_gmt": "2024-08-22T18:15:36",
     "slug": "cls-license-information",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/cls-license-information/",
+    "link": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-license-information/",
     "title": "CLS: License Information",
     "excerpt": "<p>Per the instructions under License Information, review the information displayed for accuracy. You cannot change any fields here, but you can write a note describing the amendment you are proposing. Notice that the text box can be expanded by dragging the lower right corner. This space should be used to clarify and identify proposed physical [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 15584,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-license-information/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-license-information/",
       "page_title": "CLS: License Information",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: License Information",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-license-information/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-license-information/",
       "open_graph_title": "CLS: License Information",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: License Information",
@@ -105,6 +105,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-license-information/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-license-information/"
   }
 }

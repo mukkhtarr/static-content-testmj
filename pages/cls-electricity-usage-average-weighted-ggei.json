@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T17:23:58",
-    "updated_date": "2024-08-22T18:06:19",
+    "updated_date": "2024-08-22T18:15:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-16T10:23:58",
     "date_gmt": "2024-08-16T17:23:58",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15523",
-    "modified": "2024-08-22T11:06:19",
-    "modified_gmt": "2024-08-22T18:06:19",
+    "modified": "2024-08-22T11:15:36",
+    "modified_gmt": "2024-08-22T18:15:36",
     "slug": "cls-electricity-usage-average-weighted-ggei",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/cls-electricity-usage-average-weighted-ggei/",
+    "link": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/",
     "title": "CLS: Electricity Usage &#038; Average Weighted GGEI",
     "excerpt": "<p>This section identifies your Electricity Usage and Average Weighted GGEI. Enter the Electricity Usage information for the previous licensed period. To begin, click Add a Row. If a change in a prior renewal year is needed, select the checkbox next to the appropriate reporting year and select Edit Selected or select Actions and Edit.If reporting [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 15584,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-electricity-usage-average-weighted-ggei/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/",
       "page_title": "CLS: Electricity Usage & Average Weighted GGEI",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: Electricity Usage & Average Weighted GGEI",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-electricity-usage-average-weighted-ggei/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/",
       "open_graph_title": "CLS: Electricity Usage & Average Weighted GGEI",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: Electricity Usage & Average Weighted GGEI",
@@ -105,6 +105,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-electricity-usage-average-weighted-ggei/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/"
   }
 }

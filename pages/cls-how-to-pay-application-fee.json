@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-08T20:57:44",
-    "updated_date": "2024-08-22T18:06:19",
+    "updated_date": "2024-08-22T18:15:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-08T13:57:44",
     "date_gmt": "2024-08-08T20:57:44",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15424",
-    "modified": "2024-08-22T11:06:19",
-    "modified_gmt": "2024-08-22T18:06:19",
+    "modified": "2024-08-22T11:15:36",
+    "modified_gmt": "2024-08-22T18:15:36",
     "slug": "cls-how-to-pay-application-fee",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/cls-how-to-pay-application-fee/",
+    "link": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-how-to-pay-application-fee/",
     "title": "CLS: How to pay application fee",
     "excerpt": "<p>Once all Owner Applications and the DRP’s Declarations and Final Affidavit are submitted, you can pay the application fee. Correspondence After the Declaration and Final Affidavit is submitted, the system sends an email to the DRP and displays an announcement with information to log in, find the application record, then open the attachments section found [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 15584,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-pay-application-fee/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-how-to-pay-application-fee/",
       "page_title": "CLS: How to pay application fee",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: How to pay application fee",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-pay-application-fee/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-how-to-pay-application-fee/",
       "open_graph_title": "CLS: How to pay application fee",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: How to pay application fee",
@@ -105,6 +105,6 @@
     ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-pay-application-fee/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-how-to-complete-the-online-application/cls-how-to-pay-application-fee/"
   }
 }
