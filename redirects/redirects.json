@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 104,
+      "redirects": 110,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3047,6 +3047,162 @@
       "regex": false,
       "group_id": 1,
       "position": 103,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 353,
+      "url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-accessing-your-renewal/",
+      "match_url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-accessing-your-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-guide/accessing-your-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 104,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 354,
+      "url": "/accessing-your-manufacturing-renewal/",
+      "match_url": "/accessing-your-manufacturing-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-manufacturing/accessing-your-manufacturing-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 105,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 355,
+      "url": "/manufacturing-renewal-owners-and-financial-interest-holders/",
+      "match_url": "/manufacturing-renewal-owners-and-financial-interest-holders",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-owners-and-financial-interest-holders/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 106,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 356,
+      "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-owners-and-financial-interest-holders/",
+      "match_url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-owners-and-financial-interest-holders",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-manufacturing/owners-financial-interest-holders/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 107,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 357,
+      "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-labor-peace-agreements/",
+      "match_url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-labor-peace-agreements",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-manufacturing/labor-peace-agreements/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 108,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 358,
+      "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-review-payments-and-printing-your-certificate/",
+      "match_url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-review-payments-and-printing-your-certificate",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-manufacturing/review-payments-printing/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 109,
       "last_access": "-",
       "enabled": true
     }
