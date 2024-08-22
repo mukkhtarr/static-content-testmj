@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T17:44:04",
-    "updated_date": "2024-08-22T17:52:38",
+    "updated_date": "2024-08-22T20:00:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-22T10:44:04",
     "date_gmt": "2024-08-22T17:44:04",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15558",
-    "modified": "2024-08-22T10:52:38",
-    "modified_gmt": "2024-08-22T17:52:38",
-    "slug": "cls-renewal-manufacturing",
+    "modified": "2024-08-22T13:00:46",
+    "modified_gmt": "2024-08-22T20:00:46",
+    "slug": "clear-renewal-manufacturing",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-manufacturing/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/",
     "title": "CLEaR Renewal: Manufacturing",
     "excerpt": "<p>Cannabis Licensing Enforcement and Reporting (CLEaR) User Guide</p>\n",
     "author": 32,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-manufacturing/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/",
       "page_title": "CLEaR Renewal: Manufacturing",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR Renewal: Manufacturing",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-manufacturing/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/",
       "open_graph_title": "CLEaR Renewal: Manufacturing",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR Renewal: Manufacturing",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-manufacturing/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/"
   }
 }
