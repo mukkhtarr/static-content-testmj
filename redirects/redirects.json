@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 100,
+      "redirects": 104,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -2943,6 +2943,110 @@
       "regex": false,
       "group_id": 1,
       "position": 99,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 349,
+      "url": "/clear-renewal-printing-your-license/",
+      "match_url": "/clear-renewal-printing-your-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events/clear-renewal-printing-your-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 100,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 350,
+      "url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events/",
+      "match_url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-guide/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 101,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 351,
+      "url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-documents-fees-and-payments/",
+      "match_url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-documents-fees-and-payments",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-guide/documents-fees-payments/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 102,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 352,
+      "url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-renewal-steps/",
+      "match_url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-renewal-steps",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-renewal-guide/renewal-steps/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 103,
       "last_access": "-",
       "enabled": true
     }
