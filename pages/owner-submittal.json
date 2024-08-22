@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T20:44:47",
-    "updated_date": "2024-08-22T20:44:52",
+    "updated_date": "2024-08-22T20:49:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-22T13:44:47",
     "date_gmt": "2024-08-22T20:44:47",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15629",
-    "modified": "2024-08-22T13:44:52",
-    "modified_gmt": "2024-08-22T20:44:52",
-    "slug": "clear-how-to-complete-an-owner-submittal",
+    "modified": "2024-08-22T13:49:20",
+    "modified_gmt": "2024-08-22T20:49:20",
+    "slug": "owner-submittal",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/owner-submittal/",
     "title": "CLEaR: How to complete an owner submittal",
     "excerpt": "<p>Each owner must submit an Owner Submittal. After each owner has submitted their Owner Submittal(s), the Department reviews your application. If approved, you will receive instructions on how to pay your annual license fee. After the license fee is paid, your license will be issued.</p>\n",
     "author": 32,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/owner-submittal/",
       "page_title": "CLEaR: How to complete an owner submittal",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLEaR: How to complete an owner submittal",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/owner-submittal/",
       "open_graph_title": "CLEaR: How to complete an owner submittal",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLEaR: How to complete an owner submittal",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-user-guide/owner-submittal/"
   }
 }
