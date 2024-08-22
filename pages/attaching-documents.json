@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-12T21:53:41",
-    "updated_date": "2024-08-12T21:53:46",
+    "updated_date": "2024-08-22T21:00:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,31 +18,29 @@
     "date": "2024-08-12T14:53:41",
     "date_gmt": "2024-08-12T21:53:41",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15472",
-    "modified": "2024-08-12T14:53:46",
-    "modified_gmt": "2024-08-12T21:53:46",
-    "slug": "deficiencies-attaching-documents",
+    "modified": "2024-08-22T14:00:42",
+    "modified_gmt": "2024-08-22T21:00:42",
+    "slug": "attaching-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/deficiencies-attaching-documents/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/",
     "title": "Deficiencies: Attaching Documents",
     "excerpt": "<p>Now scroll down further to the Attachment section that follows the Deficiencies list. Click Add to begin attaching a document. The File Upload pop-up window displays. Click the Add button here to find a file to upload. Select the file and click Open. Now, in the Attachment section, the document you uploaded is displayed. You [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 15586,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -55,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/deficiencies-attaching-documents/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/",
       "page_title": "Deficiencies: Attaching Documents",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,28 +62,16 @@
       "page_social_image_alt": "",
       "meta_title": "Deficiencies: Attaching Documents",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/deficiencies-attaching-documents/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/",
       "open_graph_title": "Deficiencies: Attaching Documents",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Deficiencies: Attaching Documents",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/deficiencies-attaching-documents/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/"
   }
 }
