@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 137,
+      "redirects": 140,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3905,6 +3905,84 @@
       "regex": false,
       "group_id": 1,
       "position": 136,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 386,
+      "url": "/licensing-system-guides/cls-user-guide/cls-logging-in-and-navigation-tips/",
+      "match_url": "/licensing-system-guides/cls-user-guide/cls-logging-in-and-navigation-tips",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-user-guide/navigation-tips/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 137,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 387,
+      "url": "/licensing-system-guides/cls-user-guide/cls-adding-an-additional-account-user/",
+      "match_url": "/licensing-system-guides/cls-user-guide/cls-adding-an-additional-account-user",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-user-guide/additional-user/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 138,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 388,
+      "url": "/licensing-system-guides/cls-user-guide/navigation-tips/",
+      "match_url": "/licensing-system-guides/cls-user-guide/navigation-tips",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-user-guide/navigation-search-learning/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 139,
       "last_access": "-",
       "enabled": true
     }
