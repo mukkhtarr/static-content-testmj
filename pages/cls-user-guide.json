@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T18:12:41",
-    "updated_date": "2024-08-22T21:06:10",
+    "updated_date": "2024-08-23T18:42:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-22T11:12:41",
     "date_gmt": "2024-08-22T18:12:41",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15584",
-    "modified": "2024-08-22T14:06:10",
-    "modified_gmt": "2024-08-22T21:06:10",
-    "slug": "cls-how-to-complete-the-online-application",
+    "modified": "2024-08-23T11:42:00",
+    "modified_gmt": "2024-08-23T18:42:00",
+    "slug": "cls-user-guide",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/",
     "title": "CLS: How to Complete the Online Application",
     "excerpt": "<p>intro to this guide</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/",
       "page_title": "CLS: How to Complete the Online Application",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: How to Complete the Online Application",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/",
       "open_graph_title": "CLS: How to Complete the Online Application",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: How to Complete the Online Application",
@@ -108,6 +108,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/"
   }
 }
