@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T17:28:43",
-    "updated_date": "2024-08-23T18:23:33",
+    "updated_date": "2024-08-23T18:25:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-16T10:28:43",
     "date_gmt": "2024-08-16T17:28:43",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15516",
-    "modified": "2024-08-23T11:23:33",
-    "modified_gmt": "2024-08-23T18:23:33",
+    "modified": "2024-08-23T11:25:02",
+    "modified_gmt": "2024-08-23T18:25:02",
     "slug": "power-and-water",
     "status": "publish",
     "type": "page",
