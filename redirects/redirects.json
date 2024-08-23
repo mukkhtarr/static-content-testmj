@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 119,
+      "redirects": 122,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3437,6 +3437,84 @@
       "regex": false,
       "group_id": 1,
       "position": 118,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 368,
+      "url": "/deficiencies-attaching-documents/",
+      "match_url": "/deficiencies-attaching-documents",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-deficiencies/attaching-documents/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 119,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 369,
+      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-designated-responsible-party/",
+      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-designated-responsible-party",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-deficiencies/designated-responsible-party/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 120,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 370,
+      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-power-and-water-information/",
+      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-power-and-water-information",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 121,
       "last_access": "-",
       "enabled": true
     }
