@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 130,
+      "redirects": 131,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3723,6 +3723,32 @@
       "regex": false,
       "group_id": 1,
       "position": 129,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 379,
+      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/",
+      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-water-electricity/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 130,
       "last_access": "-",
       "enabled": true
     }
