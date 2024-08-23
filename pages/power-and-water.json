@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T17:28:43",
-    "updated_date": "2024-08-23T16:05:38",
+    "updated_date": "2024-08-23T16:32:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-16T10:28:43",
     "date_gmt": "2024-08-16T17:28:43",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15516",
-    "modified": "2024-08-23T09:05:38",
-    "modified_gmt": "2024-08-23T16:05:38",
+    "modified": "2024-08-23T09:32:04",
+    "modified_gmt": "2024-08-23T16:32:04",
     "slug": "power-and-water",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/",
     "title": "CLS: Power and Water Information",
     "excerpt": "<p>This section is for your Power Source. Your current selection(s) are repeated on the righthand, “proposed” side of the screen. Make any changes to the righthand side of the screen by selecting or deselecting the appropriate checkboxes. Select Continue Application to move on to the next page. This section identifies your Source of Water Supply. [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 15584,
+    "parent": 15495,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Science amendment"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -53,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/",
       "page_title": "CLS: Power and Water Information",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,16 +64,33 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: Power and Water Information",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/",
       "open_graph_title": "CLS: Power and Water Information",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: Power and Water Information",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 861,
+        "name": "Science amendment",
+        "slug": "science-amendment",
+        "term_group": 0,
+        "term_taxonomy_id": 861,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 853,
+        "filter": "raw",
+        "cat_ID": 861,
+        "category_description": "",
+        "cat_name": "Science amendment",
+        "category_nicename": "science-amendment",
+        "category_parent": 853
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/"
   }
 }
