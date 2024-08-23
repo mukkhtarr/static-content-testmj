@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-08T20:51:28",
-    "updated_date": "2024-08-22T19:12:41",
+    "updated_date": "2024-08-23T20:14:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-08T13:51:28",
     "date_gmt": "2024-08-08T20:51:28",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15332",
-    "modified": "2024-08-22T12:12:41",
-    "modified_gmt": "2024-08-22T19:12:41",
-    "slug": "cls-applying-for-a-license",
+    "modified": "2024-08-23T13:14:47",
+    "modified_gmt": "2024-08-23T20:14:47",
+    "slug": "applying-for-a-license",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/cls-applying-for-a-license/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/applying-for-a-license/",
     "title": "CLS: Applying for a License",
     "excerpt": "<p>In this section, we will cover how to apply for a cannabis cultivation license. Here is an overview of the process, and what you will need to do: Note: Each person is identified by their unique email address – assign only one unique email address per person. Begin Annual License Application Log into the Licensing [&hellip;]</p>\n",
     "author": 40,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/cls-applying-for-a-license/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/applying-for-a-license/",
       "page_title": "CLS: Applying for a License",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS: Applying for a License",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/cls-applying-for-a-license/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/applying-for-a-license/",
       "open_graph_title": "CLS: Applying for a License",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS: Applying for a License",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/cls-applying-for-a-license/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/applying-for-a-license/"
   }
 }
