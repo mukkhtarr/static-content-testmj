@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-08T20:54:01",
-    "updated_date": "2024-08-23T19:11:42",
+    "updated_date": "2024-08-23T19:15:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-08-08T13:54:01",
     "date_gmt": "2024-08-08T20:54:01",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15314",
-    "modified": "2024-08-23T12:11:42",
-    "modified_gmt": "2024-08-23T19:11:42",
-    "slug": "navigation-tips",
+    "modified": "2024-08-23T12:15:47",
+    "modified_gmt": "2024-08-23T19:15:47",
+    "slug": "navigation-search-learning",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-tips/",
-    "title": "CLS: Logging in and navigation tips",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-search-learning/",
+    "title": "CLS: Navigation, search, and e-learning",
     "excerpt": "<p>Intro to this section</p>\n",
     "author": 40,
     "featured_media": 0,
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-tips/",
-      "page_title": "CLS: Logging in and navigation tips",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-search-learning/",
+      "page_title": "CLS: Navigation, search, and e-learning",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS: Logging in and navigation tips",
+      "meta_title": "CLS: Navigation, search, and e-learning",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-tips/",
-      "open_graph_title": "CLS: Logging in and navigation tips",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-search-learning/",
+      "open_graph_title": "CLS: Navigation, search, and e-learning",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS: Logging in and navigation tips",
+      "twitter_title": "CLS: Navigation, search, and e-learning",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-tips/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/navigation-search-learning/"
   }
 }
