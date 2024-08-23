@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T17:52:48",
-    "updated_date": "2024-08-22T21:07:44",
+    "updated_date": "2024-08-23T16:41:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,29 +18,31 @@
     "date": "2024-08-16T10:52:48",
     "date_gmt": "2024-08-16T17:52:48",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15505",
-    "modified": "2024-08-22T14:07:44",
-    "modified_gmt": "2024-08-22T21:07:44",
+    "modified": "2024-08-23T09:41:47",
+    "modified_gmt": "2024-08-23T16:41:47",
     "slug": "cls-license-information",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information/",
-    "title": "CLS: License Information",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-license-information/",
+    "title": "Science amendments: License information",
     "excerpt": "<p>Per the instructions under License Information, review the information displayed for accuracy. You cannot change any fields here, but you can write a note describing the amendment you are proposing. Notice that the text box can be expanded by dragging the lower right corner. This space should be used to clarify and identify proposed physical [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 15584,
+    "parent": 15495,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Science amendment"
+    ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +55,42 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information/",
-      "page_title": "CLS: License Information",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-license-information/",
+      "page_title": "Science amendments: License information",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS: License Information",
+      "meta_title": "Science amendments: License information",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information/",
-      "open_graph_title": "CLS: License Information",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-license-information/",
+      "open_graph_title": "Science amendments: License information",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS: License Information",
+      "twitter_title": "Science amendments: License information",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 861,
+        "name": "Science amendment",
+        "slug": "science-amendment",
+        "term_group": 0,
+        "term_taxonomy_id": 861,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 853,
+        "filter": "raw",
+        "cat_ID": 861,
+        "category_description": "",
+        "cat_name": "Science amendment",
+        "category_nicename": "science-amendment",
+        "category_parent": 853
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-license-information/"
   }
 }
