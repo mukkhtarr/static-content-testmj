@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 123,
+      "redirects": 127,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3541,6 +3541,110 @@
       "regex": false,
       "group_id": 1,
       "position": 122,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 372,
+      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-declarations/",
+      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-declarations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/declarations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 123,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 373,
+      "url": "/cls-deficiencies/",
+      "match_url": "/cls-deficiencies",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-science-amendment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 124,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 374,
+      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/",
+      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 125,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 375,
+      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/",
+      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/electricity-usage-average-weighted-ggei/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 126,
       "last_access": "-",
       "enabled": true
     }
