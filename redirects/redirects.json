@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 133,
+      "redirects": 136,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3801,6 +3801,84 @@
       "regex": false,
       "group_id": 1,
       "position": 132,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 382,
+      "url": "/cls-submitting-documents/",
+      "match_url": "/cls-submitting-documents",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-user-guide/cls-how-to-submit-a-science-amendment/documents/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 133,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 383,
+      "url": "/licensing-system-guides/cls-user-guide/cls-how-to-submit-a-science-amendment/",
+      "match_url": "/licensing-system-guides/cls-user-guide/cls-how-to-submit-a-science-amendment",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 134,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 384,
+      "url": "/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process/",
+      "match_url": "/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/science-amendment-process/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 135,
       "last_access": "-",
       "enabled": true
     }
