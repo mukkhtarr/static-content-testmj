@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T17:58:19",
-    "updated_date": "2024-08-23T18:36:02",
+    "updated_date": "2024-08-23T18:52:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-08-16T10:58:19",
     "date_gmt": "2024-08-16T17:58:19",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15497",
-    "modified": "2024-08-23T11:36:02",
-    "modified_gmt": "2024-08-23T18:36:02",
+    "modified": "2024-08-23T11:52:10",
+    "modified_gmt": "2024-08-23T18:52:10",
     "slug": "science-amendment-process",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/science-amendment-process/",
     "title": "The science amendment process",
     "excerpt": "<p>Learn about how to get started with a science amendment, how to input your information, and more. All active license records listed on your Licenses page now have an Action link for Amendment. This is one route for submitting a Science Amendment. Select the Amendment link to begin. An alternative method for creating a Science [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 15562,
+    "parent": 15495,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/science-amendment-process/",
       "page_title": "The science amendment process",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "The science amendment process",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/science-amendment-process/",
       "open_graph_title": "The science amendment process",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "The science amendment process",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/science-amendment-process/"
   }
 }
