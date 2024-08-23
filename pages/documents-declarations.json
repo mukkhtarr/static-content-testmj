@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-16T17:13:48",
-    "updated_date": "2024-08-23T18:48:49",
+    "updated_date": "2024-08-23T19:03:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,12 +18,12 @@
     "date": "2024-08-16T10:13:48",
     "date_gmt": "2024-08-16T17:13:48",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15530",
-    "modified": "2024-08-23T11:48:49",
-    "modified_gmt": "2024-08-23T18:48:49",
-    "slug": "documents",
+    "modified": "2024-08-23T12:03:31",
+    "modified_gmt": "2024-08-23T19:03:31",
+    "slug": "documents-declarations",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents-declarations/",
     "title": "Science amendments: Documents and declarations",
     "excerpt": "<p>Learn how to submit documents during the science amendment process. Document submission This step displays a detailed List of Documents. There are several documents that may apply to the Science Amendment, including but not limited to: Attachments At the bottom of the screen in the Attachment section, select the Add button to begin uploading any [&hellip;]</p>\n",
     "author": 40,
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents-declarations/",
       "page_title": "Science amendments: Documents and declarations",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Science amendments: Documents and declarations",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents-declarations/",
       "open_graph_title": "Science amendments: Documents and declarations",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Science amendments: Documents and declarations",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents-declarations/"
   }
 }
