@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 127,
+      "redirects": 128,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -3645,6 +3645,32 @@
       "regex": false,
       "group_id": 1,
       "position": 126,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 376,
+      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information/",
+      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-license-information/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 127,
       "last_access": "-",
       "enabled": true
     }
