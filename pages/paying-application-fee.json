@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-08-22T20:45:55",
-    "updated_date": "2024-08-28T16:32:23",
+    "updated_date": "2024-08-28T16:38:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-08-22T13:45:55",
     "date_gmt": "2024-08-22T20:45:55",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15631",
-    "modified": "2024-08-28T09:32:23",
-    "modified_gmt": "2024-08-28T16:32:23",
+    "modified": "2024-08-28T09:38:00",
+    "modified_gmt": "2024-08-28T16:38:00",
     "slug": "paying-application-fee",
     "status": "publish",
     "type": "page",
