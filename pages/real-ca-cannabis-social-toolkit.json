@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T18:42:11",
-    "updated_date": "2024-09-04T00:09:13",
+    "updated_date": "2024-09-04T21:40:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T11:42:11",
     "date_gmt": "2024-09-03T18:42:11",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15836",
-    "modified": "2024-09-03T17:09:13",
-    "modified_gmt": "2024-09-04T00:09:13",
+    "modified": "2024-09-04T14:40:57",
+    "modified_gmt": "2024-09-04T21:40:57",
     "slug": "real-ca-cannabis-social-toolkit",
     "status": "publish",
     "type": "page",
