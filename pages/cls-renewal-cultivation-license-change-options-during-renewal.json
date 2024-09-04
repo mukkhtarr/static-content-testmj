@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:38:49",
-    "updated_date": "2024-09-04T19:38:54",
+    "updated_date": "2024-09-04T22:43:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T12:38:49",
     "date_gmt": "2024-09-04T19:38:49",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15900",
-    "modified": "2024-09-04T12:38:54",
-    "modified_gmt": "2024-09-04T19:38:54",
+    "modified": "2024-09-04T15:43:32",
+    "modified_gmt": "2024-09-04T22:43:32",
     "slug": "cls-renewal-cultivation-license-change-options-during-renewal",
     "status": "publish",
     "type": "page",
