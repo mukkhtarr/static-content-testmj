@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-11-06T18:44:15",
-    "updated_date": "2024-02-02T00:07:16",
+    "created_date": "2023-10-27T21:25:39",
+    "updated_date": "2024-08-28T18:34:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/14235",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15622",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 14235,
-    "date": "2023-11-06T10:44:15",
-    "date_gmt": "2023-11-06T18:44:15",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14235",
-    "modified": "2024-02-01T16:07:16",
-    "modified_gmt": "2024-02-02T00:07:16",
+    "id": 15622,
+    "date": "2023-10-27T14:25:39",
+    "date_gmt": "2023-10-27T21:25:39",
+    "guid": "https://api.cannabis.ca.gov/?page_id=15622",
+    "modified": "2024-08-28T11:34:28",
+    "modified_gmt": "2024-08-28T18:34:28",
     "slug": "compliance-action-records",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/",
-    "title": "License denials, citations, and disciplinary actions ",
-    "excerpt": "<p>The table below includes information related to license denials, citations, fines, suspensions, and revocations issued by DCC. These actions will not result in further proceedings for which a subsequent Order of Decision pursuant to the Administrative Procedure Act will be issued. &nbsp; How to use this table Click or tap into the business name to [&hellip;]</p>\n",
+    "title": "License denials, citations, and disciplinary actions",
+    "excerpt": "<p>Explore information related to license denials, citations, fines, suspensions, and revocations issued by DCC.</p>\n",
     "author": 33,
     "featured_media": 0,
     "parent": 9438,
@@ -38,9 +38,12 @@
       "_modified_date": ""
     },
     "categories": [
-      "Compliance"
+      "Compliance",
+      "Product safety"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column-wide"
     },
@@ -56,39 +59,67 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/",
-      "page_title": "License denials, citations, and disciplinary actions ",
+      "page_title": "License denials, citations, and disciplinary actions",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "License denials, citations, and disciplinary actions ",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_title": "License denials, citations, and disciplinary actions",
+      "meta_description": "information related to license denials, citations, fines, suspensions, and revocations issued by DCC. An Order of Decision pursuant to the Administrative Procedure Act has not been issued for these matters. Review information related to those decisions and view the specific sections violated by clicking in the Legal Business Name column.",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/",
-      "open_graph_title": "License denials, citations, and disciplinary actions ",
+      "open_graph_title": "License denials, citations, and disciplinary actions",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "License denials, citations, and disciplinary actions ",
+      "twitter_title": "License denials, citations, and disciplinary actions",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 802,
+        "term_id": 886,
         "name": "Compliance",
         "slug": "compliance",
         "term_group": 0,
-        "term_taxonomy_id": 802,
+        "term_taxonomy_id": 886,
         "taxonomy": "category",
         "description": "",
-        "parent": 798,
+        "parent": 799,
         "filter": "raw",
-        "cat_ID": 802,
+        "cat_ID": 886,
         "category_description": "",
         "cat_name": "Compliance",
         "category_nicename": "compliance",
-        "category_parent": 798
+        "category_parent": 799
+      },
+      {
+        "term_id": 938,
+        "name": "Product safety",
+        "slug": "product-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 938,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 938,
+        "category_description": "",
+        "cat_name": "Product safety",
+        "category_nicename": "product-safety",
+        "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-action-records/"

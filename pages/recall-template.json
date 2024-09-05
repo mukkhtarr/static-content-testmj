@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-05-16T18:15:29",
-    "updated_date": "2024-07-17T18:16:46",
+    "created_date": "2024-02-29T18:35:58",
+    "updated_date": "2024-04-17T18:17:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15049",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/17424",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,37 +14,35 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15049,
-    "date": "2024-05-16T11:15:29",
-    "date_gmt": "2024-05-16T18:15:29",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15049",
-    "modified": "2024-07-17T11:16:46",
-    "modified_gmt": "2024-07-17T18:16:46",
+    "id": 17424,
+    "date": "2024-02-29T10:35:58",
+    "date_gmt": "2024-02-29T18:35:58",
+    "guid": "https://api.cannabis.ca.gov/?page_id=17424",
+    "modified": "2024-04-17T11:17:17",
+    "modified_gmt": "2024-04-17T18:17:17",
     "slug": "recall-template",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/recall-template/",
-    "title": "Recall template",
-    "excerpt": "<p>Recall overview INTRO TEXT Business Recall Date DCC Recall Publication Date Recall Type Product Type Product Description Legal Business Name Legal Business License Number Packaged By Packaged By License Number Business Website Dates Sold Product details This recall applies to the following PRODUCT DETAILS HERE Product&nbsp; Batch Number&nbsp; Product Size&nbsp; UID Number&nbsp; Date Packaged&nbsp; Locations [&hellip;]</p>\n",
+    "title": "Recall Template",
+    "excerpt": "<p>Landing page info Recall Date Recall Type Product Product Type Recall Reason Legal Business Name: Additional Details 2/29/24 Voluntary Panda PEN 1 ML Premium Disposable Cartridge Vape Cartridge Labeling Modern Leaf Culture, Inc. View details about the Panda PEN recall 2/21/24 Mandatory LOWELL BIG BUDS Blueberry Kush Indica Cannabis Flower Adulterant: Microbial Contamination (Aspergillus sp.) [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [
-      "Mandatory Recalls",
-      "Recalls and Safety Notices",
-      "Voluntary Recalls"
+    "categories": [],
+    "tags": [
+      "staging"
     ],
-    "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -58,71 +56,34 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/recall-template/",
-      "page_title": "Recall template",
+      "page_title": "Recall Template",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Recall template",
+      "meta_title": "Recall Template",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/recall-template/",
-      "open_graph_title": "Recall template",
+      "open_graph_title": "Recall Template",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Recall template",
+      "twitter_title": "Recall Template",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
+    "headless_categories": [],
+    "headless_tags": [
       {
-        "term_id": 848,
-        "name": "Mandatory Recalls",
-        "slug": "mandatory-recalls",
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
         "term_group": 0,
-        "term_taxonomy_id": 848,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 846,
-        "filter": "raw",
-        "cat_ID": 848,
-        "category_description": "",
-        "cat_name": "Mandatory Recalls",
-        "category_nicename": "mandatory-recalls",
-        "category_parent": 846
-      },
-      {
-        "term_id": 846,
-        "name": "Recalls and Safety Notices",
-        "slug": "recalls-and-safety-notices",
-        "term_group": 0,
-        "term_taxonomy_id": 846,
-        "taxonomy": "category",
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
-        "filter": "raw",
-        "cat_ID": 846,
-        "category_description": "",
-        "cat_name": "Recalls and Safety Notices",
-        "category_nicename": "recalls-and-safety-notices",
-        "category_parent": 0
-      },
-      {
-        "term_id": 847,
-        "name": "Voluntary Recalls",
-        "slug": "voluntary-recalls",
-        "term_group": 0,
-        "term_taxonomy_id": 847,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 846,
-        "filter": "raw",
-        "cat_ID": 847,
-        "category_description": "",
-        "cat_name": "Voluntary Recalls",
-        "category_nicename": "voluntary-recalls",
-        "category_parent": 846
+        "filter": "raw"
       }
     ],
-    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/recall-template/"

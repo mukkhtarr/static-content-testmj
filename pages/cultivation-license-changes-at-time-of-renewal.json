@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "created_date": "2024-08-16T19:04:21",
+    "updated_date": "2024-08-29T22:47:46",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/19483",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 19483,
+    "date": "2024-08-16T12:04:21",
+    "date_gmt": "2024-08-16T19:04:21",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19483",
+    "modified": "2024-08-29T15:47:46",
+    "modified_gmt": "2024-08-29T22:47:46",
+    "slug": "cultivation-license-changes-at-time-of-renewal",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
+    "title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+    "excerpt": "<p>Type:  Emergency rulemaking Status: Filed with OAL on August 23, 2024 and currently under review. Public comments accepted through August 28, 2024. Summary: The Department of Cannabis Control (DCC) has filed an action with the Office of Administrative Law (OAL) to readopt its emergency regulations implementing Senate Bill 833, codified in Business and Professions Code section 26061.5, [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 710,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Regulatory notices"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
+      "page_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/",
+      "open_graph_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cultivation License Changes at Time of Renewal Pursuant to Business and Professions Code section 26061.5",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 945,
+        "name": "Regulatory notices",
+        "slug": "regulatory-notices",
+        "term_group": 0,
+        "term_taxonomy_id": 945,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 802,
+        "filter": "raw",
+        "cat_ID": 945,
+        "category_description": "",
+        "cat_name": "Regulatory notices",
+        "category_nicename": "regulatory-notices",
+        "category_parent": 802
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/cultivation-license-changes-at-time-of-renewal/"
+  }
+}

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-22T17:36:22",
-    "updated_date": "2024-08-22T20:11:54",
+    "created_date": "2024-09-03T22:05:16",
+    "updated_date": "2024-09-03T22:05:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15556",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/19750",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15556,
-    "date": "2024-08-22T10:36:22",
-    "date_gmt": "2024-08-22T17:36:22",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15556",
-    "modified": "2024-08-22T13:11:54",
-    "modified_gmt": "2024-08-22T20:11:54",
+    "id": 19750,
+    "date": "2024-09-03T15:05:16",
+    "date_gmt": "2024-09-03T22:05:16",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19750",
+    "modified": "2024-09-03T15:05:22",
+    "modified_gmt": "2024-09-03T22:05:22",
     "slug": "licensing-system-guides",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/",
     "title": "Licensing system guides",
-    "excerpt": "<p>Intro to licensing system guides CLEaR User Guides CLEaR Renewal: Other license types CLS User Guides</p>\n",
+    "excerpt": "<p>Access comprehensive CLEaR and CLS user guides for renewing cannabis licenses, including step-by-step instructions for labs, distribution, retail, manufacturing, and cultivation. Learn how to complete online applications and address application deficiencies efficiently. CLEaR User Guides CLEaR Renewal: Other license types CLS User Guides</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 0,
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -69,7 +71,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/"

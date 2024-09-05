@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-12T21:51:21",
-    "updated_date": "2024-08-30T15:34:27",
+    "created_date": "2024-09-04T17:21:56",
+    "updated_date": "2024-09-04T23:34:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15486",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/19453",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,35 +14,35 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15486,
-    "date": "2024-08-12T14:51:21",
-    "date_gmt": "2024-08-12T21:51:21",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15486",
-    "modified": "2024-08-30T08:34:27",
-    "modified_gmt": "2024-08-30T15:34:27",
+    "id": 19453,
+    "date": "2024-09-04T10:21:56",
+    "date_gmt": "2024-09-04T17:21:56",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19453",
+    "modified": "2024-09-04T16:34:48",
+    "modified_gmt": "2024-09-04T23:34:48",
     "slug": "designated-responsible-party",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/designated-responsible-party/",
-    "title": "Deficiencies: Designated Responsible Party",
+    "title": "Deficiencies: Designated responsible party",
     "excerpt": "<p>This guide provides comprehensive information on managing and addressing deficiencies for the Designated Responsible Party Below the Attachment section is the Designated Responsible Party section with your personal information (assuming this deficiency notification was sent to you as the DRP for the business). Do not change anything in this section. Click Continue Application. The next [&hellip;]</p>\n",
-    "author": 40,
+    "author": 36,
     "featured_media": 0,
-    "parent": 15586,
+    "parent": 19810,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [
-      "CLS Deficiencies"
+    "categories": [],
+    "tags": [
+      "staging"
     ],
-    "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -56,39 +56,34 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/designated-responsible-party/",
-      "page_title": "Deficiencies: Designated Responsible Party",
+      "page_title": "Deficiencies: Designated responsible party",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Deficiencies: Designated Responsible Party",
+      "meta_title": "Deficiencies: Designated responsible party",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/designated-responsible-party/",
-      "open_graph_title": "Deficiencies: Designated Responsible Party",
+      "open_graph_title": "Deficiencies: Designated responsible party",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Deficiencies: Designated Responsible Party",
+      "twitter_title": "Deficiencies: Designated responsible party",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
+    "headless_categories": [],
+    "headless_tags": [
       {
-        "term_id": 858,
-        "name": "CLS Deficiencies",
-        "slug": "cls-deficiencies",
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
         "term_group": 0,
-        "term_taxonomy_id": 858,
-        "taxonomy": "category",
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
         "description": "",
-        "parent": 853,
-        "filter": "raw",
-        "cat_ID": 858,
-        "category_description": "",
-        "cat_name": "CLS Deficiencies",
-        "category_nicename": "cls-deficiencies",
-        "category_parent": 853
+        "parent": 0,
+        "filter": "raw"
       }
     ],
-    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/designated-responsible-party/"

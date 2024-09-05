@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-22T17:44:04",
-    "updated_date": "2024-08-22T20:29:28",
+    "created_date": "2024-09-03T22:17:53",
+    "updated_date": "2024-09-03T23:14:39",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15558",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/19762",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,35 +14,37 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15558,
-    "date": "2024-08-22T10:44:04",
-    "date_gmt": "2024-08-22T17:44:04",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15558",
-    "modified": "2024-08-22T13:29:28",
-    "modified_gmt": "2024-08-22T20:29:28",
+    "id": 19762,
+    "date": "2024-09-03T15:17:53",
+    "date_gmt": "2024-09-03T22:17:53",
+    "guid": "https://api.cannabis.ca.gov/?page_id=19762",
+    "modified": "2024-09-03T16:14:39",
+    "modified_gmt": "2024-09-03T23:14:39",
     "slug": "clear-renewal-manufacturing",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/",
-    "title": "CLEaR Renewal: Manufacturing",
+    "title": "CLEaR renewal: Manufacturing",
     "excerpt": "<p>Cannabis Licensing Enforcement and Reporting (CLEaR) User Guide</p>\n",
     "author": 32,
     "featured_media": 0,
-    "parent": 15556,
+    "parent": 19750,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "CLEaR User Guides"
+      "Licensing system guides"
     ],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -56,39 +58,51 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/",
-      "page_title": "CLEaR Renewal: Manufacturing",
+      "page_title": "CLEaR renewal: Manufacturing",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLEaR Renewal: Manufacturing",
+      "meta_title": "CLEaR renewal: Manufacturing",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/",
-      "open_graph_title": "CLEaR Renewal: Manufacturing",
+      "open_graph_title": "CLEaR renewal: Manufacturing",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLEaR Renewal: Manufacturing",
+      "twitter_title": "CLEaR renewal: Manufacturing",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 852,
-        "name": "CLEaR User Guides",
-        "slug": "clear-user-guides",
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
         "term_group": 0,
-        "term_taxonomy_id": 852,
+        "term_taxonomy_id": 911,
         "taxonomy": "category",
         "description": "",
-        "parent": 851,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 852,
+        "cat_ID": 911,
         "category_description": "",
-        "cat_name": "CLEaR User Guides",
-        "category_nicename": "clear-user-guides",
-        "category_parent": 851
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/clear-renewal-manufacturing/"

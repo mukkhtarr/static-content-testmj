@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-30T23:22:53",
-    "updated_date": "2022-12-31T00:56:12",
+    "updated_date": "2024-08-13T18:21:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2021-12-30T15:22:53",
     "date_gmt": "2021-12-30T23:22:53",
     "guid": "https://cannabis.ca.gov/?page_id=9249",
-    "modified": "2022-12-30T16:56:12",
-    "modified_gmt": "2022-12-31T00:56:12",
+    "modified": "2024-08-13T11:21:47",
+    "modified_gmt": "2024-08-13T18:21:47",
     "slug": "equity-fee-relief",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/applicants/equity-fee-relief/",
     "title": "Equity fee relief",
-    "excerpt": "<p>If you were negatively affected by the criminalization of cannabis, you can apply to have your license fee waived and/or deferred. Read the eligibility criteria below for fee waivers and fee deferrals, or download a guidance document. Business eligibility There are two basic requirements for getting equity fee relief. If your business meets them both, [&hellip;]</p>\n",
-    "author": 2,
+    "excerpt": "<p>If you were negatively affected by the criminalization of cannabis, you can apply to have your license fee waived and/or deferred.</p>\n",
+    "author": 32,
     "featured_media": 0,
     "parent": 756,
     "menu_order": 0,
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Equity fee relief"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -68,7 +70,24 @@
       "twitter_title": "Equity fee relief",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 855,
+        "name": "Equity fee relief",
+        "slug": "equity-fee-relief",
+        "term_group": 0,
+        "term_taxonomy_id": 855,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 855,
+        "category_description": "",
+        "cat_name": "Equity fee relief",
+        "category_nicename": "equity-fee-relief",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],

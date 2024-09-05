@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-07-02T17:10:50",
-    "updated_date": "2024-07-02T20:44:37",
+    "created_date": "2024-07-02T19:52:43",
+    "updated_date": "2024-07-03T16:31:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15153",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/18625",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,20 +14,20 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15153,
-    "date": "2024-07-02T10:10:50",
-    "date_gmt": "2024-07-02T17:10:50",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15153",
-    "modified": "2024-07-02T13:44:37",
-    "modified_gmt": "2024-07-02T20:44:37",
+    "id": 18625,
+    "date": "2024-07-02T12:52:43",
+    "date_gmt": "2024-07-02T19:52:43",
+    "guid": "https://api.cannabis.ca.gov/?page_id=18625",
+    "modified": "2024-07-03T09:31:31",
+    "modified_gmt": "2024-07-03T16:31:31",
     "slug": "west-coast-cure-live-resin-vape-cartridge",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/",
     "title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
     "excerpt": "<p>Recall overview The Department of Cannabis Control (DCC) is issuing this mandatory recall of a single WEST COAST CURE LIVE RESIN Vape Cartridge product due to the presence of the pesticide chlorfenapyr. DCC Recall Publication Date July 2, 2024 Recall Type Mandatory Product Type Vape Cartridge Product Description WEST COAST CURE LIVE RESIN Vape Cartridge [&hellip;]</p>\n",
-    "author": 40,
-    "featured_media": 0,
+    "author": 32,
+    "featured_media": 18651,
     "parent": 9345,
     "menu_order": 0,
     "comment_status": "closed",
@@ -38,12 +38,10 @@
       "_modified_date": ""
     },
     "categories": [
-      "Mandatory Recalls",
-      "Recalls and Safety Notices"
+      "Mandatory recalls",
+      "Recalls and safety notices"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -61,12 +59,12 @@
       "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/",
       "page_title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
       "page_description": "Learn about California cannabis laws and licenses",
-      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_url": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2024/07/slymer.jpg",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Mandatory recall of a single WEST COAST CURE LIVE RESIN Vape Cartridge product due to the presence of the pesticide chlorfenapyr.",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/",
       "open_graph_title": "WEST COAST CURE LIVE RESIN Vape Cartridge",
       "open_graph_description": "Learn about California cannabis laws and licenses",
@@ -75,51 +73,39 @@
     },
     "headless_categories": [
       {
-        "term_id": 848,
-        "name": "Mandatory Recalls",
+        "term_id": 813,
+        "name": "Mandatory recalls",
         "slug": "mandatory-recalls",
         "term_group": 0,
-        "term_taxonomy_id": 848,
+        "term_taxonomy_id": 813,
         "taxonomy": "category",
         "description": "",
-        "parent": 846,
+        "parent": 812,
         "filter": "raw",
-        "cat_ID": 848,
+        "cat_ID": 813,
         "category_description": "",
-        "cat_name": "Mandatory Recalls",
+        "cat_name": "Mandatory recalls",
         "category_nicename": "mandatory-recalls",
-        "category_parent": 846
+        "category_parent": 812
       },
       {
-        "term_id": 846,
-        "name": "Recalls and Safety Notices",
+        "term_id": 812,
+        "name": "Recalls and safety notices",
         "slug": "recalls-and-safety-notices",
         "term_group": 0,
-        "term_taxonomy_id": 846,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 846,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "Recalls and Safety Notices",
+        "cat_name": "Recalls and safety notices",
         "category_nicename": "recalls-and-safety-notices",
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/"

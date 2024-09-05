@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-09-03T18:42:11",
-    "updated_date": "2024-09-04T21:40:57",
+    "created_date": "2024-05-07T19:55:45",
+    "updated_date": "2024-09-04T21:54:35",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/15836",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/18169",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,12 +14,12 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 15836,
-    "date": "2024-09-03T11:42:11",
-    "date_gmt": "2024-09-03T18:42:11",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=15836",
-    "modified": "2024-09-04T14:40:57",
-    "modified_gmt": "2024-09-04T21:40:57",
+    "id": 18169,
+    "date": "2024-05-07T12:55:45",
+    "date_gmt": "2024-05-07T19:55:45",
+    "guid": "https://api.cannabis.ca.gov/?page_id=18169",
+    "modified": "2024-09-04T14:54:35",
+    "modified_gmt": "2024-09-04T21:54:35",
     "slug": "real-ca-cannabis-social-toolkit",
     "status": "publish",
     "type": "page",
@@ -32,15 +32,17 @@
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -69,7 +71,19 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/real-ca-cannabis-social-toolkit/"
