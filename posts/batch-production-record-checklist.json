@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-06-30T17:03:17",
+    "updated_date": "2024-01-26T01:30:04",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13957",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13957,
+    "date": "2023-06-30T10:03:17",
+    "date_gmt": "2023-06-30T17:03:17",
+    "guid": "https://api.cannabis.ca.gov/?p=13957",
+    "modified": "2024-01-25T17:30:04",
+    "modified_gmt": "2024-01-26T01:30:04",
+    "slug": "batch-production-record-checklist",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/06/batch-production-record-checklist/",
+    "title": "Batch production record checklist",
+    "excerpt": "<p>Batch production records document all the steps you take to create your product. Most manufacturers create a template that their staff can fill out when they complete each step. Use the this checklist to make sure your templates include the required information.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Checklist",
+      "Manufacturing documentation"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/06/batch-production-record-checklist/",
+      "page_title": "Batch production record checklist",
+      "page_description": "Batch production records document all the steps you take to create your product. Most manufacturers create a template that their staff can fill out when they complete each step. Use the this checklist to make sure your templates include the required information.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Batch production record checklist",
+      "meta_description": "Batch production records document all the steps you take to create your product. Most manufacturers create a template that their staff can fill out when they complete each step. Use the this checklist to make sure your templates include the required information.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/06/batch-production-record-checklist/",
+      "open_graph_title": "Batch production record checklist",
+      "open_graph_description": "Batch production records document all the steps you take to create your product. Most manufacturers create a template that their staff can fill out when they complete each step. Use the this checklist to make sure your templates include the required information.",
+      "twitter_title": "Batch production record checklist",
+      "twitter_description": "Batch production records document all the steps you take to create your product. Most manufacturers create a template that their staff can fill out when they complete each step. Use the this checklist to make sure your templates include the required information."
+    },
+    "headless_categories": [
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
+      {
+        "term_id": 865,
+        "name": "Manufacturing documentation",
+        "slug": "manufacturing-documentation",
+        "term_group": 0,
+        "term_taxonomy_id": 865,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 865,
+        "category_description": "",
+        "cat_name": "Manufacturing documentation",
+        "category_nicename": "manufacturing-documentation",
+        "category_parent": 800
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/06/batch-production-record-checklist/"
+  }
+}

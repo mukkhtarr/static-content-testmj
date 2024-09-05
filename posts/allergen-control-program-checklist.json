@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "created_date": "2023-10-11T16:45:39",
+    "updated_date": "2023-10-24T18:15:10",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14942",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14942,
+    "date": "2023-10-11T09:45:39",
+    "date_gmt": "2023-10-11T16:45:39",
+    "guid": "https://api.cannabis.ca.gov/?p=14942",
+    "modified": "2023-10-24T11:15:10",
+    "modified_gmt": "2023-10-24T18:15:10",
+    "slug": "allergen-control-program-checklist",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/10/allergen-control-program-checklist/",
+    "title": "Allergen control program checklist",
+    "excerpt": "<p>Used in conjunction with the Allergy Guidance document, this checklist will assist you in establishing and implementing a written allergen control program as required by the California Code of Regulations, title 4 (4 CCR) section 17214(d)(3), Product Quality Plan.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Allergens",
+      "CannaConnect",
+      "Checklist",
+      "Safety"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/allergen-control-program-checklist/",
+      "page_title": "Allergen control program checklist",
+      "page_description": "Used in conjunction with the Allergy Guidance document, this checklist will assist you in establishing and implementing a written allergen control program as required by the California Code of Regulations, title 4 (4 CCR) section 17214(d)(3), Product Quality Plan.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Allergen control program checklist",
+      "meta_description": "Used in conjunction with the Allergy Guidance document, this checklist will assist you in establishing and implementing a written allergen control program as required by the California Code of Regulations, title 4 (4 CCR) section 17214(d)(3), Product Quality Plan.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/10/allergen-control-program-checklist/",
+      "open_graph_title": "Allergen control program checklist",
+      "open_graph_description": "Used in conjunction with the Allergy Guidance document, this checklist will assist you in establishing and implementing a written allergen control program as required by the California Code of Regulations, title 4 (4 CCR) section 17214(d)(3), Product Quality Plan.",
+      "twitter_title": "Allergen control program checklist",
+      "twitter_description": "Used in conjunction with the Allergy Guidance document, this checklist will assist you in establishing and implementing a written allergen control program as required by the California Code of Regulations, title 4 (4 CCR) section 17214(d)(3), Product Quality Plan."
+    },
+    "headless_categories": [
+      {
+        "term_id": 866,
+        "name": "Allergens",
+        "slug": "allergens",
+        "term_group": 0,
+        "term_taxonomy_id": 866,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 866,
+        "category_description": "",
+        "cat_name": "Allergens",
+        "category_nicename": "allergens",
+        "category_parent": 800
+      },
+      {
+        "term_id": 810,
+        "name": "CannaConnect",
+        "slug": "cannaconnect",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "CannaConnect",
+        "category_nicename": "cannaconnect",
+        "category_parent": 0
+      },
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
+      {
+        "term_id": 805,
+        "name": "Safety",
+        "slug": "safety",
+        "term_group": 0,
+        "term_taxonomy_id": 805,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 805,
+        "category_description": "",
+        "cat_name": "Safety",
+        "category_nicename": "safety",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/10/allergen-control-program-checklist/"
+  }
+}

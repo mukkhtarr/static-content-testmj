@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2017-10-23T18:34:00",
-    "updated_date": "2022-10-02T23:49:42",
+    "created_date": "2017-10-24T01:34:00",
+    "updated_date": "2023-10-25T18:16:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6277,
     "date": "2017-10-23T18:34:00",
-    "date_gmt": "2017-10-23T18:34:00",
+    "date_gmt": "2017-10-24T01:34:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/pot-growers-in-sacramento-will-need-a-lot-of-electricity-smud-wants-to-help/",
-    "modified": "2022-10-02T16:49:42",
-    "modified_gmt": "2022-10-02T23:49:42",
+    "modified": "2023-10-25T11:16:37",
+    "modified_gmt": "2023-10-25T18:16:37",
     "slug": "pot-growers-in-sacramento-will-need-a-lot-of-electricity-smud-wants-to-help",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "2017 announcements",
+      "Announcements",
+      "Press Releases"
     ],
     "tags": [
       "Cannabis",
@@ -77,6 +79,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 828,
+        "name": "2017 announcements",
+        "slug": "2017",
+        "term_group": 0,
+        "term_taxonomy_id": 828,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 828,
+        "category_description": "",
+        "cat_name": "2017 announcements",
+        "category_nicename": "2017",
+        "category_parent": 14
+      },
+      {
         "term_id": 14,
         "name": "Announcements",
         "slug": "announcements",
@@ -90,6 +108,22 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 16,
+        "name": "Press Releases",
+        "slug": "press-releases",
+        "term_group": 0,
+        "term_taxonomy_id": 16,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 16,
+        "category_description": "",
+        "cat_name": "Press Releases",
+        "category_nicename": "press-releases",
         "category_parent": 0
       }
     ],

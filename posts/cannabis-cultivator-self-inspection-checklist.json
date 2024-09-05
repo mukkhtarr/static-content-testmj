@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-06-02T20:56:47",
+    "updated_date": "2024-05-03T22:34:57",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13740",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13740,
+    "date": "2023-06-02T13:56:47",
+    "date_gmt": "2023-06-02T20:56:47",
+    "guid": "https://api.cannabis.ca.gov/?p=13740",
+    "modified": "2024-05-03T15:34:57",
+    "modified_gmt": "2024-05-03T22:34:57",
+    "slug": "cannabis-cultivator-self-inspection-checklist",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/06/cannabis-cultivator-self-inspection-checklist/",
+    "title": "Cannabis cultivator: self-inspection checklist",
+    "excerpt": "<p>This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control (Department) staff. The items listed below represent the major areas evaluated during a routine compliance inspection. Form DCC-3204.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Checklist",
+      "Cultivation"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/06/cannabis-cultivator-self-inspection-checklist/",
+      "page_title": "Cannabis cultivator: self-inspection checklist",
+      "page_description": "This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control (Department) staff. The items listed below represent the major areas evaluated during a routine compliance inspection. Form DCC-3204.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cannabis cultivator: self-inspection checklist",
+      "meta_description": "This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control (Department) staff. The items listed below represent the major areas evaluated during a routine compliance inspection. Form DCC-3204.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/06/cannabis-cultivator-self-inspection-checklist/",
+      "open_graph_title": "Cannabis cultivator: self-inspection checklist",
+      "open_graph_description": "This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control (Department) staff. The items listed below represent the major areas evaluated during a routine compliance inspection. Form DCC-3204.",
+      "twitter_title": "Cannabis cultivator: self-inspection checklist",
+      "twitter_description": "This checklist is designed to help you review the conditions of your cannabis cultivation (including nursery or processing) facility in preparation for an inspection by Department of Cannabis Control (Department) staff. The items listed below represent the major areas evaluated during a routine compliance inspection. Form DCC-3204."
+    },
+    "headless_categories": [
+      {
+        "term_id": 808,
+        "name": "Checklist",
+        "slug": "checklist",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Checklist",
+        "category_nicename": "checklist",
+        "category_parent": 809
+      },
+      {
+        "term_id": 801,
+        "name": "Cultivation",
+        "slug": "cultivation",
+        "term_group": 0,
+        "term_taxonomy_id": 801,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 801,
+        "category_description": "",
+        "cat_name": "Cultivation",
+        "category_nicename": "cultivation",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/06/cannabis-cultivator-self-inspection-checklist/"
+  }
+}

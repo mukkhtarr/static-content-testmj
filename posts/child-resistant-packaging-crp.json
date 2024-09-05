@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-07-28T23:27:14",
-    "updated_date": "2023-07-28T23:27:20",
+    "created_date": "2023-08-17T23:30:42",
+    "updated_date": "2024-08-27T22:48:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13970",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14501",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,36 +14,39 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 13970,
-    "date": "2023-07-28T16:27:14",
-    "date_gmt": "2023-07-28T23:27:14",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=13970",
-    "modified": "2023-07-28T16:27:20",
-    "modified_gmt": "2023-07-28T23:27:20",
+    "id": 14501,
+    "date": "2023-08-17T16:30:42",
+    "date_gmt": "2023-08-17T23:30:42",
+    "guid": "https://api.cannabis.ca.gov/?p=14501",
+    "modified": "2024-08-27T15:48:27",
+    "modified_gmt": "2024-08-27T22:48:27",
     "slug": "child-resistant-packaging-crp",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/07/child-resistant-packaging-crp/",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/08/child-resistant-packaging-crp/",
     "title": "Child-resistant Packaging (CRP)",
-    "excerpt": "<p>State law requires that all cannabis goods are sold in child-resistant packaging (CRP).  CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements. </p>\n",
+    "excerpt": "<p>State law requires that all cannabis goods are sold in child-resistant packaging (CRP). CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "CannaConnect",
-      "Packaging and labeling"
+      "Fact Sheet",
+      "Manufacturing",
+      "Packaging",
+      "Product safety",
+      "Safety"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -56,53 +59,101 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/child-resistant-packaging-crp/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/child-resistant-packaging-crp/",
       "page_title": "Child-resistant Packaging (CRP)",
-      "page_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP).  CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements. ",
+      "page_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP). CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Child-resistant Packaging (CRP)",
-      "meta_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP).  CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements. ",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/child-resistant-packaging-crp/",
+      "meta_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP). CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/08/child-resistant-packaging-crp/",
       "open_graph_title": "Child-resistant Packaging (CRP)",
-      "open_graph_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP).  CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements. ",
+      "open_graph_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP). CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements.",
       "twitter_title": "Child-resistant Packaging (CRP)",
-      "twitter_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP).  CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements. "
+      "twitter_description": "State law requires that all cannabis goods are sold in child-resistant packaging (CRP). CRP is packaging that is designed to be hard for children under five years of age to open. It is the responsibility of the licensee that packaged the cannabis good to make sure that the package meets CRP requirements."
     },
     "headless_categories": [
       {
-        "term_id": 798,
-        "name": "CannaConnect",
-        "slug": "cannaconnect",
+        "term_id": 807,
+        "name": "Fact Sheet",
+        "slug": "fact-sheet",
         "term_group": 0,
-        "term_taxonomy_id": 798,
+        "term_taxonomy_id": 807,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 807,
+        "category_description": "",
+        "cat_name": "Fact Sheet",
+        "category_nicename": "fact-sheet",
+        "category_parent": 809
+      },
+      {
+        "term_id": 800,
+        "name": "Manufacturing",
+        "slug": "manufacturing",
+        "term_group": 0,
+        "term_taxonomy_id": 800,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 799,
+        "filter": "raw",
+        "cat_ID": 800,
+        "category_description": "",
+        "cat_name": "Manufacturing",
+        "category_nicename": "manufacturing",
+        "category_parent": 799
+      },
+      {
+        "term_id": 864,
+        "name": "Packaging",
+        "slug": "packaging",
+        "term_group": 0,
+        "term_taxonomy_id": 864,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 864,
+        "category_description": "",
+        "cat_name": "Packaging",
+        "category_nicename": "packaging",
+        "category_parent": 800
+      },
+      {
+        "term_id": 938,
+        "name": "Product safety",
+        "slug": "product-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 938,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 798,
+        "cat_ID": 938,
         "category_description": "",
-        "cat_name": "CannaConnect",
-        "category_nicename": "cannaconnect",
+        "cat_name": "Product safety",
+        "category_nicename": "product-safety",
         "category_parent": 0
       },
       {
-        "term_id": 804,
-        "name": "Packaging and labeling",
-        "slug": "packaging-and-labeling",
+        "term_id": 805,
+        "name": "Safety",
+        "slug": "safety",
         "term_group": 0,
-        "term_taxonomy_id": 804,
+        "term_taxonomy_id": 805,
         "taxonomy": "category",
         "description": "",
-        "parent": 798,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 804,
+        "cat_ID": 805,
         "category_description": "",
-        "cat_name": "Packaging and labeling",
-        "category_nicename": "packaging-and-labeling",
-        "category_parent": 798
+        "cat_name": "Safety",
+        "category_nicename": "safety",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
@@ -116,6 +167,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/child-resistant-packaging-crp/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/08/child-resistant-packaging-crp/"
   }
 }

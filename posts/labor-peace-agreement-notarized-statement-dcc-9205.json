@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "created_date": "2023-11-03T19:40:47",
+    "updated_date": "2024-06-19T21:48:09",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/15843",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 15843,
+    "date": "2023-11-03T12:40:47",
+    "date_gmt": "2023-11-03T19:40:47",
+    "guid": "https://api.cannabis.ca.gov/?p=15843",
+    "modified": "2024-06-19T14:48:09",
+    "modified_gmt": "2024-06-19T21:48:09",
+    "slug": "labor-peace-agreement-notarized-statement-dcc-9205",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/11/labor-peace-agreement-notarized-statement-dcc-9205/",
+    "title": "Form 9205: Labor Peace Agreement Notarized Statement",
+    "excerpt": "<p>An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. </p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Forms",
+      "Labor peace"
+    ],
+    "tags": [
+      "form",
+      "labor peace",
+      "latest updates"
+    ],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/11/labor-peace-agreement-notarized-statement-dcc-9205/",
+      "page_title": "Form 9205: Labor Peace Agreement Notarized Statement",
+      "page_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. ",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Form 9205: Labor Peace Agreement Notarized Statement",
+      "meta_description": "Labor peace agreement notarized statement (form 9205).",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/11/labor-peace-agreement-notarized-statement-dcc-9205/",
+      "open_graph_title": "Form 9205: Labor Peace Agreement Notarized Statement",
+      "open_graph_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. ",
+      "twitter_title": "Form 9205: Labor Peace Agreement Notarized Statement",
+      "twitter_description": "An applicant for a commercial cannabis business that has not already entered into a labor peace agreement may use this form to complete the notarized statement. This must be submitted along with form DCC-LIC-027. "
+    },
+    "headless_categories": [
+      {
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
+        "term_group": 0,
+        "term_taxonomy_id": 845,
+        "taxonomy": "category",
+        "description": "View all forms for DCC.",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
+        "category_parent": 2
+      },
+      {
+        "term_id": 821,
+        "name": "Labor peace",
+        "slug": "labor-peace",
+        "term_group": 0,
+        "term_taxonomy_id": 821,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 820,
+        "filter": "raw",
+        "cat_ID": 821,
+        "category_description": "",
+        "cat_name": "Labor peace",
+        "category_nicename": "labor-peace",
+        "category_parent": 820
+      }
+    ],
+    "headless_tags": [
+      {
+        "term_id": 927,
+        "name": "form",
+        "slug": "form",
+        "term_group": 0,
+        "term_taxonomy_id": 927,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 926,
+        "name": "labor peace",
+        "slug": "labor-peace",
+        "term_group": 0,
+        "term_taxonomy_id": 926,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 922,
+        "name": "latest updates",
+        "slug": "latest-updates",
+        "term_group": 0,
+        "term_taxonomy_id": 922,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/11/labor-peace-agreement-notarized-statement-dcc-9205/"
+  }
+}
