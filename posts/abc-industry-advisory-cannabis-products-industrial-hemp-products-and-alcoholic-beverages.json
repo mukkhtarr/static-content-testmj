@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-11-02T00:00:09",
-    "updated_date": "2022-10-02T23:47:26",
+    "updated_date": "2023-08-11T18:34:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2021-11-01T17:00:09",
     "date_gmt": "2021-11-02T00:00:09",
     "guid": "https://cannabis.ca.gov/?p=8942",
-    "modified": "2022-10-02T16:47:26",
-    "modified_gmt": "2022-10-02T23:47:26",
+    "modified": "2023-08-11T11:34:06",
+    "modified_gmt": "2023-08-11T18:34:06",
     "slug": "abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2021 announcements",
       "Announcements"
     ],
     "tags": [
@@ -75,6 +76,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 824,
+        "name": "2021 announcements",
+        "slug": "2021",
+        "term_group": 0,
+        "term_taxonomy_id": 824,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 824,
+        "category_description": "",
+        "cat_name": "2021 announcements",
+        "category_nicename": "2021",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",

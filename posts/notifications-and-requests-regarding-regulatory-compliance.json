@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-07-14T22:13:28",
-    "updated_date": "2023-07-14T22:20:15",
+    "created_date": "2024-01-01T18:05:29",
+    "updated_date": "2024-05-17T22:20:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13735",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14727",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,35 +14,36 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 13735,
-    "date": "2023-07-14T15:13:28",
-    "date_gmt": "2023-07-14T22:13:28",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=13735",
-    "modified": "2023-07-14T15:20:15",
-    "modified_gmt": "2023-07-14T22:20:15",
+    "id": 14727,
+    "date": "2024-01-01T10:05:29",
+    "date_gmt": "2024-01-01T18:05:29",
+    "guid": "https://api.cannabis.ca.gov/?p=14727",
+    "modified": "2024-05-17T15:20:29",
+    "modified_gmt": "2024-05-17T22:20:29",
     "slug": "notifications-and-requests-regarding-regulatory-compliance",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-regarding-regulatory-compliance/",
-    "title": "Notifications and Requests Regarding Regulatory Compliance",
-    "excerpt": "<p>This form is for use by licensees who need to provide a notification to the Department or request approval from the Department, as required under the regulations. Directions for completing the form and providing supporting documents can be found below under Form Instructions. https://testmj.com/wp-content/uploads/sites/2/2021/12/DCC-LIC-028-Notifications-and-Requests-Regarding-Regulatory-Compliance.pdf</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-regarding-regulatory-compliance/",
+    "title": "Form 28: Notifications and Requests Regarding Regulatory Compliance",
+    "excerpt": "<p>Use this form to provide notification to the Department for regulatory compliance as required by regulations.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Provisional license forms"
+      "Forms",
+      "Notifications and requests"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -55,37 +56,53 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-regarding-regulatory-compliance/",
-      "page_title": "Notifications and Requests Regarding Regulatory Compliance",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-regarding-regulatory-compliance/",
+      "page_title": "Form 28: Notifications and Requests Regarding Regulatory Compliance",
+      "page_description": "Use this form to provide notification to the Department for regulatory compliance as required by regulations.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Notifications and Requests Regarding Regulatory Compliance",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-regarding-regulatory-compliance/",
-      "open_graph_title": "Notifications and Requests Regarding Regulatory Compliance",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Notifications and Requests Regarding Regulatory Compliance",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "meta_title": "Form 28: Notifications and Requests Regarding Regulatory Compliance",
+      "meta_description": "Use this form to provide notification to the Department for regulatory compliance as required by regulations.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-regarding-regulatory-compliance/",
+      "open_graph_title": "Form 28: Notifications and Requests Regarding Regulatory Compliance",
+      "open_graph_description": "Use this form to provide notification to the Department for regulatory compliance as required by regulations.",
+      "twitter_title": "Form 28: Notifications and Requests Regarding Regulatory Compliance",
+      "twitter_description": "Use this form to provide notification to the Department for regulatory compliance as required by regulations."
     },
     "headless_categories": [
       {
-        "term_id": 807,
-        "name": "Provisional license forms",
-        "slug": "provisional-license-forms",
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
         "term_group": 0,
-        "term_taxonomy_id": 807,
+        "term_taxonomy_id": 845,
+        "taxonomy": "category",
+        "description": "View all forms for DCC.",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
+        "category_parent": 2
+      },
+      {
+        "term_id": 846,
+        "name": "Notifications and requests",
+        "slug": "notifications-and-requests",
+        "term_group": 0,
+        "term_taxonomy_id": 846,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 806,
         "filter": "raw",
-        "cat_ID": 807,
+        "cat_ID": 846,
         "category_description": "",
-        "cat_name": "Provisional license forms",
-        "category_nicename": "provisional-license-forms",
-        "category_parent": 799
+        "cat_name": "Notifications and requests",
+        "category_nicename": "notifications-and-requests",
+        "category_parent": 806
       }
     ],
     "headless_tags": [],
@@ -99,6 +116,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-regarding-regulatory-compliance/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-regarding-regulatory-compliance/"
   }
 }

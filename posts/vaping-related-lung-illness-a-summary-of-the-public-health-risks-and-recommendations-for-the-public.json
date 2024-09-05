@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2019-09-26T19:43:00",
-    "updated_date": "2022-10-02T23:47:28",
+    "created_date": "2019-09-27T02:43:00",
+    "updated_date": "2024-07-03T17:24:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6194,
     "date": "2019-09-26T19:43:00",
-    "date_gmt": "2019-09-26T19:43:00",
+    "date_gmt": "2019-09-27T02:43:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/",
-    "modified": "2022-10-02T16:47:28",
-    "modified_gmt": "2022-10-02T23:47:28",
+    "modified": "2024-07-03T10:24:10",
+    "modified_gmt": "2024-07-03T17:24:10",
     "slug": "vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public",
     "status": "publish",
     "type": "post",
@@ -38,12 +38,12 @@
       "_modified_date": ""
     },
     "categories": [
+      "2019 announcements",
       "Announcements"
     ],
     "tags": [
       "California Department of Public Health",
       "Cannabis",
-      "Cartridges",
       "CDPH",
       "Health",
       "Health advisory",
@@ -86,6 +86,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 826,
+        "name": "2019 announcements",
+        "slug": "2019",
+        "term_group": 0,
+        "term_taxonomy_id": 826,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 826,
+        "category_description": "",
+        "cat_name": "2019 announcements",
+        "category_nicename": "2019",
+        "category_parent": 14
+      },
+      {
         "term_id": 14,
         "name": "Announcements",
         "slug": "announcements",
@@ -120,17 +136,6 @@
         "slug": "cannabis",
         "term_group": 0,
         "term_taxonomy_id": 122,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 177,
-        "name": "Cartridges",
-        "slug": "cartridges",
-        "term_group": 0,
-        "term_taxonomy_id": 177,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,

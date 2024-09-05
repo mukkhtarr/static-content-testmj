@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2019-09-27T00:13:00",
-    "updated_date": "2022-10-02T23:47:28",
+    "created_date": "2019-09-27T07:13:00",
+    "updated_date": "2024-07-03T17:23:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -16,10 +16,10 @@
   "data": {
     "id": 6193,
     "date": "2019-09-27T00:13:00",
-    "date_gmt": "2019-09-27T00:13:00",
+    "date_gmt": "2019-09-27T07:13:00",
     "guid": "http://wordpress.test:8888/content-types/announcement/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
-    "modified": "2022-10-02T16:47:28",
-    "modified_gmt": "2022-10-02T23:47:28",
+    "modified": "2024-07-03T10:23:56",
+    "modified_gmt": "2024-07-03T17:23:56",
     "slug": "bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "2019 announcements",
       "Announcements"
     ],
     "tags": [
@@ -46,7 +47,6 @@
       "Cannabis enforcement",
       "Cannabis enforcement unit",
       "Cannabis products",
-      "Cartridges",
       "CDTFA",
       "Consumer",
       "Counterfeit cannabis",
@@ -55,9 +55,7 @@
       "Health",
       "Illegal",
       "Safety",
-      "Tip",
-      "Vape",
-      "Vape cartridges"
+      "Tip"
     ],
     "design_system_fields": {
       "template": "template-single"
@@ -89,6 +87,22 @@
       "twitter_description": "The Bureau of Cannabis Control and DCA’s Cannabis Enforcement Unit received a tip yesterday from the California Department of Tax and Fee Administration concerning a smoke shop illegally selling counterfeit cannabis products in Fresno."
     },
     "headless_categories": [
+      {
+        "term_id": 826,
+        "name": "2019 announcements",
+        "slug": "2019",
+        "term_group": 0,
+        "term_taxonomy_id": 826,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 826,
+        "category_description": "",
+        "cat_name": "2019 announcements",
+        "category_nicename": "2019",
+        "category_parent": 14
+      },
       {
         "term_id": 14,
         "name": "Announcements",
@@ -157,17 +171,6 @@
         "slug": "cannabis-products",
         "term_group": 0,
         "term_taxonomy_id": 160,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 177,
-        "name": "Cartridges",
-        "slug": "cartridges",
-        "term_group": 0,
-        "term_taxonomy_id": 177,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
@@ -267,28 +270,6 @@
         "slug": "tip",
         "term_group": 0,
         "term_taxonomy_id": 691,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 716,
-        "name": "Vape",
-        "slug": "vape",
-        "term_group": 0,
-        "term_taxonomy_id": 716,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 718,
-        "name": "Vape cartridges",
-        "slug": "vape-cartridges",
-        "term_group": 0,
-        "term_taxonomy_id": 718,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,

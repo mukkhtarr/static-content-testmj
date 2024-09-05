@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-07-14T22:15:19",
-    "updated_date": "2023-07-14T22:15:25",
+    "created_date": "2024-01-03T17:54:00",
+    "updated_date": "2024-05-17T22:19:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13738",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14723",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,36 +14,38 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 13738,
-    "date": "2023-07-14T15:15:19",
-    "date_gmt": "2023-07-14T22:15:19",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=13738",
-    "modified": "2023-07-14T15:15:25",
-    "modified_gmt": "2023-07-14T22:15:25",
+    "id": 14723,
+    "date": "2024-01-03T09:54:00",
+    "date_gmt": "2024-01-03T17:54:00",
+    "guid": "https://api.cannabis.ca.gov/?p=14723",
+    "modified": "2024-05-17T15:19:32",
+    "modified_gmt": "2024-05-17T22:19:32",
     "slug": "notifications-and-requests-to-modify-a-license",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-to-modify-a-license/",
-    "title": "Notifications and Requests to Modify a License",
-    "excerpt": "<p>This form is for use by licensees who need to provide a notification to the Department or request approval from the Department, as required under the regulations. Directions for completing the form and providing supporting documents can be found below under Form Instructions. https://api.cannabis.ca.gov/wp-content/uploads/2021/12/DCC-LIC-027-Notifications-and-Requests-to-Modify-a-License.pdf</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-to-modify-a-license/",
+    "title": "Form 27: Notifications and Requests to Modify a License",
+    "excerpt": "<p>Use this form to provide notification to the Department to update your license or request a change.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "sticky": false,
-    "template": "",
+    "sticky": true,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "CannaConnect",
-      "Provisional license forms"
+      "Forms",
+      "Notifications and requests"
     ],
-    "tags": [],
+    "tags": [
+      "modifications"
+    ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -56,56 +58,68 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-to-modify-a-license/",
-      "page_title": "Notifications and Requests to Modify a License",
-      "page_description": "Learn about California cannabis laws and licenses",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-to-modify-a-license/",
+      "page_title": "Form 27: Notifications and Requests to Modify a License",
+      "page_description": "Use this form to provide notification to the Department to update your license or request a change.",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Notifications and Requests to Modify a License",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-to-modify-a-license/",
-      "open_graph_title": "Notifications and Requests to Modify a License",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Notifications and Requests to Modify a License",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "meta_title": "Form 27: Notifications and Requests to Modify a License",
+      "meta_description": "Use this form to provide notification to the Department to update your license or request a change.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-to-modify-a-license/",
+      "open_graph_title": "Form 27: Notifications and Requests to Modify a License",
+      "open_graph_description": "Use this form to provide notification to the Department to update your license or request a change.",
+      "twitter_title": "Form 27: Notifications and Requests to Modify a License",
+      "twitter_description": "Use this form to provide notification to the Department to update your license or request a change."
     },
     "headless_categories": [
       {
-        "term_id": 798,
-        "name": "CannaConnect",
-        "slug": "cannaconnect",
+        "term_id": 845,
+        "name": "Forms",
+        "slug": "forms",
         "term_group": 0,
-        "term_taxonomy_id": 798,
+        "term_taxonomy_id": 845,
         "taxonomy": "category",
-        "description": "",
-        "parent": 0,
+        "description": "View all forms for DCC.",
+        "parent": 2,
         "filter": "raw",
-        "cat_ID": 798,
-        "category_description": "",
-        "cat_name": "CannaConnect",
-        "category_nicename": "cannaconnect",
-        "category_parent": 0
+        "cat_ID": 845,
+        "category_description": "View all forms for DCC.",
+        "cat_name": "Forms",
+        "category_nicename": "forms",
+        "category_parent": 2
       },
       {
-        "term_id": 807,
-        "name": "Provisional license forms",
-        "slug": "provisional-license-forms",
+        "term_id": 846,
+        "name": "Notifications and requests",
+        "slug": "notifications-and-requests",
         "term_group": 0,
-        "term_taxonomy_id": 807,
+        "term_taxonomy_id": 846,
         "taxonomy": "category",
         "description": "",
-        "parent": 799,
+        "parent": 806,
         "filter": "raw",
-        "cat_ID": 807,
+        "cat_ID": 846,
         "category_description": "",
-        "cat_name": "Provisional license forms",
-        "category_nicename": "provisional-license-forms",
-        "category_parent": 799
+        "cat_name": "Notifications and requests",
+        "category_nicename": "notifications-and-requests",
+        "category_parent": 806
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 862,
+        "name": "modifications",
+        "slug": "modifications",
+        "term_group": 0,
+        "term_taxonomy_id": 862,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -116,6 +130,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/notifications-and-requests-to-modify-a-license/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/01/notifications-and-requests-to-modify-a-license/"
   }
 }

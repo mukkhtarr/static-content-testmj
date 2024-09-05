@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-07-14T22:08:40",
-    "updated_date": "2023-07-28T22:32:28",
+    "created_date": "2023-09-11T18:45:27",
+    "updated_date": "2024-08-08T17:57:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/13730",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/14818",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,36 +14,37 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 13730,
-    "date": "2023-07-14T15:08:40",
-    "date_gmt": "2023-07-14T22:08:40",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=13730",
-    "modified": "2023-07-28T15:32:28",
-    "modified_gmt": "2023-07-28T22:32:28",
+    "id": 14818,
+    "date": "2023-09-11T11:45:27",
+    "date_gmt": "2023-09-11T18:45:27",
+    "guid": "https://api.cannabis.ca.gov/?p=14818",
+    "modified": "2024-08-08T10:57:47",
+    "modified_gmt": "2024-08-08T17:57:47",
     "slug": "key-dates-for-provisional-licenses",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2023/07/key-dates-for-provisional-licenses/",
+    "link": "https://live-testmj-com.pantheonsite.io/2023/09/key-dates-for-provisional-licenses/",
     "title": "Key dates for provisional licenses",
-    "excerpt": "<p>View a timeline of key dates and deadlines for the provisional license process.</p>\n",
+    "excerpt": "<p>This timeline outlines important dates and deadlines for provisional licenses. A PDF of this information is also available to download.</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "CannaConnect",
-      "Provisional licenses"
+      "Guidance",
+      "Provisional licenses",
+      "Resources"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -56,53 +57,69 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/key-dates-for-provisional-licenses/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2023/09/key-dates-for-provisional-licenses/",
       "page_title": "Key dates for provisional licenses",
-      "page_description": "View a timeline of key dates and deadlines for the provisional license process.",
+      "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Key dates for provisional licenses",
-      "meta_description": "View a timeline of key dates and deadlines for the provisional license process.",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/07/key-dates-for-provisional-licenses/",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2023/09/key-dates-for-provisional-licenses/",
       "open_graph_title": "Key dates for provisional licenses",
-      "open_graph_description": "View a timeline of key dates and deadlines for the provisional license process.",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Key dates for provisional licenses",
-      "twitter_description": "View a timeline of key dates and deadlines for the provisional license process."
+      "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 798,
-        "name": "CannaConnect",
-        "slug": "cannaconnect",
+        "term_id": 859,
+        "name": "Guidance",
+        "slug": "guidance",
         "term_group": 0,
-        "term_taxonomy_id": 798,
+        "term_taxonomy_id": 859,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 809,
+        "filter": "raw",
+        "cat_ID": 859,
+        "category_description": "",
+        "cat_name": "Guidance",
+        "category_nicename": "guidance",
+        "category_parent": 809
+      },
+      {
+        "term_id": 850,
+        "name": "Provisional licenses",
+        "slug": "provisional-licenses",
+        "term_group": 0,
+        "term_taxonomy_id": 850,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 798,
-        "category_description": "",
-        "cat_name": "CannaConnect",
-        "category_nicename": "cannaconnect",
-        "category_parent": 0
-      },
-      {
-        "term_id": 799,
-        "name": "Provisional licenses",
-        "slug": "provisional-licenses",
-        "term_group": 0,
-        "term_taxonomy_id": 799,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 798,
-        "filter": "raw",
-        "cat_ID": 799,
+        "cat_ID": 850,
         "category_description": "",
         "cat_name": "Provisional licenses",
         "category_nicename": "provisional-licenses",
-        "category_parent": 798
+        "category_parent": 0
+      },
+      {
+        "term_id": 809,
+        "name": "Resources",
+        "slug": "resources",
+        "term_group": 0,
+        "term_taxonomy_id": 809,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 809,
+        "category_description": "",
+        "cat_name": "Resources",
+        "category_nicename": "resources",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
@@ -116,6 +133,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/07/key-dates-for-provisional-licenses/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2023/09/key-dates-for-provisional-licenses/"
   }
 }
