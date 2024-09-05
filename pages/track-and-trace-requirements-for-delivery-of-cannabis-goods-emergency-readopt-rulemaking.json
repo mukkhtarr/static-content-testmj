@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-11-27T21:49:28",
-    "updated_date": "2023-11-27T22:12:01",
+    "created_date": "2023-11-29T00:24:17",
+    "updated_date": "2024-08-26T21:59:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/14309",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/16215",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 14309,
-    "date": "2023-11-27T13:49:28",
-    "date_gmt": "2023-11-27T21:49:28",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14309",
-    "modified": "2023-11-27T14:12:01",
-    "modified_gmt": "2023-11-27T22:12:01",
+    "id": 16215,
+    "date": "2023-11-28T16:24:17",
+    "date_gmt": "2023-11-29T00:24:17",
+    "guid": "https://api.cannabis.ca.gov/?page_id=16215",
+    "modified": "2024-08-26T14:59:55",
+    "modified_gmt": "2024-08-26T21:59:55",
     "slug": "track-and-trace-requirements-for-delivery-of-cannabis-goods-emergency-readopt-rulemaking",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/track-and-trace-requirements-for-delivery-of-cannabis-goods-emergency-readopt-rulemaking/",
     "title": "Track and trace requirements for delivery of cannabis goods: emergency readopt rulemaking",
-    "excerpt": "<p>Type: Emergency rulemaking &nbsp; Status:   Approved and filed with Secretary of State June 26, 2023. Effective June 26, 2023. Summary: The Department of Cannabis Control (DCC) has readopted its emergency regulations implementing Assembly Bill 195, which requires that information relating to cannabis goods leaving a licensed retail premises in a delivery vehicle be recorded in the statewide [&hellip;]</p>\n",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) has readopted its emergency regulations implementing Assembly Bill 195, which requires that information relating to cannabis goods leaving a licensed retail premises in a delivery vehicle be recorded in the statewide track and trace system. This readoption allows the emergency regulations to remain in place while the DCC continues [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 710,
@@ -38,8 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Completed actions",
-      "Rulemaking"
+      "Recently Approved Actions"
     ],
     "tags": [],
     "design_system_fields": {
@@ -73,36 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 836,
-        "name": "Completed actions",
-        "slug": "completed-actions",
+        "term_id": 804,
+        "name": "Recently Approved Actions",
+        "slug": "recently-approved",
         "term_group": 0,
-        "term_taxonomy_id": 836,
+        "term_taxonomy_id": 804,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 802,
         "filter": "raw",
-        "cat_ID": 836,
+        "cat_ID": 804,
         "category_description": "",
-        "cat_name": "Completed actions",
-        "category_nicename": "completed-actions",
-        "category_parent": 0
-      },
-      {
-        "term_id": 837,
-        "name": "Rulemaking",
-        "slug": "rulemaking",
-        "term_group": 0,
-        "term_taxonomy_id": 837,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 837,
-        "category_description": "",
-        "cat_name": "Rulemaking",
-        "category_nicename": "rulemaking",
-        "category_parent": 0
+        "cat_name": "Recently Approved Actions",
+        "category_nicename": "recently-approved",
+        "category_parent": 802
       }
     ],
     "headless_tags": [],

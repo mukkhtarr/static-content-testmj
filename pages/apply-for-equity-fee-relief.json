@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-12-31T00:29:35",
-    "updated_date": "2023-02-13T23:06:26",
+    "updated_date": "2024-08-13T18:21:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2021-12-30T16:29:35",
     "date_gmt": "2021-12-31T00:29:35",
     "guid": "https://cannabis.ca.gov/?page_id=9225",
-    "modified": "2023-02-13T15:06:26",
-    "modified_gmt": "2023-02-13T23:06:26",
+    "modified": "2024-08-13T11:21:10",
+    "modified_gmt": "2024-08-13T18:21:10",
     "slug": "apply-for-equity-fee-relief",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/applicants/apply-for-equity-fee-relief/",
     "title": "Apply for equity fee relief",
-    "excerpt": "<p>If you were negatively affected by the criminalization of cannabis, you can apply to have your license fee waived or deferred. Check if you’re eligible for equity fee relief before applying. Proof of eligibility If you take part in a local equity program, you can show you meet the equity criteria using an attestation on [&hellip;]</p>\n",
-    "author": 2,
+    "excerpt": "<p>Apply for equity fee relief If you were negatively affected by the criminalization of cannabis, you can apply to have your license fee waived or deferred. Check if you’re eligible for equity fee relief before applying.</p>\n",
+    "author": 32,
     "featured_media": 0,
     "parent": 756,
     "menu_order": 4,
@@ -37,7 +37,10 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Equity fee relief",
+      "Payments"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page"
@@ -68,7 +71,40 @@
       "twitter_title": "Apply for equity fee relief",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 855,
+        "name": "Equity fee relief",
+        "slug": "equity-fee-relief",
+        "term_group": 0,
+        "term_taxonomy_id": 855,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 855,
+        "category_description": "",
+        "cat_name": "Equity fee relief",
+        "category_nicename": "equity-fee-relief",
+        "category_parent": 0
+      },
+      {
+        "term_id": 906,
+        "name": "Payments",
+        "slug": "payments",
+        "term_group": 0,
+        "term_taxonomy_id": 906,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 893,
+        "filter": "raw",
+        "cat_ID": 906,
+        "category_description": "",
+        "cat_name": "Payments",
+        "category_nicename": "payments",
+        "category_parent": 893
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],

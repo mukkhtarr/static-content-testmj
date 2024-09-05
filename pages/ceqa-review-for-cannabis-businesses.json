@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-03-10T17:03:51",
-    "updated_date": "2023-07-14T22:09:31",
+    "updated_date": "2024-07-15T20:00:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2022-03-10T09:03:51",
     "date_gmt": "2022-03-10T17:03:51",
     "guid": "https://cannabis.ca.gov/?page_id=9509",
-    "modified": "2023-07-14T15:09:31",
-    "modified_gmt": "2023-07-14T22:09:31",
+    "modified": "2024-07-15T13:00:20",
+    "modified_gmt": "2024-07-15T20:00:20",
     "slug": "ceqa-review-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,6 @@
       "_modified_date": ""
     },
     "categories": [
-      "CannaConnect",
       "Provisional licenses"
     ],
     "tags": [],
@@ -73,36 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 798,
-        "name": "CannaConnect",
-        "slug": "cannaconnect",
+        "term_id": 850,
+        "name": "Provisional licenses",
+        "slug": "provisional-licenses",
         "term_group": 0,
-        "term_taxonomy_id": 798,
+        "term_taxonomy_id": 850,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 798,
-        "category_description": "",
-        "cat_name": "CannaConnect",
-        "category_nicename": "cannaconnect",
-        "category_parent": 0
-      },
-      {
-        "term_id": 799,
-        "name": "Provisional licenses",
-        "slug": "provisional-licenses",
-        "term_group": 0,
-        "term_taxonomy_id": 799,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 798,
-        "filter": "raw",
-        "cat_ID": 799,
+        "cat_ID": 850,
         "category_description": "",
         "cat_name": "Provisional licenses",
         "category_nicename": "provisional-licenses",
-        "category_parent": 798
+        "category_parent": 0
       }
     ],
     "headless_tags": [],

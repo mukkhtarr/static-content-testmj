@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-08-30T18:25:37",
-    "updated_date": "2023-07-28T22:09:56",
+    "updated_date": "2024-06-18T21:33:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,15 +18,15 @@
     "date": "2022-08-30T11:25:37",
     "date_gmt": "2022-08-30T18:25:37",
     "guid": "https://cannabis.ca.gov/?page_id=11368",
-    "modified": "2023-07-28T15:09:56",
-    "modified_gmt": "2023-07-28T22:09:56",
+    "modified": "2024-06-18T14:33:31",
+    "modified_gmt": "2024-06-18T21:33:31",
     "slug": "labor-peace-agreements-for-cannabis-businesses",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/labor-peace-agreements-for-cannabis-businesses/",
     "title": "Labor peace agreements for cannabis businesses",
-    "excerpt": "<p>State law requires many commercial cannabis licensees to enter into, and abide by,&nbsp;labor peace agreements.&nbsp;Recent changes to state law have strengthened these requirements, including by expanding the number of licensees that are subject to these requirements. This document is intended to help educate cannabis licensees and workers about state-law requirements related to labor peace agreements [&hellip;]</p>\n",
-    "author": 32,
+    "excerpt": "<p>State law requires many commercial cannabis licensees to enter into, and abide by,&nbsp;labor peace agreements.&nbsp;Recent changes to state law have strengthened these requirements, by expanding the number of licensees that are subject to these requirements. This FAQ page is intended to help educate cannabis licensees and workers about state-law requirements related to labor peace agreements [&hellip;]</p>\n",
+    "author": 33,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
@@ -38,8 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Labor Peace",
-      "Worker's Rights"
+      "Labor peace"
     ],
     "tags": [],
     "design_system_fields": {
@@ -64,7 +63,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Labor peace agreements for cannabis businesses",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "State law requires many commercial cannabis licensees to enter into, and abide by, labor peace agreements. Recent changes to state law have strengthened these requirements, by expanding the number of licensees that are subject to these requirements. This FAQ page is intended to help educate cannabis licensees and workers about state&#x2d;law requirements related to labor peace agreements in the cannabis industry. This FAQ page is for informational purposes only and is not intended to implement, interpret, or make specific any laws or regulations enforced by DCC.",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/labor-peace-agreements-for-cannabis-businesses/",
       "open_graph_title": "Labor peace agreements for cannabis businesses",
       "open_graph_description": "Learn about California cannabis laws and licenses",
@@ -73,36 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 811,
-        "name": "Labor Peace",
+        "term_id": 821,
+        "name": "Labor peace",
         "slug": "labor-peace",
         "term_group": 0,
-        "term_taxonomy_id": 811,
+        "term_taxonomy_id": 821,
         "taxonomy": "category",
         "description": "",
-        "parent": 810,
+        "parent": 820,
         "filter": "raw",
-        "cat_ID": 811,
+        "cat_ID": 821,
         "category_description": "",
-        "cat_name": "Labor Peace",
+        "cat_name": "Labor peace",
         "category_nicename": "labor-peace",
-        "category_parent": 810
-      },
-      {
-        "term_id": 810,
-        "name": "Worker's Rights",
-        "slug": "workers-rights",
-        "term_group": 0,
-        "term_taxonomy_id": 810,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 810,
-        "category_description": "",
-        "cat_name": "Worker's Rights",
-        "category_nicename": "workers-rights",
-        "category_parent": 0
+        "category_parent": 820
       }
     ],
     "headless_tags": [],

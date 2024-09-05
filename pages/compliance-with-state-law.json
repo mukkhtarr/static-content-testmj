@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2022-01-01T01:47:50",
-    "updated_date": "2023-11-09T23:18:17",
+    "updated_date": "2024-02-07T22:10:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2021-12-31T17:47:50",
     "date_gmt": "2022-01-01T01:47:50",
     "guid": "https://cannabis.ca.gov/?page_id=9301",
-    "modified": "2023-11-09T15:18:17",
-    "modified_gmt": "2023-11-09T23:18:17",
+    "modified": "2024-02-07T14:10:44",
+    "modified_gmt": "2024-02-07T22:10:44",
     "slug": "compliance-with-state-law",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/compliance-with-state-law/",
     "title": "Compliance with state law",
-    "excerpt": "<p>A vibrant, compliant legal cannabis market benefits and protects the safety of all Californians. DCC compliance efforts support this by:&nbsp; DCC works with licensees to gain voluntary compliance.. For example, DCC may issue a Notice to Comply, which identifies violations, provides direction as to how to correct the violations, and provides a deadline for correcting [&hellip;]</p>\n",
+    "excerpt": "<p>A vibrant, compliant legal cannabis market benefits and protects the safety of all Californians. DCC&#8217;s compliance efforts support this by: DCC works with licensees to gain voluntary compliance. For example, DCC may issue a Notice to Comply, which identifies violations, provides direction as to how to correct the violations, and provides a deadline for correcting [&hellip;]</p>\n",
     "author": 2,
     "featured_media": 0,
     "parent": 9438,
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 802,
+        "term_id": 886,
         "name": "Compliance",
         "slug": "compliance",
         "term_group": 0,
-        "term_taxonomy_id": 802,
+        "term_taxonomy_id": 886,
         "taxonomy": "category",
         "description": "",
-        "parent": 798,
+        "parent": 799,
         "filter": "raw",
-        "cat_ID": 802,
+        "cat_ID": 886,
         "category_description": "",
         "cat_name": "Compliance",
         "category_nicename": "compliance",
-        "category_parent": 798
+        "category_parent": 799
       }
     ],
     "headless_tags": [],

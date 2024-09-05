@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-11-27T21:50:43",
-    "updated_date": "2023-11-27T21:52:01",
+    "created_date": "2023-11-29T00:13:32",
+    "updated_date": "2024-08-26T21:58:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/14308",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/16208",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,35 +14,35 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 14308,
-    "date": "2023-11-27T13:50:43",
-    "date_gmt": "2023-11-27T21:50:43",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=14308",
-    "modified": "2023-11-27T13:52:01",
-    "modified_gmt": "2023-11-27T21:52:01",
+    "id": 16208,
+    "date": "2023-11-28T16:13:32",
+    "date_gmt": "2023-11-29T00:13:32",
+    "guid": "https://api.cannabis.ca.gov/?page_id=16208",
+    "modified": "2024-08-26T14:58:47",
+    "modified_gmt": "2024-08-26T21:58:47",
     "slug": "standard-cannabinoids-test-method-and-standardized-operating-procedures",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
     "title": "Standard cannabinoids test method and standardized operating procedures",
-    "excerpt": "<p>Type:&nbsp;Regular rulemaking&nbsp; Status:&nbsp; Approved and filed with Secretary of State July 28, 2023. Effective October 1, 2023. The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulations implementing Business and Professions Code section 26100(f)(2) pertaining to the establishment of a standard cannabinoids test method, including standardized operating procedures, that shall [&hellip;]</p>\n",
+    "excerpt": "<p>The Office of Administrative Law (OAL) has approved the Department of Cannabis Control’s (DCC) regulations implementing Business and Professions Code section 26100(f)(2) pertaining to the establishment of a standard cannabinoids test method, including standardized operating procedures, that shall be utilized by all licensed testing laboratories in California. OAL filed the approved regulations with the Secretary [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "parent": 710,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Completed actions"
+      "Recently Approved Actions"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 836,
-        "name": "Completed actions",
-        "slug": "completed-actions",
+        "term_id": 804,
+        "name": "Recently Approved Actions",
+        "slug": "recently-approved",
         "term_group": 0,
-        "term_taxonomy_id": 836,
+        "term_taxonomy_id": 804,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 802,
         "filter": "raw",
-        "cat_ID": 836,
+        "cat_ID": 804,
         "category_description": "",
-        "cat_name": "Completed actions",
-        "category_nicename": "completed-actions",
-        "category_parent": 0
+        "cat_name": "Recently Approved Actions",
+        "category_nicename": "recently-approved",
+        "category_parent": 802
       }
     ],
     "headless_tags": [],
