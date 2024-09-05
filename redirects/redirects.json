@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 147,
+      "redirects": 221,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -1856,8 +1856,8 @@
     },
     {
       "id": 306,
-      "url": "/provisional-licensees/",
-      "match_url": "/provisional-licensees",
+      "url": "/wp-content/uploads/sites/2/2021/12/Premises-Diagram-Checklist_211022.pdf",
+      "match_url": "/wp-content/uploads/sites/2/2021/12/premises-diagram-checklist_211022.pdf",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -1869,7 +1869,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cannaconnect-dynamic-content/provisional-licensees/"
+        "url": "/wp-content/uploads/sites/2/2021/12/premises-diagram.pdf"
       },
       "match_type": "url",
       "title": "",
@@ -1908,8 +1908,8 @@
     },
     {
       "id": 307,
-      "url": "/converting-to-a-large-or-medium-cultivation-license/",
-      "match_url": "/converting-to-a-large-or-medium-cultivation-license",
+      "url": "/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023/",
+      "match_url": "/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market-by-seizing-over-109m-worth-of-unlicensed-cannabis-products-in-q2-2023",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -1921,7 +1921,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cannaconnect-dynamic-content/converting-to-a-large-or-medium-cultivation-license/"
+        "url": "/2023/07/californias-statewide-cannabis-enforcement-taskforce-continues-to-aggressively-combat-illegal-market/"
       },
       "match_type": "url",
       "title": "",
@@ -1960,8 +1960,8 @@
     },
     {
       "id": 308,
-      "url": "/using-track-and-trace/",
-      "match_url": "/using-track-and-trace",
+      "url": "/2023/06/safety-tips-for-cannabis-businesses/",
+      "match_url": "/2023/06/safety-tips-for-cannabis-businesses",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -1973,7 +1973,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cannaconnect-dynamic-content/using-track-and-trace/"
+        "url": "/2023/06/protect-your-business-from-crime/"
       },
       "match_type": "url",
       "title": "",
@@ -2012,8 +2012,8 @@
     },
     {
       "id": 309,
-      "url": "/ninja-tables/",
-      "match_url": "/ninja-tables",
+      "url": "/protect-your-business-from-crime/",
+      "match_url": "/protect-your-business-from-crime",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2025,7 +2025,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/lpa-table/"
+        "url": "/licensees/cannaconnect-compliance-hub/protect-your-business-from-crime/"
       },
       "match_type": "url",
       "title": "",
@@ -2064,8 +2064,8 @@
     },
     {
       "id": 310,
-      "url": "/understanding-workers-rights/",
-      "match_url": "/understanding-workers-rights",
+      "url": "/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county/",
+      "match_url": "/2023/07/public-invited-to-learn-more-about-dccs-draft-environmental-report-in-preparation-for-annual-licensure-in-mendocino-county",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2077,7 +2077,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensees/cannaconnect-compliance-hub/understanding-workers-rights/"
+        "url": "/2023/07/mendocino-county-project-environmental-impact-report/"
       },
       "match_type": "url",
       "title": "",
@@ -2090,8 +2090,8 @@
     },
     {
       "id": 311,
-      "url": "/temporary-cannabis-events-faq/",
-      "match_url": "/temporary-cannabis-events-faq",
+      "url": "/2023/07/mendocino-county-project-environmental-impact-report/",
+      "match_url": "/2023/07/mendocino-county-project-environmental-impact-report",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2103,7 +2103,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cannaconnect-dynamic-content/temporary-cannabis-events/temporary-cannabis-events-faq/"
+        "url": "/2023/08/mendocino-county-project-environmental-impact-report/"
       },
       "match_type": "url",
       "title": "",
@@ -2116,8 +2116,8 @@
     },
     {
       "id": 312,
-      "url": "/2023/07/labor-peace-agreement-contracts/",
-      "match_url": "/2023/07/labor-peace-agreement-contracts",
+      "url": "/how-to-file-a-complaint/",
+      "match_url": "/how-to-file-a-complaint",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2129,7 +2129,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/2023/07/labor-peace-agreements-on-file/"
+        "url": "/complaints-non-dcc/"
       },
       "match_type": "url",
       "title": "",
@@ -2141,9 +2141,9 @@
       "enabled": true
     },
     {
-      "id": 318,
-      "url": "/2023/08/1-january/",
-      "match_url": "/2023/08/1-january",
+      "id": 313,
+      "url": "/2023/08/governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county/",
+      "match_url": "/2023/08/governors-unified-cannabis-enforcement-taskforce-targets-environmental-harm-in-largest-ever-operation-to-eradicate-illegal-cannabis-grows-in-siskiyou-county",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2155,7 +2155,137 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/2023/08/2-february/"
+        "url": "/2023/08/ucetf-targets-outdoor-cultivation-northern-california/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 64,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 314,
+      "url": "/announcements-archive/",
+      "match_url": "/announcements-archive",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/announcements/announcements-archive/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 65,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 315,
+      "url": "/2023/08/labor-peace-agreement-contracts/",
+      "match_url": "/2023/08/labor-peace-agreement-contracts",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/08/labor-peace-agreements/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 66,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 317,
+      "url": "/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023/",
+      "match_url": "/2023/10/unified-cannabis-enforcement-taskforce-strategically-disrupted-illegal-market-by-seizing-over-101m-worth-of-unlicensed-cannabis-products-in-q3-2023",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/ucetf-q3-2023-stats/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 67,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 318,
+      "url": "/2023/09/allergen-control-program-checklist/",
+      "match_url": "/2023/09/allergen-control-program-checklist",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/allergen-control-program-checklist/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 68,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 319,
+      "url": "/2023/09/allergen-guidance/",
+      "match_url": "/2023/09/allergen-guidance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/allergen-guidance/"
       },
       "match_type": "url",
       "title": "",
@@ -2167,9 +2297,9 @@
       "enabled": true
     },
     {
-      "id": 319,
-      "url": "/pagination-test-4/",
-      "match_url": "/pagination-test-4",
+      "id": 320,
+      "url": "/2023/10/electricity-reporting-guidance/",
+      "match_url": "/2023/10/electricity-reporting-guidance",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2181,7 +2311,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/pagination-page-3/"
+        "url": "/2023/02/electricity-reporting-guidance/"
       },
       "match_type": "url",
       "title": "",
@@ -2193,9 +2323,9 @@
       "enabled": true
     },
     {
-      "id": 320,
-      "url": "/dcc-events/",
-      "match_url": "/dcc-events",
+      "id": 321,
+      "url": "/wp-content/uploads/sites/2/2021/12/dcc-lic-027_license-modification-notification-request.pdf",
+      "match_url": "/wp-content/uploads/sites/2/2021/12/dcc-lic-027_license-modification-notification-request.pdf",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2207,7 +2337,7 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cannabis-chronicle/dcc-events/"
+        "url": "/2023/08/notifications-and-requests-to-modify-a-license/"
       },
       "match_type": "url",
       "title": "",
@@ -2219,9 +2349,687 @@
       "enabled": true
     },
     {
-      "id": 321,
-      "url": "/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
-      "match_url": "/final-decisions-adopted-pursuant-to-the-administrative-procedure-act",
+      "id": 322,
+      "url": "/2023/10/department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system/",
+      "match_url": "/2023/10/department-of-cannabis-control-dcc-announces-migration-of-manufacturing-license-and-application-record-data-to-accela-clear-system",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/manufacturing-licensing-data-migrates-to-accela-system/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 72,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 323,
+      "url": "/wp-content/uploads/sites/2/2021/10/DCC-Cannabis-Regulations-Sept.-2021.pdf",
+      "match_url": "/wp-content/uploads/sites/2/2021/10/dcc-cannabis-regulations-sept.-2021.pdf",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "server": "https://cannabis.ca.gov",
+        "url_from": "https://cannabis.ca.gov/wp-content/uploads/sites/2/2023/09/dcc_commercial_cannabis_regulations-1.pdf",
+        "url_notfrom": ""
+      },
+      "match_type": "server",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 73,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 324,
+      "url": "/2023/10/standard-cannabinoids-test-method-and-standardized-operating-procedures/",
+      "match_url": "/2023/10/standard-cannabinoids-test-method-and-standardized-operating-procedures",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/07/standard-cannabinoids-test-method-and-standardized-operating-procedures/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 74,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 325,
+      "url": "/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/",
+      "match_url": "/2023/06/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/12/proposal-to-adopt-regulations-for-large-cultivation-licenses-and-conversion-to-large-and-medium-licenses/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 75,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 326,
+      "url": "/2023/06/emergency-regulations-for-track-and-trace-requirements-for-delivery-of-cannabis-goods/",
+      "match_url": "/2023/06/emergency-regulations-for-track-and-trace-requirements-for-delivery-of-cannabis-goods",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/12/emergency-regulations-for-track-and-trace-requirements-for-delivery-of-cannabis-goods/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 76,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 327,
+      "url": "/2023/06/proposal-to-adopt-regulations-for-cannabis-license-fee-waivers-and-deferrals/",
+      "match_url": "/2023/06/proposal-to-adopt-regulations-for-cannabis-license-fee-waivers-and-deferrals",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/12/proposal-to-adopt-regulations-for-cannabis-license-fee-waivers-and-deferrals/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 77,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 328,
+      "url": "/2023/06/consolidated-cannabis-regulations/",
+      "match_url": "/2023/06/consolidated-cannabis-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/11/consolidated-cannabis-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 78,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 329,
+      "url": "/2023/06/cannabis-license-fee-waivers/",
+      "match_url": "/2023/06/cannabis-license-fee-waivers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/06/cannabis-license-fee-waivers/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 79,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 330,
+      "url": "/2023/06/ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance/",
+      "match_url": "/2023/06/ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/03/ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 80,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 331,
+      "url": "/2023/06/equity-fee-waivers/",
+      "match_url": "/2023/06/equity-fee-waivers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/12/equity-fee-waivers/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 81,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 332,
+      "url": "/2023/06/quick-response-qr-code/",
+      "match_url": "/2023/06/quick-response-qr-code",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/11/quick-response-qr-code/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 82,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 333,
+      "url": "/2023/06/ab-1525-information-sharing-with-financial-institutions/",
+      "match_url": "/2023/06/ab-1525-information-sharing-with-financial-institutions",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/02/ab-1525-information-sharing-with-financial-institutions/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 83,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 334,
+      "url": "/2023/06/re-titling-of-cannabis-regulations/",
+      "match_url": "/2023/06/re-titling-of-cannabis-regulations",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2021/07/re-titling-of-cannabis-regulations/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 84,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 335,
+      "url": "/2023/10/youre-licensed-now-what/",
+      "match_url": "/2023/10/youre-licensed-now-what",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/02/youre-licensed-now-what/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 85,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 336,
+      "url": "/2023/10/what-to-expect-when-youre-inspected/",
+      "match_url": "/2023/10/what-to-expect-when-youre-inspected",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2022/02/what-to-expect-when-youre-inspected/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 86,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 337,
+      "url": "/licensees/cannaconnect-compliance-hub/electricity-usage-reporting-requirements/",
+      "match_url": "/licensees/cannaconnect-compliance-hub/electricity-usage-reporting-requirements",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/electricity-usage-reporting/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 87,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 338,
+      "url": "/2023/10/video-how-to-request-a-license-conversion/",
+      "match_url": "/2023/10/video-how-to-request-a-license-conversion",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/01/video-how-to-request-a-license-conversion/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 88,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 339,
+      "url": "/press-release-archive/",
+      "match_url": "/press-release-archive",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/press/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 89,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 340,
+      "url": "/press/",
+      "match_url": "/press",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/media/press/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 90,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 341,
+      "url": "/announcements-revised/",
+      "match_url": "/announcements-revised",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/media/announcements-revised/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 91,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 342,
+      "url": "/manufacturing-best-practices/",
+      "match_url": "/manufacturing-best-practices",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/manufacturing/manufacturing-best-practices/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 92,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 343,
+      "url": "/applicants/how-to-apply-renew/",
+      "match_url": "/applicants/how-to-apply-renew",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/how-to-apply/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 93,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 344,
+      "url": "/how-to-renew-your-license/",
+      "match_url": "/how-to-renew-your-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/how-to-renew-your-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 94,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 345,
+      "url": "/2023/10/user-guide-renewals-for-manufacturing-license-types/",
+      "match_url": "/2023/10/user-guide-renewals-for-manufacturing-license-types",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/mcsb-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 95,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 346,
+      "url": "/applicants/how-to-apply-renew/",
+      "match_url": "/applicants/how-to-apply-renew",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/applicants/how-to-apply/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 96,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 347,
+      "url": "/cannabis-laws/compliance-with-state-law/license-denials-citations-and-disciplinary-actions/",
+      "match_url": "/cannabis-laws/compliance-with-state-law/license-denials-citations-and-disciplinary-actions",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/license-denials-citations-and-disciplinary-actions/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 97,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 348,
+      "url": "/cannabis-laws/compliance-with-state-law/final-decisions-adopted-pursuant-to-the-administrative-procedure-act/",
+      "match_url": "/cannabis-laws/compliance-with-state-law/final-decisions-adopted-pursuant-to-the-administrative-procedure-act",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2240,12 +3048,12 @@
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 72,
+      "position": 98,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 322,
+      "id": 349,
       "url": "/compliance-action-records/",
       "match_url": "/compliance-action-records",
       "match_data": {
@@ -2266,14 +3074,14 @@
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 73,
+      "position": 99,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 323,
-      "url": "/faq-limited-operations-status-for-cultivation-licenses/",
-      "match_url": "/faq-limited-operations-status-for-cultivation-licenses",
+      "id": 350,
+      "url": "/2023/11/guide-how-to-access-converted-manufacturing-license-records/",
+      "match_url": "/2023/11/guide-how-to-access-converted-manufacturing-license-records",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2285,21 +3093,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cultivation-license-change-options-2/faq-limited-operations-status-for-cultivation-licenses/"
+        "url": "/2023/11/guidance-for-existing-accela-clear-users/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 74,
+      "position": 100,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 324,
-      "url": "/faq-reduced-size-cultivation-license/",
-      "match_url": "/faq-reduced-size-cultivation-license",
+      "id": 351,
+      "url": "/user-guides-other-licensing-systems/",
+      "match_url": "/user-guides-other-licensing-systems",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2311,21 +3119,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cultivation-license-change-options-2/faq-reduced-size-cultivation-license/"
+        "url": "/using-the-online-licensing-system/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 75,
+      "position": 101,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 325,
-      "url": "/almora-naturally-better-live-resin-seltzer-beverage/",
-      "match_url": "/almora-naturally-better-live-resin-seltzer-beverage",
+      "id": 352,
+      "url": "/left-coast-llc-cannalean-brand-products/",
+      "match_url": "/left-coast-llc-cannalean-brand-products",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2337,21 +3145,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/resources/cannabis-recalls-and-safety-notices/almora-naturally-better-live-resin-seltzer-beverage/"
+        "url": "/resources/cannabis-recalls-and-safety-notices/left-coast-llc-cannalean-brand-products/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 76,
+      "position": 102,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 326,
-      "url": "/15165-2/",
-      "match_url": "/15165-2",
+      "id": 353,
+      "url": "/applicants/how-to-apply-renew/",
+      "match_url": "/applicants/how-to-apply-renew",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2363,21 +3171,2231 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/locations-sold-mutliple/"
+        "url": "/applicants/how-to-apply/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 77,
+      "position": 103,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 327,
-      "url": "/clear-user-guide/",
-      "match_url": "/clear-user-guide",
+      "id": 354,
+      "url": "/2023/11/updates-to-california-cannabis-track-and-trace-transfer-functionality/",
+      "match_url": "/2023/11/updates-to-california-cannabis-track-and-trace-transfer-functionality",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/updates-to-track-and-trace-transfer-functionality/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 104,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 355,
+      "url": "/resources/cannabis-recalls-and-safety-notices/left-coast-llc-cannalean-brand-products/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/left-coast-llc-cannalean-brand-products",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/left-coast-llc-lil-leftys/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 105,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 356,
+      "url": "/2023/10/mcsb-renewal/",
+      "match_url": "/2023/10/mcsb-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/10/manufacturing-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 106,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 357,
+      "url": "/clear-maintenance-message/",
+      "match_url": "/clear-maintenance-message",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/system-maintenance-message/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 107,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 359,
+      "url": "/grizzly-peak-farms-llc-zoap-cannabis-flower/",
+      "match_url": "/grizzly-peak-farms-llc-zoap-cannabis-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/grizzly-peak-farms-llc-zoap-cannabis-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 108,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 360,
+      "url": "/lakewood-libations-inc-cannabis-edible-beverages/",
+      "match_url": "/lakewood-libations-inc-cannabis-edible-beverages",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/lakewood-libations-inc-cannabis-edible-beverages/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 109,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 361,
+      "url": "/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method/",
+      "match_url": "/licensees/cannaconnect-compliance-hub/laboratories-in-compliance-with-the-dcc-standard-cannabinoid-test-method",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cannaconnect-compliance-hub/laboratories-that-can-test-for-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 110,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 362,
+      "url": "/2023/08/notifications-and-requests-to-modify-a-license/",
+      "match_url": "/2023/08/notifications-and-requests-to-modify-a-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/notifications-and-requests-to-modify-a-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 111,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 363,
+      "url": "/2023/08/notifications-and-requests-regarding-regulatory-compliance/",
+      "match_url": "/2023/08/notifications-and-requests-regarding-regulatory-compliance",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/notifications-and-requests-regarding-regulatory-compliance/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 112,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 364,
+      "url": "/2023/08/notifications-and-requests-regarding-testing-laboratories/",
+      "match_url": "/2023/08/notifications-and-requests-regarding-testing-laboratories",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/notifications-and-requests-regarding-testing-laboratories/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 113,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 365,
+      "url": "/2023/12/form-commercial-cannabis-licensee-bond/",
+      "match_url": "/2023/12/form-commercial-cannabis-licensee-bond",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/01/form-commercial-cannabis-licensee-bond/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 114,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 366,
+      "url": "/urban-therapies-distribution-llc/",
+      "match_url": "/urban-therapies-distribution-llc",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/urban-therapies-distribution-llc/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 115,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 367,
+      "url": "/introducing-real-california-cannabis/",
+      "match_url": "/introducing-real-california-cannabis",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-awareness-campaigns/introducing-real-california-cannabis/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 116,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 368,
+      "url": "/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/echsen-industries-llc-shark-bite-pre-rolls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/echsen-industries/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 117,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 369,
+      "url": "/tableau-external-dashboard-glossary/",
+      "match_url": "/tableau-external-dashboard-glossary",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/data-dashboard-glossary/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 118,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 370,
+      "url": "/2023/11/overview-of-the-licensing-system/",
+      "match_url": "/2023/11/overview-of-the-licensing-system",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/how-to-complete-online-app-cultivation/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 119,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 371,
+      "url": "/2023/11/how-to-complete-online-app-cultivation/",
+      "match_url": "/2023/11/how-to-complete-online-app-cultivation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/how-to-complete-online-app/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 120,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 372,
+      "url": "/2023/11/how-to-complete-online-app/",
+      "match_url": "/2023/11/how-to-complete-online-app",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2023/11/how-to-complete-online-application/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 121,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 373,
+      "url": "/data-dashboard-glossary/",
+      "match_url": "/data-dashboard-glossary",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/data-dashboard-glossary/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 122,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 374,
+      "url": "/daily-sales-customer-type-item-category-report/",
+      "match_url": "/daily-sales-customer-type-item-category-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/daily-sales-customer-type-item-category-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 123,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 375,
+      "url": "/daily-sales-units-by-item-category-report/",
+      "match_url": "/daily-sales-units-by-item-category-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/daily-sales-units-by-item-category-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 124,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 376,
+      "url": "/harvest-report/",
+      "match_url": "/harvest-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/harvest-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 125,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 377,
+      "url": "/license-report/",
+      "match_url": "/license-report",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/data-dashboard/license-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 126,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 378,
+      "url": "/licensees/testing-laboratories/faq-standard-cannabinoid-test-methods-sb544/",
+      "match_url": "/licensees/testing-laboratories/faq-standard-cannabinoid-test-methods-sb544",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/testing-laboratories/faq-standard-cannabinoid-test-method/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 127,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 379,
+      "url": "/about-us/cannabis-advisory-committee/cac-past-meetings/",
+      "match_url": "/about-us/cannabis-advisory-committee/cac-past-meetings",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/cannabis-advisory-committee/cac-meeting-archives/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 128,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 380,
+      "url": "/2024/02/cannabis-advisory-committee-5-7-2024/",
+      "match_url": "/2024/02/cannabis-advisory-committee-5-7-2024",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/02/cannabis-advisory-committee-3-7-2024/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 129,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 381,
+      "url": "/resources/cannabis-recalls-and-safety-notices/nfuzed-air-inhaler/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/nfuzed-air-inhaler",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/nfuzed-inhaler/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 130,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 382,
+      "url": "/cannabis-laws/rulemaking/cultivation-license-changes-at-the-time-of-renewal/",
+      "match_url": "/cannabis-laws/rulemaking/cultivation-license-changes-at-the-time-of-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/cultivation-license-changes/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 131,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 383,
+      "url": "/resources/cannabis-recalls-and-safety-notices/lowell-big-buds-blueberry-kush-indica/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/lowell-big-buds-blueberry-kush-indica",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/lowell-big-buds/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 132,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 384,
+      "url": "/how-to-make-cultivation-license-changes-using-the-cls/",
+      "match_url": "/how-to-make-cultivation-license-changes-using-the-cls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 133,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 385,
+      "url": "/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/how-to-make-cultivation-license-changes-using-the-cls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/using-the-cls/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 134,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 386,
+      "url": "/licensees/cultivation/cultivation-license-change-options/faq-reduced-size-cultivation-license/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/faq-reduced-size-cultivation-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/reducing-canopy-size/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 135,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 387,
+      "url": "/faq-one-time-changes-to-license-expiration-dates/",
+      "match_url": "/faq-one-time-changes-to-license-expiration-dates",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes-to-license-expiration-dates/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 136,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 388,
+      "url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes-to-license-expiration-dates/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes-to-license-expiration-dates",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/faq-one-time-changes/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 137,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 389,
+      "url": "/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses/",
+      "match_url": "/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status-for-cultivation-licenses",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensees/cultivation/cultivation-license-change-options/faq-limited-operations-status/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 138,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 390,
+      "url": "/blem-unruly/",
+      "match_url": "/blem-unruly",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/blem-unruly/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 139,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 391,
+      "url": "/resources/cannabis-recalls-and-safety-notices/blem-unruly/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/blem-unruly",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/blem-cannabis-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 140,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 392,
+      "url": "/licensing-forms/",
+      "match_url": "/licensing-forms",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/dcc-forms/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 141,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 393,
+      "url": "/2024/04/californias-unified-cannabis-enforcement-taskforce-continues-strategic-approach-to-disrupting-unlicensed-cannabis-market/",
+      "match_url": "/2024/04/californias-unified-cannabis-enforcement-taskforce-continues-strategic-approach-to-disrupting-unlicensed-cannabis-market",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/04/ucetf-seizes-53m-worth-of-unlicensed-cannabis/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 142,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 395,
+      "url": "/about-us/unified-cannabis-enforcement-taskforce-ucetf/",
+      "match_url": "/about-us/unified-cannabis-enforcement-taskforce-ucetf",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/unified-cannabis-enforcement-taskforce-ucetf/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 144,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 396,
+      "url": "/unified-cannabis-enforcement-taskforce-ucetf/",
+      "match_url": "/unified-cannabis-enforcement-taskforce-ucetf",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/about-dcc/unified-cannabis-enforcement-taskforce-ucetf/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 145,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 397,
+      "url": "/resources/cannabis-recalls-and-safety-notices/8-track-cannabis-pre-rolls/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/8-track-cannabis-pre-rolls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/8-track-pre-roll/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 146,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 398,
+      "url": "/scientific-research/",
+      "match_url": "/scientific-research",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/scientific-research-v2/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 147,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 399,
+      "url": "/scientific-research-v2/",
+      "match_url": "/scientific-research-v2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us-scientific-research-v2/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 148,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 400,
+      "url": "/about-us-scientific-research-v2/",
+      "match_url": "/about-us-scientific-research-v2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/scientific-research-v2/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 149,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 401,
+      "url": "/c-creme-infused-pre-roll/",
+      "match_url": "/c-creme-infused-pre-roll",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/c-creme-infused-pre-roll/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 150,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 402,
+      "url": "/2024/04/notice-of-availability-and-virtual-meeting-for-a-draft-environmental-impact-report-for-the-licensing-of-commercial-cannabis-cultivation-in-mendocino-county-project/",
+      "match_url": "/2024/04/notice-of-availability-and-virtual-meeting-for-a-draft-environmental-impact-report-for-the-licensing-of-commercial-cannabis-cultivation-in-mendocino-county-project",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/05/draft-environmental-impact-report-mendocino-county-project/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 151,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 403,
+      "url": "/2024/05/draft-environmental-impact-report-mendocino-county-project/",
+      "match_url": "/2024/05/draft-environmental-impact-report-mendocino-county-project",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/05/notice-of-availability-draft-environmental-impact-report/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 152,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 404,
+      "url": "/canndescent-california-100-whole-flower-pre-rolls/",
+      "match_url": "/canndescent-california-100-whole-flower-pre-rolls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/canndescent-california-100-whole-flower-pre-rolls/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 153,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 405,
+      "url": "/resources/cannabis-recalls-and-safety-notices/cali-kosher-cannabis-flower/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/cali-kosher-cannabis-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/cali-kosher-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 154,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 407,
+      "url": "/resources/cannabis-recalls-and-safety-notices/lax-premium-flower/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/lax-premium-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/lax-packs-premium-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 156,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 408,
+      "url": "/la-pop-rocks-x-purple-push-pop-flower/",
+      "match_url": "/la-pop-rocks-x-purple-push-pop-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 157,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 409,
+      "url": "/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/la-pop-rocks-x-purple-push-pop-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/bloombox-flower-pats-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 158,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 411,
+      "url": "/public-records-act-requests/",
+      "match_url": "/public-records-act-requests",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/public-records-act-requests/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 159,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 412,
+      "url": "/resources/public-records-act-requests/",
+      "match_url": "/resources/public-records-act-requests",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/public-records-act-requests/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 160,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 413,
+      "url": "/west-coast-cure-curepen-vape-cartridge/",
+      "match_url": "/west-coast-cure-curepen-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/west-coast-cure-curepen-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 161,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 414,
+      "url": "/west-coast-cure-live-resin-vape-cartridge/",
+      "match_url": "/west-coast-cure-live-resin-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 162,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 415,
+      "url": "/curepen-premium-thc-oil-vape-cartridge/",
+      "match_url": "/curepen-premium-thc-oil-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge-2/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 163,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 416,
+      "url": "/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge-2/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/curepen-premium-thc-oil-vape-cartridge-2",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/wcc-curepen-premium-thc-oil-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 164,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 417,
+      "url": "/2024/07/curepen-premium-thc-oil-vape-cartridge/",
+      "match_url": "/2024/07/curepen-premium-thc-oil-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/06/curepen-premium-thc-oil-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 165,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 418,
+      "url": "/2024/07/west-coast-cure-premium-cure-flower/",
+      "match_url": "/2024/07/west-coast-cure-premium-cure-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/06/west-coast-cure-premium-cure-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 166,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 419,
+      "url": "/wp-content/uploads/sites/2/2021/12/DCC-1102_CAC-Application.pdf",
+      "match_url": "/wp-content/uploads/sites/2/2021/12/dcc-1102_cac-application.pdf",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 0,
+      "action_type": "pass",
+      "action_data": {
+        "url": "/about-us/cannabis-advisory-committee/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 167,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 420,
+      "url": "/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/circles-cannabis-oil-vaporizer/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 168,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 421,
+      "url": "/labor-peace-agreements/",
+      "match_url": "/labor-peace-agreements",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/labor-peace-agreements/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 169,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 422,
+      "url": "/cannabis-laws/rulemaking/labor-peace-agreements/",
+      "match_url": "/cannabis-laws/rulemaking/labor-peace-agreements",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/labor-peace-amendments/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 170,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 423,
+      "url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-paying-the-application-fees/",
+      "match_url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-paying-the-application-fees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/clear-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 171,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 424,
+      "url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides/",
+      "match_url": "/cannabis-licensing-enforcement-and-reporting-clear-user-guides",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 172,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 425,
+      "url": "/clear-user-guides/clear-creating-an-account/",
+      "match_url": "/clear-user-guides/clear-creating-an-account",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/clear-create-account/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 173,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 426,
+      "url": "/clear-user-guides/clear-how-to-apply-for-a-license/",
+      "match_url": "/clear-user-guides/clear-how-to-apply-for-a-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/how-to-apply/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 174,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 427,
+      "url": "/clear-user-guides/clear-finalizing-and-printing-your-license/",
+      "match_url": "/clear-user-guides/clear-finalizing-and-printing-your-license",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/printing-your-license/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 175,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 428,
+      "url": "/clear-user-guides/clear-how-to-complete-an-owner-submittal/",
+      "match_url": "/clear-user-guides/clear-how-to-complete-an-owner-submittal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/owner-submittal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 176,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 429,
+      "url": "/clear-user-guides/clear-account-navigation/",
+      "match_url": "/clear-user-guides/clear-account-navigation",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/account-navigation/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 177,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 430,
+      "url": "/clear-user-guides/clear-fees/",
+      "match_url": "/clear-user-guides/clear-fees",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-user-guides/paying-fees/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 178,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 431,
+      "url": "/cultivation-licensing-system-cls-user-guides/cls-email-address-guidelines/",
+      "match_url": "/cultivation-licensing-system-cls-user-guides/cls-email-address-guidelines",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cultivation-licensing-system-cls-user-guides/email-address-guidelines/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 179,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 432,
+      "url": "/cultivation-licensing-system-cls-user-guides/",
+      "match_url": "/cultivation-licensing-system-cls-user-guides",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-user-guides/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 180,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 433,
+      "url": "/manufacturing-licensing-renewal/",
+      "match_url": "/manufacturing-licensing-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/manufacturing-renewal-guide/manufacturing-licensing-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 181,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 434,
+      "url": "/glass-house-farms-cannabis-flower-pre-rolls/",
+      "match_url": "/glass-house-farms-cannabis-flower-pre-rolls",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/glass-house-farms-cannabis-flower-pre-rolls/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 182,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 435,
+      "url": "/resources/cannabis-recalls-and-safety-notices/nhpr-trix-flower/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/nhpr-trix-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/nhpr-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 183,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 436,
+      "url": "/2024/08/cannabis-products-that-could-be-attractive-to-children-are-prohibited/",
+      "match_url": "/2024/08/cannabis-products-that-could-be-attractive-to-children-are-prohibited",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/08/cannabis-products-be-attractive-to-children-prohibited/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 184,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 437,
+      "url": "/2024/08/cannabis-products-be-attractive-to-children-prohibited/",
+      "match_url": "/2024/08/cannabis-products-be-attractive-to-children-prohibited",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/08/cannabis-products-attractive-to-children-prohibited/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 185,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 438,
+      "url": "/west-coast-cure-live-resin-diamonds-concentrate/",
+      "match_url": "/west-coast-cure-live-resin-diamonds-concentrate",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/west-coast-cure-live-resin-diamonds-concentrate/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 186,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 439,
+      "url": "/8-29-24-curepen-premium-thc-oil-vape-cartridge/",
+      "match_url": "/8-29-24-curepen-premium-thc-oil-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/resources/cannabis-recalls-and-safety-notices/8-29-24-curepen-premium-thc-oil-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 187,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 440,
+      "url": "/clear-renewal-accessing-your-renewal/",
+      "match_url": "/clear-renewal-accessing-your-renewal",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/clear-renewal-labs-distribution-retail-events/clear-renewal-accessing-your-renewal/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 188,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 441,
+      "url": "/clear-creating-an-account/",
+      "match_url": "/clear-creating-an-account",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-how-to-complete-the-online-application/clear-creating-an-account/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 189,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 442,
+      "url": "/licensing-system-guides/clear-how-to-complete-the-online-application/clear-creating-an-account/",
+      "match_url": "/licensing-system-guides/clear-how-to-complete-the-online-application/clear-creating-an-account",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/clear-how-to-complete-the-online-application/creating-an-account/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 190,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 443,
+      "url": "/licensing-system-guides/clear-how-to-complete-the-online-application/",
+      "match_url": "/licensing-system-guides/clear-how-to-complete-the-online-application",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -2396,922 +5414,12 @@
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 78,
+      "position": 191,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 328,
-      "url": "/cls-power-and-water-information/",
-      "match_url": "/cls-power-and-water-information",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-power-and-water-information/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 79,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 329,
-      "url": "/cls-declarations-and-final-affidavit/",
-      "match_url": "/cls-declarations-and-final-affidavit",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-declarations-and-final-affidavit/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 80,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 330,
-      "url": "/cls-how-to-submit-a-science-amendment/",
-      "match_url": "/cls-how-to-submit-a-science-amendment",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 81,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 331,
-      "url": "/cls-declarations/",
-      "match_url": "/cls-declarations",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-declarations/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 82,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 332,
-      "url": "/cls-how-to-pay-application-fee/",
-      "match_url": "/cls-how-to-pay-application-fee",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-how-to-pay-application-fee/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 83,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 333,
-      "url": "/cls-license-information/",
-      "match_url": "/cls-license-information",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-license-information/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 84,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 334,
-      "url": "/cls-electricity-usage-average-weighted-ggei/",
-      "match_url": "/cls-electricity-usage-average-weighted-ggei",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 85,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 335,
-      "url": "/cls-applying-for-a-license/",
-      "match_url": "/cls-applying-for-a-license",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-applying-for-a-license/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 86,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 336,
-      "url": "/cls-next-steps-for-owners/",
-      "match_url": "/cls-next-steps-for-owners",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-next-steps-for-owners/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 87,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 337,
-      "url": "/cls-logging-in-and-navigation-tips/",
-      "match_url": "/cls-logging-in-and-navigation-tips",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-logging-in-and-navigation-tips/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 88,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 338,
-      "url": "/cls-additional-premises-information/",
-      "match_url": "/cls-additional-premises-information",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-additional-premises-information/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 89,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 339,
-      "url": "/cls-adding-an-additional-account-user/",
-      "match_url": "/cls-adding-an-additional-account-user",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/cls-how-to-complete-the-online-application/cls-adding-an-additional-account-user/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 90,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 340,
-      "url": "/deficiencies-what-is-a-deficiency/",
-      "match_url": "/deficiencies-what-is-a-deficiency",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 91,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 341,
-      "url": "/deficiencies-designated-responsible-party/",
-      "match_url": "/deficiencies-designated-responsible-party",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/deficiencies-designated-responsible-party/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 92,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 342,
-      "url": "/deficiencies-main-license-application-amendment/",
-      "match_url": "/deficiencies-main-license-application-amendment",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/deficiencies-main-license-application-amendment/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 93,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 343,
-      "url": "/deficiencies-the-deficiencies-page/",
-      "match_url": "/deficiencies-the-deficiencies-page",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 94,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 344,
-      "url": "/indexing-deficiencies/",
-      "match_url": "/indexing-deficiencies",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/indexing-deficiencies/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 95,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 345,
-      "url": "/licensing-system-guides/cls-renewal-manufacturing/",
-      "match_url": "/licensing-system-guides/cls-renewal-manufacturing",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-manufacturing/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 96,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 346,
-      "url": "/licensing-system-guides/clear-renewal-labs-distribution-retailevents/",
-      "match_url": "/licensing-system-guides/clear-renewal-labs-distribution-retailevents",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 97,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 347,
-      "url": "/cls-how-to-complete-the-online-application/",
-      "match_url": "/cls-how-to-complete-the-online-application",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 98,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 348,
-      "url": "/cls-renewal/",
-      "match_url": "/cls-renewal",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-renewal/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 99,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 349,
-      "url": "/clear-renewal-printing-your-license/",
-      "match_url": "/clear-renewal-printing-your-license",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events/clear-renewal-printing-your-license/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 100,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 350,
-      "url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events/",
-      "match_url": "/licensing-system-guides/clear-renewal-labs-distribution-retail-events",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-guide/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 101,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 351,
-      "url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-documents-fees-and-payments/",
-      "match_url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-documents-fees-and-payments",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-guide/documents-fees-payments/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 102,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 352,
-      "url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-renewal-steps/",
-      "match_url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-renewal-steps",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-guide/renewal-steps/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 103,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 353,
-      "url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-accessing-your-renewal/",
-      "match_url": "/licensing-system-guides/clear-renewal-guide/clear-renewal-accessing-your-renewal",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-guide/accessing-your-renewal/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 104,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 354,
-      "url": "/accessing-your-manufacturing-renewal/",
-      "match_url": "/accessing-your-manufacturing-renewal",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-manufacturing/accessing-your-manufacturing-renewal/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 105,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 355,
-      "url": "/manufacturing-renewal-owners-and-financial-interest-holders/",
-      "match_url": "/manufacturing-renewal-owners-and-financial-interest-holders",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-owners-and-financial-interest-holders/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 106,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 356,
-      "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-owners-and-financial-interest-holders/",
-      "match_url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-owners-and-financial-interest-holders",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-manufacturing/owners-financial-interest-holders/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 107,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 357,
-      "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-labor-peace-agreements/",
-      "match_url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-labor-peace-agreements",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-manufacturing/labor-peace-agreements/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 108,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 358,
-      "url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-review-payments-and-printing-your-certificate/",
-      "match_url": "/licensing-system-guides/clear-renewal-manufacturing/manufacturing-renewal-review-payments-and-printing-your-certificate",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-renewal-manufacturing/review-payments-printing/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 109,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 359,
-      "url": "/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license/",
-      "match_url": "/licensing-system-guides/clear-user-guide/clear-finalizing-and-printing-your-license",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-user-guide/printing-your-license/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 110,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 360,
-      "url": "/licensing-system-guides/clear-user-guide/clear-paying-the-application-fee/",
-      "match_url": "/licensing-system-guides/clear-user-guide/clear-paying-the-application-fee",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-user-guide/paying-application-fee/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 111,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 361,
-      "url": "/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal/",
-      "match_url": "/licensing-system-guides/clear-user-guide/clear-how-to-complete-an-owner-submittal",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-user-guide/owner-submittal/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 112,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 362,
-      "url": "/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license/",
-      "match_url": "/licensing-system-guides/clear-user-guide/clear-how-to-apply-for-a-license",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/clear-user-guide/how-to-apply/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 113,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 363,
+      "id": 444,
       "url": "/licensing-system-guides/clear-user-guide/clear-account-navigation/",
       "match_url": "/licensing-system-guides/clear-user-guide/clear-account-navigation",
       "match_data": {
@@ -3332,14 +5440,14 @@
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 114,
+      "position": 192,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 364,
-      "url": "/licensing-system-guides/clear-user-guide/clear-creating-an-account/",
-      "match_url": "/licensing-system-guides/clear-user-guide/clear-creating-an-account",
+      "id": 445,
+      "url": "/clear-user-guides/how-to-apply/clear-how-to-apply-for-a-license/",
+      "match_url": "/clear-user-guides/how-to-apply/clear-how-to-apply-for-a-license",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3351,21 +5459,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/clear-user-guide/creating-an-account/"
+        "url": "/clear-user-guides/how-to-apply/how-to-apply/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 115,
+      "position": 193,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 365,
-      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-main-license-application-amendment/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-main-license-application-amendment",
+      "id": 446,
+      "url": "/clear-user-guides/how-to-apply__trashed/how-to-apply/",
+      "match_url": "/clear-user-guides/how-to-apply__trashed/how-to-apply",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3377,21 +5485,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/main-license-application-amendment/"
+        "url": "/licensing-system-guides/clear-user-guide/how-to-apply/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 116,
+      "position": 194,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 366,
-      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-the-deficiencies-page",
+      "id": 447,
+      "url": "/licensing-system-guides/clear-user-guide/how-to-apply/clear-how-to-complete-an-owner-submittal/",
+      "match_url": "/licensing-system-guides/clear-user-guide/how-to-apply/clear-how-to-complete-an-owner-submittal",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3403,21 +5511,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/the-deficiencies-page/"
+        "url": "/licensing-system-guides/clear-user-guide/owner-submittal/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 117,
+      "position": 195,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 367,
-      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-what-is-a-deficiency",
+      "id": 448,
+      "url": "/licensing-system-guides/clear-user-guide/how-to-apply/clear-paying-the-application-fee/",
+      "match_url": "/licensing-system-guides/clear-user-guide/how-to-apply/clear-paying-the-application-fee",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3429,21 +5537,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/what-is-a-deficiency/"
+        "url": "/licensing-system-guides/clear-user-guide/paying-application-fees/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 118,
+      "position": 196,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 368,
-      "url": "/deficiencies-attaching-documents/",
-      "match_url": "/deficiencies-attaching-documents",
+      "id": 449,
+      "url": "/licensing-system-guides/clear-user-guide/how-to-apply/clear-finalizing-and-printing-your-license/",
+      "match_url": "/licensing-system-guides/clear-user-guide/how-to-apply/clear-finalizing-and-printing-your-license",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3455,21 +5563,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/attaching-documents/"
+        "url": "/licensing-system-guides/clear-user-guide/printing-license/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 119,
+      "position": 197,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 369,
-      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-designated-responsible-party/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-designated-responsible-party",
+      "id": 450,
+      "url": "/clear-renewal-labs-distribution-retail-events/",
+      "match_url": "/clear-renewal-labs-distribution-retail-events",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3481,21 +5589,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/designated-responsible-party/"
+        "url": "/licensing-system-guides/clear-renewal/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 120,
+      "position": 198,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 370,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-power-and-water-information/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-power-and-water-information",
+      "id": 451,
+      "url": "/licensing-system-guides/clear-renewal/clear-renewal-accessing-your-renewal/",
+      "match_url": "/licensing-system-guides/clear-renewal/clear-renewal-accessing-your-renewal",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3507,21 +5615,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/"
+        "url": "/licensing-system-guides/clear-renewal/accessing-your-renewal/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 121,
+      "position": 199,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 371,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-declarations/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-declarations",
+      "id": 452,
+      "url": "/licensing-system-guides/clear-renewal/clear-renewal-renewal-steps/",
+      "match_url": "/licensing-system-guides/clear-renewal/clear-renewal-renewal-steps",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3533,21 +5641,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-declarations/"
+        "url": "/licensing-system-guides/clear-renewal/renewal-steps/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 122,
+      "position": 200,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 372,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-declarations/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-declarations",
+      "id": 453,
+      "url": "/licensing-system-guides/clear-renewal/clear-renewal-documents-fees-and-payments/",
+      "match_url": "/licensing-system-guides/clear-renewal/clear-renewal-documents-fees-and-payments",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3559,21 +5667,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/declarations/"
+        "url": "/licensing-system-guides/clear-renewal/documents-fees-and-payments/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 123,
+      "position": 201,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 373,
-      "url": "/cls-deficiencies/",
-      "match_url": "/cls-deficiencies",
+      "id": 454,
+      "url": "/licensing-system-guides/clear-renewal/clear-renewal-printing-your-license/",
+      "match_url": "/licensing-system-guides/clear-renewal/clear-renewal-printing-your-license",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3585,21 +5693,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/cls-science-amendment/"
+        "url": "/licensing-system-guides/clear-renewal/printing-your-license/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 124,
+      "position": 202,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 374,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/power-and-water",
+      "id": 455,
+      "url": "/manufacturing-renewal-guide/manufacturing-renewal-labor-peace-agreements/",
+      "match_url": "/manufacturing-renewal-guide/manufacturing-renewal-labor-peace-agreements",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3611,21 +5719,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/"
+        "url": "/manufacturing-renewal-guide/labor-peace-agreements/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 125,
+      "position": 203,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 375,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-electricity-usage-average-weighted-ggei",
+      "id": 456,
+      "url": "/manufacturing-renewal-guide/manufacturing-renewal-declarations-and-documents/",
+      "match_url": "/manufacturing-renewal-guide/manufacturing-renewal-declarations-and-documents",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3637,21 +5745,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/electricity-usage-average-weighted-ggei/"
+        "url": "/manufacturing-renewal-guide/declarations-and-documents/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 126,
+      "position": 204,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 376,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-license-information",
+      "id": 457,
+      "url": "/manufacturing-renewal-guide/manufacturing-renewal-review-payments-and-printing-your-certificate/",
+      "match_url": "/manufacturing-renewal-guide/manufacturing-renewal-review-payments-and-printing-your-certificate",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3663,21 +5771,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/cls-license-information/"
+        "url": "/manufacturing-renewal-guide/review-payments-and-printing/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 127,
+      "position": 205,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 377,
-      "url": "/cls-the-science-amendment-process/",
-      "match_url": "/cls-the-science-amendment-process",
+      "id": 458,
+      "url": "/cls-user-guides/email-address-guidelines/",
+      "match_url": "/cls-user-guides/email-address-guidelines",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3689,21 +5797,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/cls-the-science-amendment-process/"
+        "url": "/licensing-system-guides/cls-user-guide/email-address-guidelines/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 128,
+      "position": 206,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 378,
-      "url": "/licensing-system-guides/how-to-submit-a-science-amendment/cls-the-science-amendment-process/",
-      "match_url": "/licensing-system-guides/how-to-submit-a-science-amendment/cls-the-science-amendment-process",
+      "id": 459,
+      "url": "/licensing-system-guides/cls-user-guide/cls-account-navigation/",
+      "match_url": "/licensing-system-guides/cls-user-guide/cls-account-navigation",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3715,21 +5823,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/science-amendment-process/"
+        "url": "/licensing-system-guides/cls-user-guide/account-navigation/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 129,
+      "position": 207,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 379,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-and-water",
+      "id": 460,
+      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-main-license/",
+      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-main-license",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3741,21 +5849,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/power-water-electricity/"
+        "url": "/licensing-system-guides/cls-deficiencies/main-license-application/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 130,
+      "position": 208,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 380,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/declarations/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/declarations",
+      "id": 461,
+      "url": "/cls-user-guides/cls-creating-an-account/",
+      "match_url": "/cls-user-guides/cls-creating-an-account",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3767,21 +5875,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/cls-how-to-submit-a-science-amendment/review-submission/"
+        "url": "/licensing-system-guides/cls-user-guide/creating-an-account/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 131,
+      "position": 209,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 381,
-      "url": "/licensing-system-guides/cls-how-to-complete-the-online-application/",
-      "match_url": "/licensing-system-guides/cls-how-to-complete-the-online-application",
+      "id": 462,
+      "url": "/the-science-amendment-process/",
+      "match_url": "/the-science-amendment-process",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3793,21 +5901,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/"
+        "url": "/how-to-submit-a-science-amendment/the-science-amendment-process/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 132,
+      "position": 210,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 382,
-      "url": "/cls-submitting-documents/",
-      "match_url": "/cls-submitting-documents",
+      "id": 463,
+      "url": "/applicants/access-license-portals/how-to-complete-the-online-application/cls-how-to-pay-the-application-fee/",
+      "match_url": "/applicants/access-license-portals/how-to-complete-the-online-application/cls-how-to-pay-the-application-fee",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3819,21 +5927,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/cls-how-to-submit-a-science-amendment/documents/"
+        "url": "/licensing-system-guides/cls-user-guide/cls-how-to-pay-the-application-fee/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 133,
+      "position": 211,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 383,
-      "url": "/licensing-system-guides/cls-user-guide/cls-how-to-submit-a-science-amendment/",
-      "match_url": "/licensing-system-guides/cls-user-guide/cls-how-to-submit-a-science-amendment",
+      "id": 464,
+      "url": "/resources/cannabis-recalls-and-safety-notices/retro-hits-vape-cartridge/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/retro-hits-vape-cartridge",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3845,21 +5953,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/"
+        "url": "/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate-vape-cartridge/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 134,
+      "position": 212,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 384,
-      "url": "/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process/",
-      "match_url": "/licensing-system-guides/how-to-submit-a-science-amendment__trashed/science-amendment-process",
+      "id": 465,
+      "url": "/cultivation-license-change-options-during-renewal/",
+      "match_url": "/cultivation-license-change-options-during-renewal",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3871,21 +5979,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/science-amendment-process/"
+        "url": "/cls-renewal-guide/cultivation-license-change-options-during-renewal/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 135,
+      "position": 213,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 385,
-      "url": "/licensing-system-guides/how-to-submit-a-science-amendment/documents/",
-      "match_url": "/licensing-system-guides/how-to-submit-a-science-amendment/documents",
+      "id": 466,
+      "url": "/cls-renewal-guide/",
+      "match_url": "/cls-renewal-guide",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3897,21 +6005,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/documents-declarations/"
+        "url": "/licensing-system-guides/cls-renewal-guide/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 136,
+      "position": 214,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 386,
-      "url": "/licensing-system-guides/cls-user-guide/cls-logging-in-and-navigation-tips/",
-      "match_url": "/licensing-system-guides/cls-user-guide/cls-logging-in-and-navigation-tips",
+      "id": 467,
+      "url": "/licensing-system-guides/cls-renewal-guide/reporting-electricity-usage-during-cls-renewal/",
+      "match_url": "/licensing-system-guides/cls-renewal-guide/reporting-electricity-usage-during-cls-renewal",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3923,21 +6031,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/navigation-tips/"
+        "url": "/licensing-system-guides/cls-renewal-guide/reporting-electricity-usage/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 137,
+      "position": 215,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 387,
-      "url": "/licensing-system-guides/cls-user-guide/cls-adding-an-additional-account-user/",
-      "match_url": "/licensing-system-guides/cls-user-guide/cls-adding-an-additional-account-user",
+      "id": 468,
+      "url": "/licensing-system-guides/cls-renewal-guide/verifying-business-people-and-owners-during-renewal/",
+      "match_url": "/licensing-system-guides/cls-renewal-guide/verifying-business-people-and-owners-during-renewal",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3949,21 +6057,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/additional-user/"
+        "url": "/licensing-system-guides/cls-renewal-guide/business-people-and-owners/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 138,
+      "position": 216,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 388,
-      "url": "/licensing-system-guides/cls-user-guide/navigation-tips/",
-      "match_url": "/licensing-system-guides/cls-user-guide/navigation-tips",
+      "id": 469,
+      "url": "/licensing-system-guides/cls-renewal-guide/cls-renewal-documents/",
+      "match_url": "/licensing-system-guides/cls-renewal-guide/cls-renewal-documents",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -3975,21 +6083,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/navigation-search-learning/"
+        "url": "/licensing-system-guides/cls-renewal-guide/renewal-documents/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 139,
+      "position": 217,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 389,
-      "url": "/licensing-system-guides/cls-user-guide/cls-applying-for-a-license/",
-      "match_url": "/licensing-system-guides/cls-user-guide/cls-applying-for-a-license",
+      "id": 470,
+      "url": "/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate-vape-cartridge/",
+      "match_url": "/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate-vape-cartridge",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -4001,21 +6109,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/applying-for-a-license/"
+        "url": "/resources/cannabis-recalls-and-safety-notices/retro-hits-premium-cannabis-distillate/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 140,
+      "position": 218,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 390,
-      "url": "/search-research-page-template-style-with-cls-applying-for-a-license/",
-      "match_url": "/search-research-page-template-style-with-cls-applying-for-a-license",
+      "id": 471,
+      "url": "/licensing-system-guides/cls-renewal-guide/",
+      "match_url": "/licensing-system-guides/cls-renewal-guide",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -4027,21 +6135,21 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/search-research-page-template-style-with-cls-applying-for-a-license/"
+        "url": "/licensing-system-guides/cls-renewal-user-guide/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 141,
+      "position": 219,
       "last_access": "-",
       "enabled": true
     },
     {
-      "id": 391,
-      "url": "/default-template-style-with-cls-applying-for-a-license/",
-      "match_url": "/default-template-style-with-cls-applying-for-a-license",
+      "id": 472,
+      "url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-getting-started/",
+      "match_url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-getting-started",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -4053,92 +6161,14 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-user-guide/default-template-style-with-cls-applying-for-a-license/"
+        "url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-getting-started-guide/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 142,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 393,
-      "url": "/licensing-system-guides/cls-deficiencies/cls-owner-application-amendment/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/cls-owner-application-amendment",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/deficiencies-owner-application-amendment/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 144,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 394,
-      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-owner-application-amendment/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-owner-application-amendment",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/owner-application-amendment/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 145,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 395,
-      "url": "/sample-page/",
-      "match_url": "/sample-page",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-renewal/sample-page/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 146,
+      "position": 220,
       "last_access": "-",
       "enabled": true
     }
