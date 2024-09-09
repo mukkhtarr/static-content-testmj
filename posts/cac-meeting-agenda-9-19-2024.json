@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-09T19:00:35",
-    "updated_date": "2024-09-09T19:01:45",
+    "updated_date": "2024-09-09T20:00:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-09T12:00:35",
     "date_gmt": "2024-09-09T19:00:35",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=19933",
-    "modified": "2024-09-09T12:01:45",
-    "modified_gmt": "2024-09-09T19:01:45",
+    "modified": "2024-09-09T13:00:58",
+    "modified_gmt": "2024-09-09T20:00:58",
     "slug": "cac-meeting-agenda-9-19-2024",
     "status": "publish",
     "type": "post",
@@ -38,9 +38,14 @@
       "_modified_date": ""
     },
     "categories": [
-      "All"
+      "2024 Meetings",
+      "All",
+      "Cannabis Advisory Committee",
+      "Events"
     ],
-    "tags": [],
+    "tags": [
+      "Event"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -72,6 +77,22 @@
     },
     "headless_categories": [
       {
+        "term_id": 916,
+        "name": "2024 Meetings",
+        "slug": "2024-meetings",
+        "term_group": 0,
+        "term_taxonomy_id": 916,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 833,
+        "filter": "raw",
+        "cat_ID": 916,
+        "category_description": "",
+        "cat_name": "2024 Meetings",
+        "category_nicename": "2024-meetings",
+        "category_parent": 833
+      },
+      {
         "term_id": 1,
         "name": "All",
         "slug": "all",
@@ -86,9 +107,53 @@
         "cat_name": "All",
         "category_nicename": "all",
         "category_parent": 0
+      },
+      {
+        "term_id": 831,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cac",
+        "term_group": 0,
+        "term_taxonomy_id": 831,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 831,
+        "category_description": "",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cac",
+        "category_parent": 0
+      },
+      {
+        "term_id": 4,
+        "name": "Events",
+        "slug": "events",
+        "term_group": 0,
+        "term_taxonomy_id": 4,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 4,
+        "category_description": "",
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 2
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 294,
+        "name": "Event",
+        "slug": "event",
+        "term_group": 0,
+        "term_taxonomy_id": 294,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
