@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-09T19:00:35",
-    "updated_date": "2024-09-09T20:02:54",
+    "updated_date": "2024-09-09T20:03:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-09T12:00:35",
     "date_gmt": "2024-09-09T19:00:35",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=19933",
-    "modified": "2024-09-09T13:02:54",
-    "modified_gmt": "2024-09-09T20:02:54",
+    "modified": "2024-09-09T13:03:00",
+    "modified_gmt": "2024-09-09T20:03:00",
     "slug": "cac-meeting-agenda-9-19-2024",
     "status": "publish",
     "type": "post",
