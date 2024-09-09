@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-09T19:30:17",
-    "updated_date": "2024-09-09T19:37:26",
+    "updated_date": "2024-09-09T19:37:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-09T12:30:17",
     "date_gmt": "2024-09-09T19:30:17",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=19935",
-    "modified": "2024-09-09T12:37:26",
-    "modified_gmt": "2024-09-09T19:37:26",
+    "modified": "2024-09-09T12:37:31",
+    "modified_gmt": "2024-09-09T19:37:31",
     "slug": "cannabis-advisory-committee-9-19-2024",
     "status": "publish",
     "type": "post",
