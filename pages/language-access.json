@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-10T20:59:36",
-    "updated_date": "2024-09-10T20:59:42",
+    "updated_date": "2024-09-10T21:57:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,21 +18,21 @@
     "date": "2024-09-10T13:59:36",
     "date_gmt": "2024-09-10T20:59:36",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=19963",
-    "modified": "2024-09-10T13:59:42",
-    "modified_gmt": "2024-09-10T20:59:42",
+    "modified": "2024-09-10T14:57:22",
+    "modified_gmt": "2024-09-10T21:57:22",
     "slug": "language-access",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/language-access/",
     "title": "Language Access",
-    "excerpt": "<p>Access DCC’s site content in languages other than English Language Access Complaints Members of the public or recipients of services should direct complaints regarding language access to: DCC’s Equal Employment Opportunity Office Email: EEO@cannabis.ca.gov Phone: +1 (844) 612-2322 Mailing: P.O. Box 419106, Rancho Cordova, CA 95741-9106</p>\n",
+    "excerpt": "<p>Access DCC’s site content in languages other than English Ver en Español Voir en Français Auf Deutsch anzeigen 查看简体中文 Посмотреть на русском 日本語で見る عرض باللغة العربية Ver em Português हिंदी में देखें Xem bằng Tiếng Việt 한국어로 보기 Other Language Access Complaints Members of the public or recipients of services should direct complaints regarding language [&hellip;]</p>\n",
     "author": 33,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "page"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
