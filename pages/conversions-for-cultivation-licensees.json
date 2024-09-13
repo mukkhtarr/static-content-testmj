@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-13T19:51:41",
-    "updated_date": "2024-09-13T19:51:47",
+    "updated_date": "2024-09-13T19:51:57",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-13T12:51:41",
     "date_gmt": "2024-09-13T19:51:41",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20044",
-    "modified": "2024-09-13T12:51:47",
-    "modified_gmt": "2024-09-13T19:51:47",
+    "modified": "2024-09-13T12:51:57",
+    "modified_gmt": "2024-09-13T19:51:57",
     "slug": "conversions-for-cultivation-licensees",
     "status": "publish",
     "type": "page",
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Resources"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -68,7 +70,24 @@
       "twitter_title": "Conversions for cultivation licensees",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 809,
+        "name": "Resources",
+        "slug": "resources",
+        "term_group": 0,
+        "term_taxonomy_id": 809,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 809,
+        "category_description": "",
+        "cat_name": "Resources",
+        "category_nicename": "resources",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
