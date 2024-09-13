@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-13T19:51:41",
-    "updated_date": "2024-09-13T19:51:57",
+    "updated_date": "2024-09-13T19:52:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-13T12:51:41",
     "date_gmt": "2024-09-13T19:51:41",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20044",
-    "modified": "2024-09-13T12:51:57",
-    "modified_gmt": "2024-09-13T19:51:57",
+    "modified": "2024-09-13T12:52:03",
+    "modified_gmt": "2024-09-13T19:52:03",
     "slug": "conversions-for-cultivation-licensees",
     "status": "publish",
     "type": "page",
