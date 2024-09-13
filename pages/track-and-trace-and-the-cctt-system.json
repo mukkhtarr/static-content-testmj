@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "created_date": "2024-09-13T19:53:28",
+    "updated_date": "2024-09-13T19:53:34",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/20046",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 20046,
+    "date": "2024-09-13T12:53:28",
+    "date_gmt": "2024-09-13T19:53:28",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20046",
+    "modified": "2024-09-13T12:53:34",
+    "modified_gmt": "2024-09-13T19:53:34",
+    "slug": "track-and-trace-and-the-cctt-system",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/track-and-trace-and-the-cctt-system/",
+    "title": "Track and Trace and the CCTT system",
+    "excerpt": "<p>DCC has partnered with Metrc to make improvements to the California Cannabis Track-And-Trace (CCTT) System, which all licensees are required to use to track cannabis from seed to sale. </p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Resources"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/track-and-trace-and-the-cctt-system/",
+      "page_title": "Track and Trace and the CCTT system",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Track and Trace and the CCTT system",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/track-and-trace-and-the-cctt-system/",
+      "open_graph_title": "Track and Trace and the CCTT system",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Track and Trace and the CCTT system",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 809,
+        "name": "Resources",
+        "slug": "resources",
+        "term_group": 0,
+        "term_taxonomy_id": 809,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 809,
+        "category_description": "",
+        "cat_name": "Resources",
+        "category_nicename": "resources",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/track-and-trace-and-the-cctt-system/"
+  }
+}
