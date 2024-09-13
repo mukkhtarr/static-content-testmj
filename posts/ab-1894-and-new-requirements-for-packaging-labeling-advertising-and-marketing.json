@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Advertising",
+      "Advertising and marketing",
       "CannaConnect",
       "Labeling",
       "Packaging"
@@ -78,7 +78,7 @@
     "headless_categories": [
       {
         "term_id": 950,
-        "name": "Advertising",
+        "name": "Advertising and marketing",
         "slug": "advertising",
         "term_group": 0,
         "term_taxonomy_id": 950,
@@ -88,7 +88,7 @@
         "filter": "raw",
         "cat_ID": 950,
         "category_description": "",
-        "cat_name": "Advertising",
+        "cat_name": "Advertising and marketing",
         "category_nicename": "advertising",
         "category_parent": 0
       },
