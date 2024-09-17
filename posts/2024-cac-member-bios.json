@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-17T22:32:22",
-    "updated_date": "2024-09-17T22:32:22",
+    "updated_date": "2024-09-17T22:32:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-17T15:32:22",
     "date_gmt": "2024-09-17T22:32:22",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20132",
-    "modified": "2024-09-17T15:32:22",
-    "modified_gmt": "2024-09-17T22:32:22",
+    "modified": "2024-09-17T15:32:27",
+    "modified_gmt": "2024-09-17T22:32:27",
     "slug": "2024-cac-member-bios",
     "status": "publish",
     "type": "post",
