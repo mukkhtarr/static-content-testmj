@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:05:16",
-    "updated_date": "2024-09-03T22:05:22",
+    "updated_date": "2024-09-20T18:33:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:05:16",
     "date_gmt": "2024-09-03T22:05:16",
     "guid": "https://api.cannabis.ca.gov/?page_id=19750",
-    "modified": "2024-09-03T15:05:22",
-    "modified_gmt": "2024-09-03T22:05:22",
+    "modified": "2024-09-20T11:33:56",
+    "modified_gmt": "2024-09-20T18:33:56",
     "slug": "licensing-system-guides",
     "status": "publish",
     "type": "page",
@@ -63,7 +63,7 @@
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Licensing system guides",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/",
       "open_graph_title": "Licensing system guides",
       "open_graph_description": "Learn about California cannabis laws and licenses",
