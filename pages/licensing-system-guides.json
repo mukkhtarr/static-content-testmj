@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-03T22:05:16",
-    "updated_date": "2024-09-20T18:57:21",
+    "updated_date": "2024-09-20T18:58:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-03T15:05:16",
     "date_gmt": "2024-09-03T22:05:16",
     "guid": "https://api.cannabis.ca.gov/?page_id=19750",
-    "modified": "2024-09-20T11:57:21",
-    "modified_gmt": "2024-09-20T18:57:21",
+    "modified": "2024-09-20T11:58:47",
+    "modified_gmt": "2024-09-20T18:58:47",
     "slug": "licensing-system-guides",
     "status": "publish",
     "type": "page",
