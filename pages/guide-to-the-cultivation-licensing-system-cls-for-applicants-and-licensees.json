@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "created_date": "2024-09-23T18:48:27",
+    "updated_date": "2024-09-23T18:51:06",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/20163",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 20163,
+    "date": "2024-09-23T11:48:27",
+    "date_gmt": "2024-09-23T18:48:27",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20163",
+    "modified": "2024-09-23T11:51:06",
+    "modified_gmt": "2024-09-23T18:51:06",
+    "slug": "guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
+    "title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees Introduction and Overview",
+    "excerpt": "<p>Introduction The Department of Cannabis Control (DCC) oversees two separate cannabis licensing systems. This is a guide to the Cultivation Licensing System (CLS). In this document, we will show you how to register with the licensing system, set up your account, and apply for a cannabis cultivation license. In addition, this guide will include how [&hellip;]</p>\n",
+    "author": 40,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
+      "page_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees Introduction and Overview",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees Introduction and Overview",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
+      "open_graph_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees Introduction and Overview",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees Introduction and Overview",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/"
+  }
+}
