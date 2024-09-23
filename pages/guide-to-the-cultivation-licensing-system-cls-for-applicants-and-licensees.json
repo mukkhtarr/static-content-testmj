@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-23T18:48:27",
-    "updated_date": "2024-09-23T19:40:38",
+    "updated_date": "2024-09-23T19:47:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-23T11:48:27",
     "date_gmt": "2024-09-23T18:48:27",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20163",
-    "modified": "2024-09-23T12:40:38",
-    "modified_gmt": "2024-09-23T19:40:38",
+    "modified": "2024-09-23T12:47:29",
+    "modified_gmt": "2024-09-23T19:47:29",
     "slug": "guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
     "title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees",
     "excerpt": "<p>Introduction The Department of Cannabis Control (DCC) oversees two separate cannabis licensing systems. This is a guide to the Cultivation Licensing System (CLS). In this document, we will show you how to register with the licensing system, set up your account, and apply for a cannabis cultivation license. In addition, this guide will include how [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19791,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -40,7 +40,10 @@
     "categories": [
       "CLS Main User Guide"
     ],
-    "tags": [],
+    "tags": [
+      "Intro",
+      "Overview &amp; Important Notes"
+    ],
     "design_system_fields": {
       "template": "page"
     },
@@ -55,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
       "page_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees",
       "meta_description": "CLS User Guide Introduction, Overview and Important Note",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/",
       "open_graph_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Guide to the Cultivation Licensing System (CLS) for Applicants and Licensees",
@@ -88,9 +91,32 @@
         "category_parent": 935
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 952,
+        "name": "Intro",
+        "slug": "intro",
+        "term_group": 0,
+        "term_taxonomy_id": 952,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      },
+      {
+        "term_id": 953,
+        "name": "Overview &amp; Important Notes",
+        "slug": "overview-important-notes",
+        "term_group": 0,
+        "term_taxonomy_id": 953,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-user-guide/guide-to-the-cultivation-licensing-system-cls-for-applicants-and-licensees/"
   }
 }
