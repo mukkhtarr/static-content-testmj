@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 225,
+      "redirects": 226,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6273,6 +6273,32 @@
       "regex": false,
       "group_id": 1,
       "position": 224,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 477,
+      "url": "/designated-responsible-party/",
+      "match_url": "/designated-responsible-party",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-deficiencies/designated-responsible-party/designated-responsible-party/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 225,
       "last_access": "-",
       "enabled": true
     }
