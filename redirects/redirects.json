@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 231,
+      "redirects": 232,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6381,9 +6381,9 @@
       "enabled": true
     },
     {
-      "id": 482,
-      "url": "/licensing-system-guides/cls-deficiencies/deficiencies-page/cls-main-license-application-amendment/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/deficiencies-page/cls-main-license-application-amendment",
+      "id": 483,
+      "url": "/licensing-system-guides/cls-deficiencies/cls-main-license-application-amendment/",
+      "match_url": "/licensing-system-guides/cls-deficiencies/cls-main-license-application-amendment",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -6395,14 +6395,14 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/cls-main-license-application-amendment/"
+        "url": "/licensing-system-guides/cls-deficiencies/deficiencies-page/cls-main-license-application-amendment/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 230,
+      "position": 231,
       "last_access": "-",
       "enabled": true
     }
