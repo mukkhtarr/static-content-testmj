@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 228,
+      "redirects": 230,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6329,9 +6329,9 @@
       "enabled": true
     },
     {
-      "id": 479,
-      "url": "/licensing-system-guides/cls-deficiencies/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
-      "match_url": "/licensing-system-guides/cls-deficiencies/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls",
+      "id": 480,
+      "url": "/licensing-system-guides/cls-deficiencies/main-license-application/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
+      "match_url": "/licensing-system-guides/cls-deficiencies/main-license-application/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -6343,14 +6343,40 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/licensing-system-guides/cls-deficiencies/main-license-application/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/"
+        "url": "/licensing-system-guides/cls-deficiencies/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 227,
+      "position": 228,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 481,
+      "url": "/cls-main-license-application-amendment/",
+      "match_url": "/cls-main-license-application-amendment",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-deficiencies/deficiencies-page/cls-main-license-application-amendment/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 229,
       "last_access": "-",
       "enabled": true
     }
