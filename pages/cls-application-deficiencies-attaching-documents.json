@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-24T21:58:03",
-    "updated_date": "2024-09-24T21:58:08",
+    "updated_date": "2024-09-24T22:00:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-24T14:58:03",
     "date_gmt": "2024-09-24T21:58:03",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20271",
-    "modified": "2024-09-24T14:58:08",
-    "modified_gmt": "2024-09-24T21:58:08",
+    "modified": "2024-09-24T15:00:44",
+    "modified_gmt": "2024-09-24T22:00:44",
     "slug": "cls-application-deficiencies-attaching-documents",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/cls-application-deficiencies-attaching-documents/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/cls-application-deficiencies-attaching-documents/",
     "title": "CLS Application Deficiencies &#8211; Attaching Documents",
     "excerpt": "<p>Attaching Documents Now scroll down further to the Attachment section that follows the Deficiencies list. Click Add to begin attaching a document. The File Upload pop-up window displays. Click the Add button here to find a file to upload. Select the file and click Open. Now, in the Attachment section, the document you uploaded is [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19447,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,7 +37,11 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "CLS Application Deficiencies",
+      "CLS User Guides",
+      "Licensing system guides"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -53,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-application-deficiencies-attaching-documents/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/cls-application-deficiencies-attaching-documents/",
       "page_title": "CLS Application Deficiencies - Attaching Documents",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,16 +66,65 @@
       "page_social_image_alt": "",
       "meta_title": "CLS Application Deficiencies - Attaching Documents",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-application-deficiencies-attaching-documents/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/cls-application-deficiencies-attaching-documents/",
       "open_graph_title": "CLS Application Deficiencies - Attaching Documents",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS Application Deficiencies - Attaching Documents",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 936,
+        "name": "CLS Application Deficiencies",
+        "slug": "cls-application-deficiencies",
+        "term_group": 0,
+        "term_taxonomy_id": 936,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 936,
+        "category_description": "",
+        "cat_name": "CLS Application Deficiencies",
+        "category_nicename": "cls-application-deficiencies",
+        "category_parent": 935
+      },
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      },
+      {
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 911,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 911,
+        "category_description": "",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-application-deficiencies-attaching-documents/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/attaching-documents/cls-application-deficiencies-attaching-documents/"
   }
 }
