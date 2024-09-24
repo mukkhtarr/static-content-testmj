@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-24T20:53:35",
-    "updated_date": "2024-09-24T20:53:41",
+    "updated_date": "2024-09-24T20:55:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-24T13:53:35",
     "date_gmt": "2024-09-24T20:53:35",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20250",
-    "modified": "2024-09-24T13:53:41",
-    "modified_gmt": "2024-09-24T20:53:41",
+    "modified": "2024-09-24T13:55:28",
+    "modified_gmt": "2024-09-24T20:55:28",
     "slug": "responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
     "title": "Responding to Application Deficiencies in the Cultivation Licensing System (CLS)",
     "excerpt": "<p>What is a Deficiency? The Department of Cannabis Control (DCC) Licensing Division will issue a deficiency notification(s) if it is determined that your application requires additional information. &nbsp;Once the main application, all owner applications, the Declarations and Final Affidavit, and the application fee are submitted, the DCC will review the entirety for deficiencies. A deficiency [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19810,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,7 +37,11 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "CLS Application Deficiencies",
+      "CLS User Guides",
+      "Licensing system guides"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "page"
@@ -53,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
       "page_title": "Responding to Application Deficiencies in the Cultivation Licensing System (CLS)",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -62,16 +66,65 @@
       "page_social_image_alt": "",
       "meta_title": "Responding to Application Deficiencies in the Cultivation Licensing System (CLS)",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/",
       "open_graph_title": "Responding to Application Deficiencies in the Cultivation Licensing System (CLS)",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Responding to Application Deficiencies in the Cultivation Licensing System (CLS)",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 936,
+        "name": "CLS Application Deficiencies",
+        "slug": "cls-application-deficiencies",
+        "term_group": 0,
+        "term_taxonomy_id": 936,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 936,
+        "category_description": "",
+        "cat_name": "CLS Application Deficiencies",
+        "category_nicename": "cls-application-deficiencies",
+        "category_parent": 935
+      },
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      },
+      {
+        "term_id": 911,
+        "name": "Licensing system guides",
+        "slug": "licensing-system-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 911,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 911,
+        "category_description": "",
+        "cat_name": "Licensing system guides",
+        "category_nicename": "licensing-system-guides",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-deficiencies/responding-to-application-deficiencies-in-the-cultivation-licensing-system-cls/"
   }
 }
