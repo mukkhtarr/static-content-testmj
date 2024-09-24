@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-24T19:35:58",
-    "updated_date": "2024-09-24T19:44:45",
+    "updated_date": "2024-09-24T19:46:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-24T12:35:58",
     "date_gmt": "2024-09-24T19:35:58",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20212",
-    "modified": "2024-09-24T12:44:45",
-    "modified_gmt": "2024-09-24T19:44:45",
+    "modified": "2024-09-24T12:46:49",
+    "modified_gmt": "2024-09-24T19:46:49",
     "slug": "pay-application-fee",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/pay-application-fee/",
+    "link": "https://live-testmj-com.pantheonsite.io/cls-user-guides/pay-application-fee/",
     "title": "CLS &#8211; Pay Application Fee",
     "excerpt": "<p>Once all Owner Applications and the DRP’s Declarations and Final Affidavit are submitted, you can pay the application fee. Correspondence After the Declaration and Final Affidavit is submitted, the system sends an email to the DRP and displays an announcement with information to log in, find the application record, then open the attachments section found [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19228,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -38,7 +38,9 @@
       "_modified_date": ""
     },
     "categories": [
-      "CLS Main User Guide"
+      "CLS Main User Guide",
+      "CLS User Guides",
+      "General business information"
     ],
     "tags": [],
     "design_system_fields": {
@@ -55,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/pay-application-fee/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-user-guides/pay-application-fee/",
       "page_title": "CLS - Pay Application Fee",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS Pay Application Fee",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/pay-application-fee/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-user-guides/pay-application-fee/",
       "open_graph_title": "CLS - Pay Application Fee",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS - Pay Application Fee",
@@ -86,11 +88,43 @@
         "cat_name": "CLS Main User Guide",
         "category_nicename": "cls-main-user-guide",
         "category_parent": 935
+      },
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      },
+      {
+        "term_id": 940,
+        "name": "General business information",
+        "slug": "general-business-information",
+        "term_group": 0,
+        "term_taxonomy_id": 940,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 939,
+        "filter": "raw",
+        "cat_ID": 940,
+        "category_description": "",
+        "cat_name": "General business information",
+        "category_nicename": "general-business-information",
+        "category_parent": 939
       }
     ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/pay-application-fee/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-user-guides/pay-application-fee/"
   }
 }
