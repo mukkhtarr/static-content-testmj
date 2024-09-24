@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 222,
+      "redirects": 223,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6195,6 +6195,32 @@
       "regex": false,
       "group_id": 1,
       "position": 221,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 474,
+      "url": "/pay-application-fee/",
+      "match_url": "/pay-application-fee",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cls-user-guides/pay-application-fee/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 222,
       "last_access": "-",
       "enabled": true
     }
