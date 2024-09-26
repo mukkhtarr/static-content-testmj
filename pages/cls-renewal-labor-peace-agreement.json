@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-26T00:33:14",
-    "updated_date": "2024-09-26T00:33:20",
+    "updated_date": "2024-09-26T00:35:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-25T17:33:14",
     "date_gmt": "2024-09-26T00:33:14",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20336",
-    "modified": "2024-09-25T17:33:20",
-    "modified_gmt": "2024-09-26T00:33:20",
+    "modified": "2024-09-25T17:35:02",
+    "modified_gmt": "2024-09-26T00:35:02",
     "slug": "cls-renewal-labor-peace-agreement",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/cls-renewal-labor-peace-agreement/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-labor-peace-agreement/",
     "title": "CLS Renewal &#8211; Labor Peace Agreement",
     "excerpt": "",
     "author": 40,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 19257,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/cls-renewal-labor-peace-agreement/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-labor-peace-agreement/",
       "page_title": "CLS Renewal - Labor Peace Agreement",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS Renewal - Labor Peace Agreement",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cls-renewal-labor-peace-agreement/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-labor-peace-agreement/",
       "open_graph_title": "CLS Renewal - Labor Peace Agreement",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS Renewal - Labor Peace Agreement",
@@ -125,6 +125,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cls-renewal-labor-peace-agreement/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-labor-peace-agreement/"
   }
 }
