@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-26T23:42:53",
-    "updated_date": "2024-09-26T23:45:52",
+    "updated_date": "2024-09-27T16:11:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-09-26T16:42:53",
     "date_gmt": "2024-09-26T23:42:53",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20386",
-    "modified": "2024-09-26T16:45:52",
-    "modified_gmt": "2024-09-26T23:45:52",
+    "modified": "2024-09-27T09:11:15",
+    "modified_gmt": "2024-09-27T16:11:15",
     "slug": "cls-renewal-review-and-finalize",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-review-and-finalize/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/",
     "title": "CLS Renewal Review and Finalize",
     "excerpt": "<p>Carefully review all information and changes made. You may go back and make changes to any previous section(s) using the &#8220;Edit&#8221; buttons. When ready, click &#8220;by checking this box, I agree to the above certification&#8221; if you agree with the statement and to move forward to the next step. Select &#8220;Continue Application&#8221; to move on [&hellip;]</p>\n",
     "author": 40,
     "featured_media": 0,
-    "parent": 19257,
+    "parent": 19267,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-review-and-finalize/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/",
       "page_title": "CLS Renewal Review and Finalize",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS Renewal Review and Finalize",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-review-and-finalize/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/",
       "open_graph_title": "CLS Renewal Review and Finalize",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS Renewal Review and Finalize",
@@ -125,6 +125,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/cls-renewal-review-and-finalize/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/"
   }
 }
