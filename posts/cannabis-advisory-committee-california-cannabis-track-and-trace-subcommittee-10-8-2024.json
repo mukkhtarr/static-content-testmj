@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-01T16:15:03",
-    "updated_date": "2024-10-01T16:17:34",
+    "updated_date": "2024-10-01T16:24:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-01T09:15:03",
     "date_gmt": "2024-10-01T16:15:03",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20453",
-    "modified": "2024-10-01T09:17:34",
-    "modified_gmt": "2024-10-01T16:17:34",
+    "modified": "2024-10-01T09:24:08",
+    "modified_gmt": "2024-10-01T16:24:08",
     "slug": "cannabis-advisory-committee-california-cannabis-track-and-trace-subcommittee-10-8-2024",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "All"
+      "All",
+      "CAC Subcommittee"
     ],
     "tags": [
       "staging"
@@ -88,6 +89,22 @@
         "cat_name": "All",
         "category_nicename": "all",
         "category_parent": 0
+      },
+      {
+        "term_id": 832,
+        "name": "CAC Subcommittee",
+        "slug": "cac-subcommittee",
+        "term_group": 0,
+        "term_taxonomy_id": 832,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 831,
+        "filter": "raw",
+        "cat_ID": 832,
+        "category_description": "",
+        "cat_name": "CAC Subcommittee",
+        "category_nicename": "cac-subcommittee",
+        "category_parent": 831
       }
     ],
     "headless_tags": [
