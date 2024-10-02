@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 240,
+      "redirects": 241,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6563,9 +6563,9 @@
       "enabled": true
     },
     {
-      "id": 491,
-      "url": "/licensing-system-guides/how-to-submit-a-science-amendment/",
-      "match_url": "/licensing-system-guides/how-to-submit-a-science-amendment",
+      "id": 492,
+      "url": "/how-to-submit-a-science-amendment/",
+      "match_url": "/how-to-submit-a-science-amendment",
       "match_data": {
         "source": {
           "flag_query": "exact",
@@ -6577,14 +6577,14 @@
       "action_code": 301,
       "action_type": "url",
       "action_data": {
-        "url": "/how-to-submit-a-science-amendment/"
+        "url": "/licensing-system-guides/how-to-submit-a-science-amendment/"
       },
       "match_type": "url",
       "title": "",
       "hits": 0,
       "regex": false,
       "group_id": 1,
-      "position": 239,
+      "position": 240,
       "last_access": "-",
       "enabled": true
     }
