@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2024-10-02T20:46:38",
-    "updated_date": "2024-10-02T20:46:44",
+    "created_date": "2024-10-02T20:55:10",
+    "updated_date": "2024-10-02T20:55:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -15,11 +15,11 @@
   },
   "data": {
     "id": 20455,
-    "date": "2024-10-02T13:46:38",
-    "date_gmt": "2024-10-02T20:46:38",
+    "date": "2024-10-02T13:55:10",
+    "date_gmt": "2024-10-02T20:55:10",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20455",
-    "modified": "2024-10-02T13:46:44",
-    "modified_gmt": "2024-10-02T20:46:44",
+    "modified": "2024-10-02T13:55:16",
+    "modified_gmt": "2024-10-02T20:55:16",
     "slug": "cac-bylaws",
     "status": "publish",
     "type": "page",
