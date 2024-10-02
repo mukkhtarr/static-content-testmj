@@ -1,8 +1,51 @@
 <p>On September 8, 2022, the CAC adopted a set of bylaws which outline the organization and structure of the committee and its subcommittees, including guidelines for conducting both committee and subcommittee meetings. </p>
 
-<ol type="I">
+<style>
+        /* First Layer: Uppercase Roman Numerals */
+        ol.roman-list {
+            list-style-type: none;
+            counter-reset: roman-counter; /* Initialize counter for Roman numerals */
+        }
+
+        ol.roman-list > li {
+            counter-increment: roman-counter;
+        }
+
+        ol.roman-list > li::before {
+            content: counter(roman-counter, upper-roman) ". "; /* Uppercase Roman numerals */
+        }
+
+        /* Second Layer: Lowercase letters in parentheses */
+        ol.roman-list ol.alpha-list {
+            list-style-type: none;
+            counter-reset: alpha-counter; /* Initialize counter for lowercase letters */
+        }
+
+        ol.roman-list ol.alpha-list > li {
+            counter-increment: alpha-counter;
+        }
+
+        ol.roman-list ol.alpha-list > li::before {
+            content: "(" counter(alpha-counter, lower-alpha) ") "; /* Lowercase letters in parentheses */
+        }
+
+        /* Third Layer: Numbers in parentheses */
+        ol.roman-list ol.alpha-list ol.number-list {
+            list-style-type: none;
+            counter-reset: number-counter; /* Initialize counter for numbers */
+        }
+
+        ol.roman-list ol.alpha-list ol.number-list > li {
+            counter-increment: number-counter;
+        }
+
+        ol.roman-list ol.alpha-list ol.number-list > li::before {
+            content: "(" counter(number-counter) ") "; /* Numbers in parentheses */
+        }
+    </style>
+<ol class="roman-list">
         <li>Organization of the Committee</li>
-<ol style="list-style-type: lower-alpha">
+<ol class="alpha-list">
                     <li>At the first meeting of each calendar year, the Cannabis Advisory Committee (CAC) shall elect
                         from its members a Chair and a Vice Chair to hold office for that calendar year. If the first
                         meeting of the calendar year is held after July 1, the Chair and Vice Chair shall also serve the
@@ -14,7 +57,7 @@
                         establish subcommittees as necessary and will assign at least one member to participate in each
                         subcommittee. Unless the Chair directs otherwise, the following subcommittees are established
                         upon the adoption of these bylaws:
-                        <ol style="list-style-type: decimal;">
+                        <ol class="number-list">
                             <li>Cultivation Subcommittee.</li>
                             <li>Equity Subcommittee.</li>
                             <li>Laboratory Subcommittee.</li>
@@ -27,7 +70,7 @@
                         Committee meeting.</li>
 
                     <li>Role of Committee Chair:
-                        <ol style="list-style-type: decimal;">
+                        <ol class="number-list">
                             <li>Facilitates CAC meetings consistent with applicable provisions of the Bagley-Keene Open
                                 Meetings Act and other applicable state laws, as well as Roberts Rules of Order.</li>
                             <li>Develops meeting agendas in coordination with DCC staff.</li>
@@ -35,7 +78,7 @@
                             <li>Establishes subcommittees, and determines the membership of these subcommittees.</li>
                         </ol>
                     <li>Role of Committee Vice Chair:
-                        <ol style="list-style-type: decimal;">
+                        <ol class="number-list">
                             <li>Performs duties of Chair if the Chair is absent or otherwise unavailable.</li>
                         </ol>
                     <li>If neither the Chair nor Vice Chair is present at a CAC meeting, but a quorum is present,
@@ -45,17 +88,28 @@
                     </li>
                 </ol>
 <li>Agenda Setting
-                    <ol style="list-style-type: lower-alpha"><li>The Chair, in consultation with the DCC Director, will set the meeting agenda. Suggestions or requests from committee members received during a regularly scheduled meeting will be considered for future agendas.</li></ol>
+                    <ol class="alpha-list"><li>The Chair, in consultation with the DCC Director, will set the meeting agenda. Suggestions or requests from committee members received during a regularly scheduled meeting will be considered for future agendas.</li></ol>
                 </li>
                 <li>Meeting Structure
-                    <ol style="list-style-type: lower-alpha"><li>Meetings, including meetings of subcommittees, will be conducted according to these bylaws and Robert’s Rules of Order, unless anything in state law (such as the Bagley-Keene Open Meetings Act) requires otherwise.</li></ol>
+                    <ol class="alpha-list"><li>Meetings, including meetings of subcommittees, will be conducted according to these bylaws and Robert’s Rules of Order, unless anything in state law (such as the Bagley-Keene Open Meetings Act) requires otherwise.</li></ol>
                 </li>
                 <li>Quorum
-                    <ol style="list-style-type: lower-alpha"><li>A quorum is 50% +1 of the voting membership of the Committee.</li>
+                    <ol class="alpha-list"><li>A quorum is 50% +1 of the voting membership of the Committee.</li>
                         <li>A quorum must be present to conduct and continue to be present at the meeting.</li>
                         <li>If a CAC meeting lacks a quorum, the Chair (or the member performing the duties of Chair) shall adjourn the meeting.
                         </li></ol>
                 </li>
-        <li>JAVA</li>
-        <li>SASS</li>
+        <li>Voting
+                    <ol class="alpha-list"><li>Any member appointed by the Director as an alternate is not considered a voting member and shall not cast a vote unless the primary member is absent.
+                        </li>
+                        <li>Voting shall be by roll call.</li>
+                        <li>Each member shall vote for themselves; proxy voting is not permitted. Absent members may not vote.</li>
+                        <li>Formal action by the Committee requires a simple majority vote of members present, unless state law provides otherwise. Members may not abstain unless reasonably necessary to ensure compliance with law.</li>
+                    </ol>
+                </li>
+                <li>Annual Report
+                    <ol class="alpha-list"><li>The CAC shall adopt an annual report to the Legislature that includes, but is not limited to, the recommendations made to DCC during the immediately preceding calendar year and whether those recommendations were implemented by the Department.</li>
+                        <li>The annual report shall be developed in a manner determined by the Chair. The Chair may request DCC prepare an initial draft outlining the recommendations of the CAC and status of these recommendations within the Department.</li>
+                        <li>The draft annual report shall be presented at a regular meeting for the Committee’s review and consideration.</li></ol>
+                </li>
     </ol>

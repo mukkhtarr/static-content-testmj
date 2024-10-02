@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-02T17:26:09",
-    "updated_date": "2024-10-02T18:23:23",
+    "updated_date": "2024-10-02T19:04:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-02T10:26:09",
     "date_gmt": "2024-10-02T17:26:09",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20455",
-    "modified": "2024-10-02T11:23:23",
-    "modified_gmt": "2024-10-02T18:23:23",
+    "modified": "2024-10-02T12:04:13",
+    "modified_gmt": "2024-10-02T19:04:13",
     "slug": "cac-bylaws",
     "status": "publish",
     "type": "page",
