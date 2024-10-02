@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:41:03",
-    "updated_date": "2024-10-02T19:31:41",
+    "updated_date": "2024-10-02T19:38:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-09-04T12:41:03",
     "date_gmt": "2024-09-04T19:41:03",
     "guid": "https://api.cannabis.ca.gov/?page_id=19844",
-    "modified": "2024-10-02T12:31:41",
-    "modified_gmt": "2024-10-02T19:31:41",
+    "modified": "2024-10-02T12:38:24",
+    "modified_gmt": "2024-10-02T19:38:24",
     "slug": "how-to-submit-a-science-amendment",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "CLS User Guides"
+      "CLS User Guides",
+      "How to Submit a Science Amendment"
     ],
     "tags": [
       "staging"
@@ -88,6 +89,22 @@
         "cat_name": "CLS User Guides",
         "category_nicename": "cls-user-guides",
         "category_parent": 911
+      },
+      {
+        "term_id": 954,
+        "name": "How to Submit a Science Amendment",
+        "slug": "how-to-submit-a-science-amendment",
+        "term_group": 0,
+        "term_taxonomy_id": 954,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 935,
+        "filter": "raw",
+        "cat_ID": 954,
+        "category_description": "",
+        "cat_name": "How to Submit a Science Amendment",
+        "category_nicename": "how-to-submit-a-science-amendment",
+        "category_parent": 935
       }
     ],
     "headless_tags": [
