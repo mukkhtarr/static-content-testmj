@@ -23,7 +23,7 @@
     "slug": "cls-renewal-review-and-finalize",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/",
+    "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-review-and-finalize/",
     "title": "CLS Renewal Review and Finalize",
     "excerpt": "<p>Carefully review all information and changes made. You may go back and make changes to any previous section(s) using the &#8220;Edit&#8221; buttons. When ready, click &#8220;by checking this box, I agree to the above certification&#8221; if you agree with the statement and to move forward to the next step. Select &#8220;Continue Application&#8221; to move on [&hellip;]</p>\n",
     "author": 40,
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-review-and-finalize/",
       "page_title": "CLS Renewal Review and Finalize",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "CLS Renewal Review and Finalize",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-review-and-finalize/",
       "open_graph_title": "CLS Renewal Review and Finalize",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CLS Renewal Review and Finalize",
@@ -125,6 +125,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-review-and-finalize/"
   }
 }
