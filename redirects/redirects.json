@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 241,
+      "redirects": 242,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6585,6 +6585,32 @@
       "regex": false,
       "group_id": 1,
       "position": 240,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 493,
+      "url": "/2024/06/ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing/",
+      "match_url": "/2024/06/ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/06/ab-1894-and-new-requirements/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 241,
       "last_access": "-",
       "enabled": true
     }
