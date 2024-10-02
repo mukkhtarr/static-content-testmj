@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:44:48",
-    "updated_date": "2024-09-04T19:44:53",
+    "updated_date": "2024-10-02T19:24:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-09-04T12:44:48",
     "date_gmt": "2024-09-04T19:44:48",
     "guid": "https://api.cannabis.ca.gov/?page_id=19848",
-    "modified": "2024-09-04T12:44:53",
-    "modified_gmt": "2024-09-04T19:44:53",
+    "modified": "2024-10-02T12:24:40",
+    "modified_gmt": "2024-10-02T19:24:40",
     "slug": "documents-and-declarations",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents-and-declarations/",
-    "title": "Science amendments: Documents and declarations",
+    "title": "CLS User Guide &#8211; Science amendments: Documents and Declarations",
     "excerpt": "<p>This webpage provides a comprehensive guide on submitting documents as part of the science amendment process. It covers essential aspects of document submission, including how to properly attach documents, make necessary declarations, and access related resources for a smooth and compliant submission process. Document submission This step displays a detailed List of Documents. There are [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "CLS User Guides"
+    ],
     "tags": [
       "staging"
     ],
@@ -56,21 +58,38 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents-and-declarations/",
-      "page_title": "Science amendments: Documents and declarations",
+      "page_title": "CLS User Guide - Science amendments: Documents and Declarations",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Science amendments: Documents and declarations",
+      "meta_title": "CLS User Guide - Science amendments: Documents and Declarations",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/documents-and-declarations/",
-      "open_graph_title": "Science amendments: Documents and declarations",
+      "open_graph_title": "CLS User Guide - Science amendments: Documents and Declarations",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Science amendments: Documents and declarations",
+      "twitter_title": "CLS User Guide - Science amendments: Documents and Declarations",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 797,
