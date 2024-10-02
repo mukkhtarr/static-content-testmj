@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "created_date": "2024-10-02T17:26:09",
+    "updated_date": "2024-10-02T17:26:14",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/20455",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 20455,
+    "date": "2024-10-02T10:26:09",
+    "date_gmt": "2024-10-02T17:26:09",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20455",
+    "modified": "2024-10-02T10:26:14",
+    "modified_gmt": "2024-10-02T17:26:14",
+    "slug": "cac-bylaws",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/about-us/cannabis-advisory-committee/cac-bylaws/",
+    "title": "CAC bylaws",
+    "excerpt": "<p>On September 8, 2022, the CAC adopted a set of bylaws which outline the organization and structure of the committee and its subcommittees, including guidelines for conducting both committee and subcommittee meetings. HTML CSS JAVA SASS</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 701,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/about-us/cannabis-advisory-committee/cac-bylaws/",
+      "page_title": "CAC bylaws",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "CAC bylaws",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/about-us/cannabis-advisory-committee/cac-bylaws/",
+      "open_graph_title": "CAC bylaws",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "CAC bylaws",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/about-us/cannabis-advisory-committee/cac-bylaws/"
+  }
+}
