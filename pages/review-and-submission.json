@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:45:54",
-    "updated_date": "2024-09-04T19:46:00",
+    "updated_date": "2024-10-02T19:27:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-09-04T12:45:54",
     "date_gmt": "2024-09-04T19:45:54",
     "guid": "https://api.cannabis.ca.gov/?page_id=19850",
-    "modified": "2024-09-04T12:46:00",
-    "modified_gmt": "2024-09-04T19:46:00",
+    "modified": "2024-10-02T12:27:25",
+    "modified_gmt": "2024-10-02T19:27:25",
     "slug": "review-and-submission",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/review-and-submission/",
-    "title": "Science amendments: Review and submission",
+    "title": "CLS User Guide &#8211; Science Amendments: Review and Submission",
     "excerpt": "<p>This webpage provides a comprehensive guide on the review and submission process for your application or documents. Review Next is the Review section where you may make edits to previous sections of your Science Amendment.Select the Edit button to make changes. You will be redirected to the section selected. Once you click Continue, you will [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "CLS User Guides"
+    ],
     "tags": [
       "staging"
     ],
@@ -56,21 +58,38 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/review-and-submission/",
-      "page_title": "Science amendments: Review and submission",
+      "page_title": "CLS User Guide - Science Amendments: Review and Submission",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Science amendments: Review and submission",
+      "meta_title": "CLS User Guide - Science Amendments: Review and Submission",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/review-and-submission/",
-      "open_graph_title": "Science amendments: Review and submission",
+      "open_graph_title": "CLS User Guide - Science Amendments: Review and Submission",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Science amendments: Review and submission",
+      "twitter_title": "CLS User Guide - Science Amendments: Review and Submission",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 935,
+        "name": "CLS User Guides",
+        "slug": "cls-user-guides",
+        "term_group": 0,
+        "term_taxonomy_id": 935,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 911,
+        "filter": "raw",
+        "cat_ID": 935,
+        "category_description": "",
+        "cat_name": "CLS User Guides",
+        "category_nicename": "cls-user-guides",
+        "category_parent": 911
+      }
+    ],
     "headless_tags": [
       {
         "term_id": 797,
