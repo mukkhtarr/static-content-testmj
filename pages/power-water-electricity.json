@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-09-04T19:43:43",
-    "updated_date": "2024-10-03T16:26:02",
+    "updated_date": "2024-10-07T21:09:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-09-04T12:43:43",
     "date_gmt": "2024-09-04T19:43:43",
     "guid": "https://api.cannabis.ca.gov/?page_id=19846",
-    "modified": "2024-10-03T09:26:02",
-    "modified_gmt": "2024-10-03T16:26:02",
+    "modified": "2024-10-07T14:09:59",
+    "modified_gmt": "2024-10-07T21:09:59",
     "slug": "power-water-electricity",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/power-water-electricity/",
-    "title": "CLS User Guide &#8211; Science Amendments: Power, Water and Electricity Information",
+    "title": "Science Amendments: Power, Water and Electricity Information",
     "excerpt": "<p>This guide provides detailed instructions on reporting and managing key resources to your state cannabis license and how to make changes through a science amendment process. It covers the identification and documentation of power sources, water supply sources, and electricity usage. Additionally, it includes information on calculating and understanding the Average Weighted Greenhouse Gas Emission [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
@@ -40,9 +40,7 @@
     "categories": [
       "CLS User Guides"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "page"
     },
@@ -58,18 +56,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/power-water-electricity/",
-      "page_title": "CLS User Guide - Science Amendments: Power, Water and Electricity Information",
+      "page_title": "Science Amendments: Power, Water and Electricity Information",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CLS User Guide - Science Amendments: Power, Water and Electricity Information",
+      "meta_title": "Science Amendments: Power, Water and Electricity Information",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/power-water-electricity/",
-      "open_graph_title": "CLS User Guide - Science Amendments: Power, Water and Electricity Information",
+      "open_graph_title": "Science Amendments: Power, Water and Electricity Information",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CLS User Guide - Science Amendments: Power, Water and Electricity Information",
+      "twitter_title": "Science Amendments: Power, Water and Electricity Information",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -90,19 +88,7 @@
         "category_parent": 911
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "wordpress_url": "https://live-testmj-com.pantheonsite.io/licensing-system-guides/how-to-submit-a-science-amendment/power-water-electricity/"
