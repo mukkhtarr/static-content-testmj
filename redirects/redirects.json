@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 242,
+      "redirects": 243,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6511,32 +6511,6 @@
       "enabled": true
     },
     {
-      "id": 488,
-      "url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-review-and-finalize/",
-      "match_url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-review-and-finalize",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/licensing-system-guides/cls-renewal-user-guide/renewal-documents/cls-renewal-review-and-finalize/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 236,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
       "id": 490,
       "url": "/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-uploading-documents/",
       "match_url": "/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-uploading-documents",
@@ -6611,6 +6585,32 @@
       "regex": false,
       "group_id": 1,
       "position": 241,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 494,
+      "url": "/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-review-and-finalize/",
+      "match_url": "/licensing-system-guides/cls-renewal-user-guide/renewal-documents__trashed/cls-renewal-review-and-finalize",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/licensing-system-guides/cls-renewal-user-guide/cls-renewal-review-and-finalize/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 242,
       "last_access": "-",
       "enabled": true
     }
