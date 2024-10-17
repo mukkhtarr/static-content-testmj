@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-17T22:59:02",
-    "updated_date": "2024-10-17T22:59:25",
+    "updated_date": "2024-10-17T22:59:31",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-17T15:59:02",
     "date_gmt": "2024-10-17T22:59:02",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20605",
-    "modified": "2024-10-17T15:59:25",
-    "modified_gmt": "2024-10-17T22:59:25",
+    "modified": "2024-10-17T15:59:31",
+    "modified_gmt": "2024-10-17T22:59:31",
     "slug": "sample-recall",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "All"
+      "Recalls and safety notices"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 812,
+        "name": "Recalls and safety notices",
+        "slug": "recalls-and-safety-notices",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
+        "cat_name": "Recalls and safety notices",
+        "category_nicename": "recalls-and-safety-notices",
         "category_parent": 0
       }
     ],
