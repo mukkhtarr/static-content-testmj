@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-17T20:13:16",
-    "updated_date": "2024-10-17T20:20:15",
+    "updated_date": "2024-10-17T20:20:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-17T13:13:16",
     "date_gmt": "2024-10-17T20:13:16",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20587",
-    "modified": "2024-10-17T13:20:15",
-    "modified_gmt": "2024-10-17T20:20:15",
+    "modified": "2024-10-17T13:20:43",
+    "modified_gmt": "2024-10-17T20:20:43",
     "slug": "retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall",
     "status": "publish",
     "type": "post",
