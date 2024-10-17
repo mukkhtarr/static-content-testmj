@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-17T20:13:16",
-    "updated_date": "2024-10-17T20:13:21",
+    "updated_date": "2024-10-17T20:14:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-17T13:13:16",
     "date_gmt": "2024-10-17T20:13:16",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20587",
-    "modified": "2024-10-17T13:13:21",
-    "modified_gmt": "2024-10-17T20:13:21",
+    "modified": "2024-10-17T13:14:00",
+    "modified_gmt": "2024-10-17T20:14:00",
     "slug": "retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall",
     "status": "publish",
     "type": "post",
@@ -31,14 +31,13 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Recalls and safety notices",
       "Voluntary recalls"
     ],
     "tags": [
@@ -46,7 +45,7 @@
       "Labeling"
     ],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -75,22 +74,6 @@
       "twitter_description": "The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple “Retro Hits Premium Cannabis Distillate” vape cartridge products due to labeling that is attractive to children."
     },
     "headless_categories": [
-      {
-        "term_id": 812,
-        "name": "Recalls and safety notices",
-        "slug": "recalls-and-safety-notices",
-        "term_group": 0,
-        "term_taxonomy_id": 812,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 812,
-        "category_description": "",
-        "cat_name": "Recalls and safety notices",
-        "category_nicename": "recalls-and-safety-notices",
-        "category_parent": 0
-      },
       {
         "term_id": 814,
         "name": "Voluntary recalls",
