@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-02T16:47:13",
-    "updated_date": "2024-10-17T17:08:49",
+    "updated_date": "2024-10-17T17:09:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-02T09:47:13",
     "date_gmt": "2024-07-02T16:47:13",
     "guid": "https://api.cannabis.ca.gov/?p=18671",
-    "modified": "2024-10-17T10:08:49",
-    "modified_gmt": "2024-10-17T17:08:49",
+    "modified": "2024-10-17T10:09:40",
+    "modified_gmt": "2024-10-17T17:09:40",
     "slug": "west-coast-cure-curepen-vape-cartridge",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,6 @@
     ],
     "tags": [
       "Cartridges",
-      "staging",
       "west coast cure"
     ],
     "design_system_fields": {
@@ -99,17 +98,6 @@
         "slug": "cartridges",
         "term_group": 0,
         "term_taxonomy_id": 177,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      },
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
         "taxonomy": "post_tag",
         "description": "",
         "parent": 0,
