@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-17T17:46:27",
-    "updated_date": "2024-10-17T17:46:33",
+    "updated_date": "2024-10-18T19:04:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-17T10:46:27",
     "date_gmt": "2024-10-17T17:46:27",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20585",
-    "modified": "2024-10-17T10:46:33",
-    "modified_gmt": "2024-10-17T17:46:33",
+    "modified": "2024-10-18T12:04:20",
+    "modified_gmt": "2024-10-18T19:04:20",
     "slug": "embargo-on-all-cannabis-products-manufactured-by-k-u-s-h-collective",
     "status": "publish",
     "type": "post",
@@ -27,11 +27,11 @@
     "title": "Embargo on all cannabis products manufactured by K.U.S.H. Collective",
     "excerpt": "<p>The Department of Cannabis Control (DCC) is revoking the licenses of K.U.S.H. Collective, located at 16770 Stagg Street, Van Nuys, CA 91460.</p>\n",
     "author": 32,
-    "featured_media": 0,
+    "featured_media": 20642,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column-wide"
     },
     "og_meta": {
       "editor": {
@@ -58,7 +58,7 @@
       "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/embargo-on-all-cannabis-products-manufactured-by-k-u-s-h-collective/",
       "page_title": "Embargo on all cannabis products manufactured by K.U.S.H. Collective",
       "page_description": "The Department of Cannabis Control (DCC) is revoking the licenses of K.U.S.H. Collective, located at 16770 Stagg Street, Van Nuys, CA 91460.",
-      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_url": "https://live-testmj-com.pantheonsite.io/wp-content/uploads/2024/10/Recall-Advisory.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
