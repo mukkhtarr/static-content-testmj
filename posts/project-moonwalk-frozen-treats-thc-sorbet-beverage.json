@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-18T22:06:46",
-    "updated_date": "2024-10-18T22:06:52",
+    "updated_date": "2024-10-18T22:08:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-18T15:06:46",
     "date_gmt": "2024-10-18T22:06:46",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20672",
-    "modified": "2024-10-18T15:06:52",
-    "modified_gmt": "2024-10-18T22:06:52",
+    "modified": "2024-10-18T15:08:23",
+    "modified_gmt": "2024-10-18T22:08:23",
     "slug": "project-moonwalk-frozen-treats-thc-sorbet-beverage",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
