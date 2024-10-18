@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-18T18:38:06",
-    "updated_date": "2024-10-18T18:43:47",
+    "updated_date": "2024-10-18T18:49:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-18T11:38:06",
     "date_gmt": "2024-10-18T18:38:06",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20640",
-    "modified": "2024-10-18T11:43:47",
-    "modified_gmt": "2024-10-18T18:43:47",
+    "modified": "2024-10-18T11:49:42",
+    "modified_gmt": "2024-10-18T18:49:42",
     "slug": "west-coast-cure-products-recalled-due-to-potential-pesticide-contamination",
     "status": "publish",
     "type": "post",
