@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "created_date": "2024-10-21T17:12:51",
+    "updated_date": "2024-10-21T17:12:57",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/20686",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 20686,
+    "date": "2024-10-21T10:12:51",
+    "date_gmt": "2024-10-21T17:12:51",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20686",
+    "modified": "2024-10-21T10:12:57",
+    "modified_gmt": "2024-10-21T17:12:57",
+    "slug": "rulemaking-template",
+    "status": "publish",
+    "type": "page",
+    "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/rulemaking-template/",
+    "title": "Rulemaking template",
+    "excerpt": "<p>Intro to this item goes here. This should be 2-3 sentences that will display on other pages linking to this item and also will appear in search results. This should be user-friendly and simple and does not need to duplicate the summary section below, which is where we can provide more official required language. Type:   [&hellip;]</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "parent": 710,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Proposed Changes"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/rulemaking-template/",
+      "page_title": "Rulemaking template",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Rulemaking template",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/rulemaking-template/",
+      "open_graph_title": "Rulemaking template",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Rulemaking template",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 803,
+        "name": "Proposed Changes",
+        "slug": "proposed-changes",
+        "term_group": 0,
+        "term_taxonomy_id": 803,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 802,
+        "filter": "raw",
+        "cat_ID": 803,
+        "category_description": "",
+        "cat_name": "Proposed Changes",
+        "category_nicename": "proposed-changes",
+        "category_parent": 802
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/rulemaking-template/"
+  }
+}
