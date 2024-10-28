@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-18T21:27:35",
-    "updated_date": "2024-10-18T21:40:31",
+    "updated_date": "2024-10-28T19:34:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-18T14:27:35",
     "date_gmt": "2024-10-18T21:27:35",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20665",
-    "modified": "2024-10-18T14:40:31",
-    "modified_gmt": "2024-10-18T21:40:31",
+    "modified": "2024-10-28T12:34:30",
+    "modified_gmt": "2024-10-28T19:34:30",
     "slug": "embargo-on-all-cannabis-products-manufactured-by-k-u-s-h-collective-2",
     "status": "publish",
     "type": "post",
