@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2024-10-17T20:13:16",
-    "updated_date": "2024-10-29T19:45:48",
+    "created_date": "2024-05-17T20:13:00",
+    "updated_date": "2024-10-29T19:47:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 20587,
-    "date": "2024-10-17T13:13:16",
-    "date_gmt": "2024-10-17T20:13:16",
+    "date": "2024-05-17T13:13:00",
+    "date_gmt": "2024-05-17T20:13:00",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20587",
-    "modified": "2024-10-29T12:45:48",
-    "modified_gmt": "2024-10-29T19:45:48",
+    "modified": "2024-10-29T12:47:36",
+    "modified_gmt": "2024-10-29T19:47:36",
     "slug": "retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/10/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/05/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/",
     "title": "Retro Hits Premium Cannabis Distillate vape cartridges recalled due to labeling concerns",
     "excerpt": "<p>Voluntary recall for multiple “Retro Hits Premium Cannabis Distillate” vape cartridge products due to labeling that is attractive to children.</p>\n",
     "author": 32,
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/05/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/",
       "page_title": "Retro Hits Premium Cannabis Distillate vape cartridges recalled due to labeling concerns",
       "page_description": "Voluntary recall for multiple “Retro Hits Premium Cannabis Distillate” vape cartridge products due to labeling that is attractive to children.",
       "page_social_image_url": "https://live-testmj-com.pantheonsite.io/wp-content/uploads/2024/10/Bud-Block.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Retro Hits Premium Cannabis Distillate vape cartridges recalled due to labeling concerns",
       "meta_description": "Voluntary recall for multiple “Retro Hits Premium Cannabis Distillate” vape cartridge products due to labeling that is attractive to children.",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/05/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/",
       "open_graph_title": "Retro Hits Premium Cannabis Distillate vape cartridges recalled due to labeling concerns",
       "open_graph_description": "Voluntary recall for multiple “Retro Hits Premium Cannabis Distillate” vape cartridge products due to labeling that is attractive to children.",
       "twitter_title": "Retro Hits Premium Cannabis Distillate vape cartridges recalled due to labeling concerns",
@@ -125,6 +125,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/10/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/05/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/"
   }
 }
