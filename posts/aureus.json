@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-28T17:37:44",
-    "updated_date": "2024-10-29T19:31:33",
+    "updated_date": "2024-10-29T19:35:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-28T10:37:44",
     "date_gmt": "2024-10-28T17:37:44",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20729",
-    "modified": "2024-10-29T12:31:33",
-    "modified_gmt": "2024-10-29T19:31:33",
+    "modified": "2024-10-29T12:35:12",
+    "modified_gmt": "2024-10-29T19:35:12",
     "slug": "aureus",
     "status": "publish",
     "type": "post",
@@ -38,8 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Recalls and safety notices",
-      "Voluntary recalls"
+      "Recalls and safety notices"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,22 +86,6 @@
         "cat_name": "Recalls and safety notices",
         "category_nicename": "recalls-and-safety-notices",
         "category_parent": 0
-      },
-      {
-        "term_id": 814,
-        "name": "Voluntary recalls",
-        "slug": "voluntary-recalls",
-        "term_group": 0,
-        "term_taxonomy_id": 814,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 812,
-        "filter": "raw",
-        "cat_ID": 814,
-        "category_description": "",
-        "cat_name": "Voluntary recalls",
-        "category_nicename": "voluntary-recalls",
-        "category_parent": 812
       }
     ],
     "headless_tags": [],
