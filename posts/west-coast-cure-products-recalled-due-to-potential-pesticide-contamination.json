@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2024-10-18T18:38:06",
-    "updated_date": "2024-10-29T19:45:34",
+    "created_date": "2024-07-18T18:38:00",
+    "updated_date": "2024-10-29T19:47:23",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -15,15 +15,15 @@
   },
   "data": {
     "id": 20640,
-    "date": "2024-10-18T11:38:06",
-    "date_gmt": "2024-10-18T18:38:06",
+    "date": "2024-07-18T11:38:00",
+    "date_gmt": "2024-07-18T18:38:00",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20640",
-    "modified": "2024-10-29T12:45:34",
-    "modified_gmt": "2024-10-29T19:45:34",
+    "modified": "2024-10-29T12:47:23",
+    "modified_gmt": "2024-10-29T19:47:23",
     "slug": "west-coast-cure-products-recalled-due-to-potential-pesticide-contamination",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/10/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/07/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/",
     "title": "West Coast Cure products recalled due to potential pesticide contamination",
     "excerpt": "<p>Voluntary recall for multiple products packaged and manufactured by Shield Management Group, LLC or Alkhemist DM, LLC, due to potential pesticide category I and pesticide category II contamination.</p>\n",
     "author": 32,
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/07/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/",
       "page_title": "West Coast Cure products recalled due to potential pesticide contamination",
       "page_description": "Voluntary recall for multiple products packaged and manufactured by Shield Management Group, LLC or Alkhemist DM, LLC, due to potential pesticide category I and pesticide category II contamination.",
       "page_social_image_url": "https://live-testmj-com.pantheonsite.io/wp-content/uploads/2024/10/Recall-Advisory.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "West Coast Cure products recalled due to potential pesticide contamination",
       "meta_description": "Voluntary recall for multiple products packaged and manufactured by Shield Management Group, LLC or Alkhemist DM, LLC, due to potential pesticide category I and pesticide category II contamination.",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/07/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/",
       "open_graph_title": "West Coast Cure products recalled due to potential pesticide contamination",
       "open_graph_description": "Voluntary recall for multiple products packaged and manufactured by Shield Management Group, LLC or Alkhemist DM, LLC, due to potential pesticide category I and pesticide category II contamination.",
       "twitter_title": "West Coast Cure products recalled due to potential pesticide contamination",
@@ -116,6 +116,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/10/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/07/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/"
   }
 }
