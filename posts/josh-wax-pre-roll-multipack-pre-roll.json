@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-16T19:39:24",
-    "updated_date": "2024-10-29T19:43:51",
+    "updated_date": "2024-10-29T19:43:56",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-16T12:39:24",
     "date_gmt": "2024-10-16T19:39:24",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20777",
-    "modified": "2024-10-29T12:43:51",
-    "modified_gmt": "2024-10-29T19:43:51",
+    "modified": "2024-10-29T12:43:56",
+    "modified_gmt": "2024-10-29T19:43:56",
     "slug": "josh-wax-pre-roll-multipack-pre-roll",
     "status": "publish",
     "type": "post",
