@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "created_date": "2024-10-16T19:40:24",
+    "updated_date": "2024-10-29T19:43:45",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/20778",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://live-testmj-com.pantheonsite.io",
+      "deployment_target": "https://github.com/mukkhtarr/static-content-testmj/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 20778,
+    "date": "2024-10-16T12:40:24",
+    "date_gmt": "2024-10-16T19:40:24",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=20778",
+    "modified": "2024-10-29T12:43:45",
+    "modified_gmt": "2024-10-29T19:43:45",
+    "slug": "all-integrated-vaporizers-and-vape-cartridges-manufactured-by-k-u-s-h-collective",
+    "status": "publish",
+    "type": "post",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/10/all-integrated-vaporizers-and-vape-cartridges-manufactured-by-k-u-s-h-collective/",
+    "title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
+    "excerpt": "<p>DCC is revoking the licenses of K.U.S.H. (Kinder Understanding Sensitive Healing) Collective and issuing this notice of embargo for all products manufactured by the licensee.</p>\n",
+    "author": 32,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Mandatory recalls"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "template-page-single-column"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://live-testmj-com.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://live-testmj-com.pantheonsite.io",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/all-integrated-vaporizers-and-vape-cartridges-manufactured-by-k-u-s-h-collective/",
+      "page_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
+      "page_description": "DCC is revoking the licenses of K.U.S.H. (Kinder Understanding Sensitive Healing) Collective and issuing this notice of embargo for all products manufactured by the licensee.",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
+      "meta_description": "DCC is revoking the licenses of K.U.S.H. (Kinder Understanding Sensitive Healing) Collective and issuing this notice of embargo for all products manufactured by the licensee.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/all-integrated-vaporizers-and-vape-cartridges-manufactured-by-k-u-s-h-collective/",
+      "open_graph_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
+      "open_graph_description": "DCC is revoking the licenses of K.U.S.H. (Kinder Understanding Sensitive Healing) Collective and issuing this notice of embargo for all products manufactured by the licensee.",
+      "twitter_title": "All integrated vaporizers and vape cartridges manufactured by K.U.S.H. Collective",
+      "twitter_description": "DCC is revoking the licenses of K.U.S.H. (Kinder Understanding Sensitive Healing) Collective and issuing this notice of embargo for all products manufactured by the licensee."
+    },
+    "headless_categories": [
+      {
+        "term_id": 813,
+        "name": "Mandatory recalls",
+        "slug": "mandatory-recalls",
+        "term_group": 0,
+        "term_taxonomy_id": 813,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 813,
+        "category_description": "",
+        "cat_name": "Mandatory recalls",
+        "category_nicename": "mandatory-recalls",
+        "category_parent": 812
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/10/all-integrated-vaporizers-and-vape-cartridges-manufactured-by-k-u-s-h-collective/"
+  }
+}
