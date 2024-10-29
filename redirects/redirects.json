@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 243,
+      "redirects": 245,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6611,6 +6611,58 @@
       "regex": false,
       "group_id": 1,
       "position": 242,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 495,
+      "url": "/2024/10/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/",
+      "match_url": "/2024/10/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/07/west-coast-cure-products-recalled-due-to-potential-pesticide-contamination/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 243,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 496,
+      "url": "/2024/10/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/",
+      "match_url": "/2024/10/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/05/retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 244,
       "last_access": "-",
       "enabled": true
     }
