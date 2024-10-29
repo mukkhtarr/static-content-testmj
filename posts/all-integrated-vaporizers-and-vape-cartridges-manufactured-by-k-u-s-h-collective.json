@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-16T19:40:24",
-    "updated_date": "2024-10-29T19:43:39",
+    "updated_date": "2024-10-29T19:43:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-16T12:40:24",
     "date_gmt": "2024-10-16T19:40:24",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20778",
-    "modified": "2024-10-29T12:43:39",
-    "modified_gmt": "2024-10-29T19:43:39",
+    "modified": "2024-10-29T12:43:45",
+    "modified_gmt": "2024-10-29T19:43:45",
     "slug": "all-integrated-vaporizers-and-vape-cartridges-manufactured-by-k-u-s-h-collective",
     "status": "publish",
     "type": "post",
