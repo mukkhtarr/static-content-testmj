@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-28T17:37:44",
-    "updated_date": "2024-10-29T19:35:07",
+    "updated_date": "2024-10-29T19:35:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-28T10:37:44",
     "date_gmt": "2024-10-28T17:37:44",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20729",
-    "modified": "2024-10-29T12:35:07",
-    "modified_gmt": "2024-10-29T19:35:07",
+    "modified": "2024-10-29T12:35:12",
+    "modified_gmt": "2024-10-29T19:35:12",
     "slug": "aureus",
     "status": "publish",
     "type": "post",
