@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-05-17T20:13:00",
-    "updated_date": "2024-10-29T19:47:41",
+    "updated_date": "2024-10-29T19:54:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-05-17T13:13:00",
     "date_gmt": "2024-05-17T20:13:00",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20587",
-    "modified": "2024-10-29T12:47:41",
-    "modified_gmt": "2024-10-29T19:47:41",
+    "modified": "2024-10-29T12:54:19",
+    "modified_gmt": "2024-10-29T19:54:19",
     "slug": "retro-hits-premium-cannabis-distillate-recalls-vape-cartridge-recall",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Voluntary recalls"
+      "Recalls and safety notices"
     ],
     "tags": [
       "Cartridges",
@@ -75,20 +75,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 814,
-        "name": "Voluntary recalls",
-        "slug": "voluntary-recalls",
+        "term_id": 812,
+        "name": "Recalls and safety notices",
+        "slug": "recalls-and-safety-notices",
         "term_group": 0,
-        "term_taxonomy_id": 814,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
-        "parent": 812,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 814,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "Voluntary recalls",
-        "category_nicename": "voluntary-recalls",
-        "category_parent": 812
+        "cat_name": "Recalls and safety notices",
+        "category_nicename": "recalls-and-safety-notices",
+        "category_parent": 0
       }
     ],
     "headless_tags": [
