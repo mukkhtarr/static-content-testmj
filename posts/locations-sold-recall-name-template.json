@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-29T19:22:50",
-    "updated_date": "2024-10-29T19:22:56",
+    "updated_date": "2024-10-30T19:38:45",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-29T12:22:50",
     "date_gmt": "2024-10-29T19:22:50",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20767",
-    "modified": "2024-10-29T12:22:56",
-    "modified_gmt": "2024-10-29T19:22:56",
+    "modified": "2024-10-30T12:38:45",
+    "modified_gmt": "2024-10-30T19:38:45",
     "slug": "locations-sold-recall-name-template",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "_Templates",
       "All"
     ],
     "tags": [],
@@ -71,6 +72,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 955,
+        "name": "_Templates",
+        "slug": "_templates",
+        "term_group": 0,
+        "term_taxonomy_id": 955,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 955,
+        "category_description": "",
+        "cat_name": "_Templates",
+        "category_nicename": "_templates",
+        "category_parent": 0
+      },
       {
         "term_id": 1,
         "name": "All",
