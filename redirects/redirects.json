@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 245,
+      "redirects": 246,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6663,6 +6663,32 @@
       "regex": false,
       "group_id": 1,
       "position": 244,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 497,
+      "url": "/2024/10/aureus/",
+      "match_url": "/2024/10/aureus",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/10/rove-drink-loud/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 245,
       "last_access": "-",
       "enabled": true
     }
