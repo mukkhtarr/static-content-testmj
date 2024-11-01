@@ -1,4 +1,4 @@
-<div class="wp-block-post-date"><time datetime="2024-11-01T13:22:18-07:00">November 1, 2024</time></div>
+<div class="wp-block-post-date"><time datetime="2024-11-01T13:43:06-07:00">November 1, 2024</time></div>
 <div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall&nbsp;for multiple Rove Drink Loud THC Shot beverage products. These products are potentially prohibited or unsafe. </p>
 
@@ -31,21 +31,14 @@
 <li>Rove Drink Loud 100 mg THC Shot Pink Lemonade 50 ml&nbsp;</li>
 </ul>
 
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.1/css/buttons.dataTables.min.css">
-<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css"
+/>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
 <script src="https://cdn.datatables.net/colreorder/1.5.4/js/dataTables.colReorder.min.js"></script>
-<script src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
-<script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.html5.min.js"></script>
-<script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.print.min.js"></script>
-<div id="breakpoint"></div>
-<table id="holding" class="display compact" width="100%">
+<table id="recall_details_tbl" class="display compact" width="100%">
   <thead>
     <tr>
       <th class="all">Product</th>
@@ -363,20 +356,13 @@
 </table>
 <script>
   $(document).ready(function () {
-    const enf_table = new DataTable("#holding", {
-      columns: [
-        { data: "Product" },
-        { data: "Batch Number" },
-      { data: "UID Number" },
-     ],
+    const recall_table = new DataTable("#recall_details_tbl", {
+        columns: [{ data: "brand name" }, { data: "batch number" }, { data: "uid number" }],
+      colReorder: true,
       responsive: true,
-            colReorder: true,
-            order: [[2, 'asc']],
-            dom: 'Bfrtip',
-            buttons: [
-                'csv', 'excel', 
-            ]
     });
+    const newColumnOrder = [0, 1, 2];
+    recall_table.colReorder.order(newColumnOrder).draw();
   });
 </script>
 
