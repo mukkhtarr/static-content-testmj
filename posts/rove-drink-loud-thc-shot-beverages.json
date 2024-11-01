@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-28T17:37:44",
-    "updated_date": "2024-11-01T21:33:32",
+    "updated_date": "2024-11-01T21:36:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-28T10:37:44",
     "date_gmt": "2024-10-28T17:37:44",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20729",
-    "modified": "2024-11-01T14:33:32",
-    "modified_gmt": "2024-11-01T21:33:32",
+    "modified": "2024-11-01T14:36:59",
+    "modified_gmt": "2024-11-01T21:36:59",
     "slug": "rove-drink-loud-thc-shot-beverages",
     "status": "publish",
     "type": "post",
