@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-10-18T20:46:09",
-    "updated_date": "2024-10-30T19:39:37",
+    "updated_date": "2024-11-01T17:18:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-10-18T13:46:09",
     "date_gmt": "2024-10-18T20:46:09",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=20662",
-    "modified": "2024-10-30T12:39:37",
-    "modified_gmt": "2024-10-30T19:39:37",
+    "modified": "2024-11-01T10:18:55",
+    "modified_gmt": "2024-11-01T17:18:55",
     "slug": "new-recall",
     "status": "publish",
     "type": "post",
