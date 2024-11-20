@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 246,
+      "redirects": 248,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6689,6 +6689,58 @@
       "regex": false,
       "group_id": 1,
       "position": 245,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 498,
+      "url": "/2024/11/gramlin-5-diamond-infused-indoor-pre-roll/",
+      "match_url": "/2024/11/gramlin-5-diamond-infused-indoor-pre-roll",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/11/gramlin-5-diamond-infused-pre-roll/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 246,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 499,
+      "url": "/2024/11/gramlin-indoor-flower/",
+      "match_url": "/2024/11/gramlin-indoor-flower",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/11/gramlin-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 247,
       "last_access": "-",
       "enabled": true
     }
