@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-10-18T20:46:09",
-    "updated_date": "2024-11-05T18:31:34",
+    "created_date": "2024-11-20T23:28:30",
+    "updated_date": "2024-11-20T23:48:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/20662",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/20903",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,19 +14,19 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 20662,
-    "date": "2024-10-18T13:46:09",
-    "date_gmt": "2024-10-18T20:46:09",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=20662",
-    "modified": "2024-11-05T10:31:34",
-    "modified_gmt": "2024-11-05T18:31:34",
-    "slug": "new-recall-template",
+    "id": 20903,
+    "date": "2024-11-20T15:28:30",
+    "date_gmt": "2024-11-20T23:28:30",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=20903",
+    "modified": "2024-11-20T15:48:32",
+    "modified_gmt": "2024-11-20T23:48:32",
+    "slug": "flav-vape-cartridge-and-integrated-vape-cartridge-locations-sold",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/10/new-recall-template/",
-    "title": "New Recall Template",
-    "excerpt": "<p>Describe the product and why it is being recalled. Keep it user-focused and easy for public to understand. Recall Type [Voluntary or mandatory] Product Type [Pre-roll, edible, cartridge, etc.] Product Description [Short phrase that expands on the product title] Legal Business [Name of business] Legal Business License Number [License Number] Business Website [Website, or remove [&hellip;]</p>\n",
-    "author": 32,
+    "link": "https://live-testmj-com.pantheonsite.io/2024/11/flav-vape-cartridge-and-integrated-vape-cartridge-locations-sold/",
+    "title": "Flav vape cartridge and integrated vaporizer locations sold",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Flav brand vape cartridge product(s) due to potential pesticide category I contamination. Locations: County Legal Business Name&nbsp; License Number SAN DIEGO VALLEY GREENS RETAIL OUTLET, INC. C10-0000076-LIC SAN DIEGO THE GROVE LA MESA, INC. C10-0000079-LIC SANTA BARBARA SOCAL&#8217;S CHOICE INC. [&hellip;]</p>\n",
+    "author": 36,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -38,7 +38,6 @@
       "_modified_date": ""
     },
     "categories": [
-      "_Templates",
       "All"
     ],
     "tags": [],
@@ -56,38 +55,22 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/new-recall-template/",
-      "page_title": "New Recall Template",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/flav-vape-cartridge-and-integrated-vape-cartridge-locations-sold/",
+      "page_title": "Flav vape cartridge and integrated vaporizer locations sold",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "New Recall Template",
+      "meta_title": "Flav vape cartridge and integrated vaporizer locations sold",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/10/new-recall-template/",
-      "open_graph_title": "New Recall Template",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/flav-vape-cartridge-and-integrated-vape-cartridge-locations-sold/",
+      "open_graph_title": "Flav vape cartridge and integrated vaporizer locations sold",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "New Recall Template",
+      "twitter_title": "Flav vape cartridge and integrated vaporizer locations sold",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 955,
-        "name": "_Templates",
-        "slug": "_templates",
-        "term_group": 0,
-        "term_taxonomy_id": 955,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 955,
-        "category_description": "",
-        "cat_name": "_Templates",
-        "category_nicename": "_templates",
-        "category_parent": 0
-      },
       {
         "term_id": 1,
         "name": "All",
@@ -116,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/10/new-recall-template/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/11/flav-vape-cartridge-and-integrated-vape-cartridge-locations-sold/"
   }
 }
