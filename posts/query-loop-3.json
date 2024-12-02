@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-26T22:38:11",
-    "updated_date": "2024-12-02T16:31:50",
+    "updated_date": "2024-12-02T18:07:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-26T14:38:11",
     "date_gmt": "2024-11-26T22:38:11",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=21010",
-    "modified": "2024-12-02T08:31:50",
-    "modified_gmt": "2024-12-02T16:31:50",
+    "modified": "2024-12-02T10:07:52",
+    "modified_gmt": "2024-12-02T18:07:52",
     "slug": "query-loop-3",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Application Checklist"
+      "Promising Practices"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 933,
-        "name": "Application Checklist",
-        "slug": "application-checklist",
+        "term_id": 931,
+        "name": "Promising Practices",
+        "slug": "promising-practices",
         "term_group": 0,
-        "term_taxonomy_id": 933,
+        "term_taxonomy_id": 931,
         "taxonomy": "category",
         "description": "",
-        "parent": 806,
+        "parent": 874,
         "filter": "raw",
-        "cat_ID": 933,
+        "cat_ID": 931,
         "category_description": "",
-        "cat_name": "Application Checklist",
-        "category_nicename": "application-checklist",
-        "category_parent": 806
+        "cat_name": "Promising Practices",
+        "category_nicename": "promising-practices",
+        "category_parent": 874
       }
     ],
     "headless_tags": [],
