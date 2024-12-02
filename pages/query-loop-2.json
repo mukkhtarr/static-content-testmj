@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-11-25T16:42:32",
-    "updated_date": "2024-12-02T18:04:49",
+    "created_date": "2024-12-02T17:15:25",
+    "updated_date": "2024-12-02T18:36:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/20995",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/21005",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,33 +14,35 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 20995,
-    "date": "2024-11-25T08:42:32",
-    "date_gmt": "2024-11-25T16:42:32",
-    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20995",
-    "modified": "2024-12-02T10:04:49",
-    "modified_gmt": "2024-12-02T18:04:49",
-    "slug": "query-loop-why-do-we-use-it",
+    "id": 21005,
+    "date": "2024-12-02T09:15:25",
+    "date_gmt": "2024-12-02T17:15:25",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=21005",
+    "modified": "2024-12-02T10:36:14",
+    "modified_gmt": "2024-12-02T18:36:14",
+    "slug": "query-loop-2",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/",
-    "title": "Query Loop 4",
-    "excerpt": "<p>&#8220;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…&#8221;&#8220;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain…&#8221; Why do we use it? It is a long established fact that a reader will be distracted by the readable [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/query-loop-2/",
+    "title": "Query Loop",
+    "excerpt": "<p>&#8220;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [],
-    "tags": [],
+    "tags": [
+      "staging"
+    ],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +55,37 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/",
-      "page_title": "Query Loop 4",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-2/",
+      "page_title": "Query Loop",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Query Loop 4",
+      "meta_title": "Query Loop",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/",
-      "open_graph_title": "Query Loop 4",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-2/",
+      "open_graph_title": "Query Loop",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Query Loop 4",
+      "twitter_title": "Query Loop",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 797,
+        "name": "staging",
+        "slug": "staging",
+        "term_group": 0,
+        "term_taxonomy_id": 797,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/query-loop-2/"
   }
 }
