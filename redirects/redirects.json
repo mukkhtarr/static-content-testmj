@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 248,
+      "redirects": 251,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6741,6 +6741,84 @@
       "regex": false,
       "group_id": 1,
       "position": 247,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 500,
+      "url": "/about-us/legislative-reports/",
+      "match_url": "/about-us/legislative-reports",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/about-us/reports-and-policies/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 248,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 501,
+      "url": "/2024/11/panda-pen-premium-disposable-vape-cartridge-locations-sold/",
+      "match_url": "/2024/11/panda-pen-premium-disposable-vape-cartridge-locations-sold",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/11/panda-pen-vape-cartridge-locations-sold/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 249,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 502,
+      "url": "/2024/11/phat-panda-pen-vape-cartridge/",
+      "match_url": "/2024/11/phat-panda-pen-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/11/panda-pen-vape-cartridge/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 250,
       "last_access": "-",
       "enabled": true
     }
