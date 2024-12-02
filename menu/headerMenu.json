@@ -2108,8 +2108,8 @@
           "object": "page",
           "type": "post_type",
           "type_label": "Page",
-          "url": "https://live-testmj-com.pantheonsite.io/about-us/legislative-reports/",
-          "title": "Legislative reports",
+          "url": "https://live-testmj-com.pantheonsite.io/about-us/reports-and-policies/",
+          "title": "Reports and policies",
           "target": "",
           "attr_title": "",
           "description": "",
@@ -2117,7 +2117,7 @@
             ""
           ],
           "xfn": "",
-          "slug": "legislative-reports"
+          "slug": "reports-and-policies"
         },
         {
           "ID": 11665,
