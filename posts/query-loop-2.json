@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-26T22:32:41",
-    "updated_date": "2024-12-02T17:24:00",
+    "updated_date": "2024-12-03T22:02:52",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-26T14:32:41",
     "date_gmt": "2024-11-26T22:32:41",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=21008",
-    "modified": "2024-12-02T09:24:00",
-    "modified_gmt": "2024-12-02T17:24:00",
+    "modified": "2024-12-03T14:02:52",
+    "modified_gmt": "2024-12-03T22:02:52",
     "slug": "query-loop-2",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Application resources"
+      "All"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 806,
-        "name": "Application resources",
-        "slug": "application-resources",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 806,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 806,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "Application resources",
-        "category_nicename": "application-resources",
+        "cat_name": "All",
+        "category_nicename": "all",
         "category_parent": 0
       }
     ],
