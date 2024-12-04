@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-02T20:12:48",
-    "updated_date": "2024-12-02T21:52:35",
+    "updated_date": "2024-12-04T19:49:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-12-02T12:12:48",
     "date_gmt": "2024-12-02T20:12:48",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=21052",
-    "modified": "2024-12-02T13:52:35",
-    "modified_gmt": "2024-12-02T21:52:35",
-    "slug": "kind-republic-vape-cartridge",
+    "modified": "2024-12-04T11:49:46",
+    "modified_gmt": "2024-12-04T19:49:46",
+    "slug": "kind-republic-vape-cartridges",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge/",
-    "title": "Kind Republic vape cartridge",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for a single Kind Republic vape cartridge product due to potential pesticide category I and category II contamination. Recall Type Voluntary Product Type Vape Cartridge Product Description Kind Republic vape cartridge Manufactured By MBM Kosher Manufactured By License Number CDPH-10004912 Locations Sold [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridges/",
+    "title": "Kind Republic vape cartridges",
+    "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall for multiple Kind Republic vape cartridge products due to potential pesticide category I and category II contamination. Recall Type Voluntary Product Type Vape Cartridge Product Description Kind Republic vape cartridges Manufactured By MBM Kosher Manufactured By License Number CDPH-10004912 Locations Sold View [&hellip;]</p>\n",
     "author": 47,
     "featured_media": 0,
     "comment_status": "closed",
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge/",
-      "page_title": "Kind Republic vape cartridge",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridges/",
+      "page_title": "Kind Republic vape cartridges",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Kind Republic vape cartridge",
+      "meta_title": "Kind Republic vape cartridges",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge/",
-      "open_graph_title": "Kind Republic vape cartridge",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridges/",
+      "open_graph_title": "Kind Republic vape cartridges",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Kind Republic vape cartridge",
+      "twitter_title": "Kind Republic vape cartridges",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridges/"
   }
 }

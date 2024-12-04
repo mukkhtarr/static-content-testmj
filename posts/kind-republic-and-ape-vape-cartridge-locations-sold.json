@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-12-02T20:13:31",
-    "updated_date": "2024-12-02T20:13:32",
+    "updated_date": "2024-12-04T19:50:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2024-12-02T12:13:31",
     "date_gmt": "2024-12-02T20:13:31",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=21057",
-    "modified": "2024-12-02T12:13:32",
-    "modified_gmt": "2024-12-02T20:13:32",
-    "slug": "kind-republic-vape-cartridge-locations-sold",
+    "modified": "2024-12-04T11:50:01",
+    "modified_gmt": "2024-12-04T19:50:01",
+    "slug": "kind-republic-and-ape-vape-cartridge-locations-sold",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge-locations-sold/",
-    "title": "Kind Republic vape cartridge locations sold",
-    "excerpt": "<p>This location data is related to the following recall: Kind Republic vape cartridge County Legal Business Name&nbsp; License Number LOS ANGELES NORTH HOLLYWOOD COMPASSIONATE CAREGIVERS, INC. C10-0000061-LIC CONTRA COSTA HOLISTIC HEALING COLLECTIVE, INC. C10-0000185-LIC SACRAMENTO RIVER CITY PHOENIX C10-0000199-LIC SOLANO BETTER HEALTH GROUP, INC. C10-0000256-LIC SAN FRANCISCO MISSION ORGANIC CENTER, INC. C10-0000265-LIC YUBA RCP Marysville [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-and-ape-vape-cartridge-locations-sold/",
+    "title": "Kind Republic and Ape vape cartridge locations sold",
+    "excerpt": "<p>This location data is related to the following recall: Kind Republic vape cartridges County Legal Business Name&nbsp; License Number LOS ANGELES NORTH HOLLYWOOD COMPASSIONATE CAREGIVERS, INC. C10-0000061-LIC CONTRA COSTA HOLISTIC HEALING COLLECTIVE, INC. C10-0000185-LIC SACRAMENTO RIVER CITY PHOENIX C10-0000199-LIC SOLANO BETTER HEALTH GROUP, INC. C10-0000256-LIC SAN FRANCISCO MISSION ORGANIC CENTER, INC. C10-0000265-LIC YUBA RCP Marysville [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
     "comment_status": "closed",
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge-locations-sold/",
-      "page_title": "Kind Republic vape cartridge locations sold",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-and-ape-vape-cartridge-locations-sold/",
+      "page_title": "Kind Republic and Ape vape cartridge locations sold",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Kind Republic vape cartridge locations sold",
+      "meta_title": "Kind Republic and Ape vape cartridge locations sold",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge-locations-sold/",
-      "open_graph_title": "Kind Republic vape cartridge locations sold",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-and-ape-vape-cartridge-locations-sold/",
+      "open_graph_title": "Kind Republic and Ape vape cartridge locations sold",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Kind Republic vape cartridge locations sold",
+      "twitter_title": "Kind Republic and Ape vape cartridge locations sold",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-vape-cartridge-locations-sold/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/kind-republic-and-ape-vape-cartridge-locations-sold/"
   }
 }
