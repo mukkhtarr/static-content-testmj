@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 256,
+      "redirects": 259,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6923,6 +6923,84 @@
       "regex": false,
       "group_id": 1,
       "position": 255,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 508,
+      "url": "/2024/12/kind-republic-vape-cartridge-locations-sold/",
+      "match_url": "/2024/12/kind-republic-vape-cartridge-locations-sold",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/kind-republic-vape-cartridges-locations-sold/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 256,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 509,
+      "url": "/2024/12/kind-republic-vape-cartridge/",
+      "match_url": "/2024/12/kind-republic-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/kind-republic-vape-cartridges/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 257,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 510,
+      "url": "/2024/12/kind-republic-vape-cartridges-locations-sold/",
+      "match_url": "/2024/12/kind-republic-vape-cartridges-locations-sold",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/kind-republic-and-ape-vape-cartridge-locations-sold/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 258,
       "last_access": "-",
       "enabled": true
     }
