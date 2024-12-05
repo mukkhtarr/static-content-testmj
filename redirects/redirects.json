@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 259,
+      "redirects": 262,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7001,6 +7001,84 @@
       "regex": false,
       "group_id": 1,
       "position": 258,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 511,
+      "url": "/2024/12/cru-vape-cartridge/",
+      "match_url": "/2024/12/cru-vape-cartridge",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/cru-vape-cartridges/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 259,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 512,
+      "url": "/2024/12/cru-vape-cartridges/",
+      "match_url": "/2024/12/cru-vape-cartridges",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/cru-integrated-vaporizers/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 260,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 513,
+      "url": "/2024/12/cru-vape-cartridges-locations-sold/",
+      "match_url": "/2024/12/cru-vape-cartridges-locations-sold",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/cru-integrated-vaporizers-locations-sold/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 261,
       "last_access": "-",
       "enabled": true
     }
