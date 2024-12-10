@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-11-26T22:45:13",
-    "updated_date": "2024-12-09T19:11:29",
+    "created_date": "2024-12-10T21:36:23",
+    "updated_date": "2024-12-10T21:45:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21014",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21188",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,24 +14,24 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 21014,
-    "date": "2024-11-26T14:45:13",
-    "date_gmt": "2024-11-26T22:45:13",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=21014",
-    "modified": "2024-12-09T11:11:29",
-    "modified_gmt": "2024-12-09T19:11:29",
-    "slug": "query-loop-5",
+    "id": 21188,
+    "date": "2024-12-10T13:36:23",
+    "date_gmt": "2024-12-10T21:36:23",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=21188",
+    "modified": "2024-12-10T13:45:16",
+    "modified_gmt": "2024-12-10T21:45:16",
+    "slug": "lorem-ipsum-123-reusable-block",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/",
-    "title": "Query Loop 5",
-    "excerpt": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/12/lorem-ipsum-123-reusable-block/",
+    "title": "Lorem Ipsum 123 reusable block",
+    "excerpt": "<p>What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but [&hellip;]</p>\n",
     "author": 36,
-    "featured_media": 20871,
+    "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/",
-      "page_title": "Query Loop 5",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/lorem-ipsum-123-reusable-block/",
+      "page_title": "Lorem Ipsum 123 reusable block",
       "page_description": "Learn about California cannabis laws and licenses",
-      "page_social_image_url": "https://live-testmj-com.pantheonsite.io/wp-content/uploads/2024/11/Gramlin-Flower.jpg",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Query Loop 5",
-      "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/",
-      "open_graph_title": "Query Loop 5",
+      "meta_title": "Lorem Ipsum 123 reusable block",
+      "meta_description": "Query loop 1 summary. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/lorem-ipsum-123-reusable-block/",
+      "open_graph_title": "Lorem Ipsum 123 reusable block",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Query Loop 5",
+      "twitter_title": "Lorem Ipsum 123 reusable block",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/lorem-ipsum-123-reusable-block/"
   }
 }

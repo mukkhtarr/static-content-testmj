@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-26T22:30:10",
-    "updated_date": "2024-12-03T22:03:33",
+    "updated_date": "2024-12-10T21:14:44",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,16 +18,16 @@
     "date": "2024-11-26T14:30:10",
     "date_gmt": "2024-11-26T22:30:10",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=21006",
-    "modified": "2024-12-03T14:03:33",
-    "modified_gmt": "2024-12-03T22:03:33",
+    "modified": "2024-12-10T13:14:44",
+    "modified_gmt": "2024-12-10T21:14:44",
     "slug": "query-loop-1",
     "status": "publish",
     "type": "post",
     "link": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-1/",
     "title": "Query Loop 1",
-    "excerpt": "<p>&#8220;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&hellip;]</p>\n",
+    "excerpt": "<p>Query loop 1 summary. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>\n",
     "author": 36,
-    "featured_media": 0,
+    "featured_media": 20642,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "All"
+      "Application Checklist"
     ],
     "tags": [],
     "design_system_fields": {
@@ -57,35 +57,35 @@
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-1/",
       "page_title": "Query Loop 1",
-      "page_description": "Learn about California cannabis laws and licenses",
-      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_description": "Query loop 1 summary. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "page_social_image_url": "https://live-testmj-com.pantheonsite.io/wp-content/uploads/2024/10/Recall-Advisory.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
       "meta_title": "Query Loop 1",
-      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_description": "Query loop 1 summary. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-1/",
       "open_graph_title": "Query Loop 1",
-      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "open_graph_description": "Query loop 1 summary. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
       "twitter_title": "Query Loop 1",
-      "twitter_description": "Learn about California cannabis laws and licenses"
+      "twitter_description": "Query loop 1 summary. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     },
     "headless_categories": [
       {
-        "term_id": 1,
-        "name": "All",
-        "slug": "all",
+        "term_id": 933,
+        "name": "Application Checklist",
+        "slug": "application-checklist",
         "term_group": 0,
-        "term_taxonomy_id": 1,
+        "term_taxonomy_id": 933,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 806,
         "filter": "raw",
-        "cat_ID": 1,
+        "cat_ID": 933,
         "category_description": "",
-        "cat_name": "All",
-        "category_nicename": "all",
-        "category_parent": 0
+        "cat_name": "Application Checklist",
+        "category_nicename": "application-checklist",
+        "category_parent": 806
       }
     ],
     "headless_tags": [],

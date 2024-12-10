@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-11-26T22:45:13",
-    "updated_date": "2024-12-09T19:11:29",
+    "created_date": "2024-12-10T15:41:29",
+    "updated_date": "2024-12-10T16:33:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21014",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21160",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,20 +14,20 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 21014,
-    "date": "2024-11-26T14:45:13",
-    "date_gmt": "2024-11-26T22:45:13",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=21014",
-    "modified": "2024-12-09T11:11:29",
-    "modified_gmt": "2024-12-09T19:11:29",
-    "slug": "query-loop-5",
+    "id": 21160,
+    "date": "2024-12-10T07:41:29",
+    "date_gmt": "2024-12-10T15:41:29",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=21160",
+    "modified": "2024-12-10T08:33:14",
+    "modified_gmt": "2024-12-10T16:33:14",
+    "slug": "test-ucetf-contact-info-reusable-block",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/",
-    "title": "Query Loop 5",
-    "excerpt": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/12/test-ucetf-contact-info-reusable-block/",
+    "title": "Test &#8211; UCETF contact info reusable block",
+    "excerpt": "<p>What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but [&hellip;]</p>\n",
     "author": 36,
-    "featured_media": 20871,
+    "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/",
-      "page_title": "Query Loop 5",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/test-ucetf-contact-info-reusable-block/",
+      "page_title": "Test - UCETF contact info reusable block",
       "page_description": "Learn about California cannabis laws and licenses",
-      "page_social_image_url": "https://live-testmj-com.pantheonsite.io/wp-content/uploads/2024/11/Gramlin-Flower.jpg",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Query Loop 5",
+      "meta_title": "Test - UCETF contact info reusable block",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/",
-      "open_graph_title": "Query Loop 5",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/test-ucetf-contact-info-reusable-block/",
+      "open_graph_title": "Test - UCETF contact info reusable block",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Query Loop 5",
+      "twitter_title": "Test - UCETF contact info reusable block",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-5/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/test-ucetf-contact-info-reusable-block/"
   }
 }
