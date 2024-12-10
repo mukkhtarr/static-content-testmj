@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 262,
+      "redirects": 264,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -6823,58 +6823,6 @@
       "enabled": true
     },
     {
-      "id": 504,
-      "url": "/query-loop-what-is-lorem-ipsum/",
-      "match_url": "/query-loop-what-is-lorem-ipsum",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/resources/equity/query-loop-what-is-lorem-ipsum/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 252,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
-      "id": 505,
-      "url": "/query-loop-the-standard-lorem-ipsum/",
-      "match_url": "/query-loop-the-standard-lorem-ipsum",
-      "match_data": {
-        "source": {
-          "flag_query": "exact",
-          "flag_case": false,
-          "flag_trailing": false,
-          "flag_regex": false
-        }
-      },
-      "action_code": 301,
-      "action_type": "url",
-      "action_data": {
-        "url": "/resources/equity/query-loop-the-standard-lorem-ipsum/"
-      },
-      "match_type": "url",
-      "title": "",
-      "hits": 0,
-      "regex": false,
-      "group_id": 1,
-      "position": 253,
-      "last_access": "-",
-      "enabled": true
-    },
-    {
       "id": 506,
       "url": "/resources/equity/query-loop-2/",
       "match_url": "/resources/equity/query-loop-2",
@@ -7079,6 +7027,58 @@
       "regex": false,
       "group_id": 1,
       "position": 261,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 514,
+      "url": "/resources/equity/query-loop-what-is-lorem-ipsum/",
+      "match_url": "/resources/equity/query-loop-what-is-lorem-ipsum",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/query-loop-what-is-lorem-ipsum/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 262,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 515,
+      "url": "/resources/equity/query-loop-the-standard-lorem-ipsum/",
+      "match_url": "/resources/equity/query-loop-the-standard-lorem-ipsum",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/query-loop-the-standard-lorem-ipsum/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 263,
       "last_access": "-",
       "enabled": true
     }
