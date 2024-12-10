@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-25T16:43:59",
-    "updated_date": "2024-11-26T23:01:14",
+    "updated_date": "2024-12-10T21:21:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2024-11-25T08:43:59",
     "date_gmt": "2024-11-25T16:43:59",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20997",
-    "modified": "2024-11-26T15:01:14",
-    "modified_gmt": "2024-11-26T23:01:14",
+    "modified": "2024-12-10T13:21:59",
+    "modified_gmt": "2024-12-10T21:21:59",
     "slug": "query-loop-where-does-it-come-from",
     "status": "publish",
     "type": "page",
     "link": "https://live-testmj-com.pantheonsite.io/query-loop-where-does-it-come-from/",
-    "title": "Query Loop &#8211; Where does it come from?",
+    "title": "Query Loop 5",
     "excerpt": "<p>Where does it come from? Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
@@ -37,7 +37,9 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [],
+    "categories": [
+      "Application resources"
+    ],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -54,21 +56,38 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
       "canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-where-does-it-come-from/",
-      "page_title": "Query Loop - Where does it come from?",
+      "page_title": "Query Loop 5",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Query Loop - Where does it come from?",
+      "meta_title": "Query Loop 5",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-where-does-it-come-from/",
-      "open_graph_title": "Query Loop - Where does it come from?",
+      "open_graph_title": "Query Loop 5",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Query Loop - Where does it come from?",
+      "twitter_title": "Query Loop 5",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [],
+    "headless_categories": [
+      {
+        "term_id": 806,
+        "name": "Application resources",
+        "slug": "application-resources",
+        "term_group": 0,
+        "term_taxonomy_id": 806,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 806,
+        "category_description": "",
+        "cat_name": "Application resources",
+        "category_nicename": "application-resources",
+        "category_parent": 0
+      }
+    ],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],

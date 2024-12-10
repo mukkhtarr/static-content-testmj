@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-25T16:40:45",
-    "updated_date": "2024-12-02T18:03:07",
+    "updated_date": "2024-12-10T22:07:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-11-25T08:40:45",
     "date_gmt": "2024-11-25T16:40:45",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20993",
-    "modified": "2024-12-02T10:03:07",
-    "modified_gmt": "2024-12-02T18:03:07",
+    "modified": "2024-12-10T14:07:22",
+    "modified_gmt": "2024-12-10T22:07:22",
     "slug": "query-loop-what-is-lorem-ipsum",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/resources/equity/query-loop-what-is-lorem-ipsum/",
+    "link": "https://live-testmj-com.pantheonsite.io/query-loop-what-is-lorem-ipsum/",
     "title": "Query Loop 1",
     "excerpt": "<p>&#8220;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
-    "parent": 7797,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,9 +37,7 @@
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
-    "categories": [
-      "Equity"
-    ],
+    "categories": [],
     "tags": [],
     "design_system_fields": {
       "template": "template-page-single-column"
@@ -55,7 +53,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/query-loop-what-is-lorem-ipsum/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-what-is-lorem-ipsum/",
       "page_title": "Query Loop 1",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,33 +62,16 @@
       "page_social_image_alt": "",
       "meta_title": "Query Loop 1",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/resources/equity/query-loop-what-is-lorem-ipsum/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-what-is-lorem-ipsum/",
       "open_graph_title": "Query Loop 1",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Query Loop 1",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
-    "headless_categories": [
-      {
-        "term_id": 874,
-        "name": "Equity",
-        "slug": "equity",
-        "term_group": 0,
-        "term_taxonomy_id": 874,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 874,
-        "category_description": "",
-        "cat_name": "Equity",
-        "category_nicename": "equity",
-        "category_parent": 0
-      }
-    ],
+    "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/resources/equity/query-loop-what-is-lorem-ipsum/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/query-loop-what-is-lorem-ipsum/"
   }
 }
