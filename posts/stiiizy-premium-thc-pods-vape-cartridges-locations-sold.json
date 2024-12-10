@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-11-26T22:41:03",
-    "updated_date": "2024-12-09T19:11:50",
+    "created_date": "2024-12-06T23:09:03",
+    "updated_date": "2024-12-06T23:40:06",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21012",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21153",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,20 +14,20 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 21012,
-    "date": "2024-11-26T14:41:03",
-    "date_gmt": "2024-11-26T22:41:03",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=21012",
-    "modified": "2024-12-09T11:11:50",
-    "modified_gmt": "2024-12-09T19:11:50",
-    "slug": "query-loop-4",
+    "id": 21153,
+    "date": "2024-12-06T15:09:03",
+    "date_gmt": "2024-12-06T23:09:03",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=21153",
+    "modified": "2024-12-06T15:40:06",
+    "modified_gmt": "2024-12-06T23:40:06",
+    "slug": "stiiizy-premium-thc-pods-vape-cartridges-locations-sold",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-4/",
-    "title": "Query Loop 4",
-    "excerpt": "<p>Where does it come from? Contrary to popular belief, Lorem Ipsum is not simply random text.</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/12/stiiizy-premium-thc-pods-vape-cartridges-locations-sold/",
+    "title": "STIIIZY Premium THC Pods vape cartridges locations sold",
+    "excerpt": "<p>This location data is related to the following recall: STIIIZY Premium THC Pods vape cartridges County Legal Business Name&nbsp; License Number SAN FRANCISCO MISSION HERBAL CARE INC C10-0000016-LIC SAN BERNARDINO THE HEALING CENTER NEEDLES C10-0000032-LIC ORANGE Bud and Bloom C10-0000044-LIC VENTURA HUENEME PATIENT CONSUMER COLLECTIVE, LLC. C10-0000064-LIC RIVERSIDE HOMEOPATHIC CULTIVATION, INC C10-0000065-LIC EL DORADO ALL [&hellip;]</p>\n",
     "author": 36,
-    "featured_media": 20912,
+    "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-4/",
-      "page_title": "Query Loop 4",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/stiiizy-premium-thc-pods-vape-cartridges-locations-sold/",
+      "page_title": "STIIIZY Premium THC Pods vape cartridges locations sold",
       "page_description": "Learn about California cannabis laws and licenses",
-      "page_social_image_url": "https://live-testmj-com.pantheonsite.io/wp-content/uploads/2024/11/FLAV-–-1G-Cartridge-FLAV-OG.jpg",
+      "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Query Loop 4",
+      "meta_title": "STIIIZY Premium THC Pods vape cartridges locations sold",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-4/",
-      "open_graph_title": "Query Loop 4",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/stiiizy-premium-thc-pods-vape-cartridges-locations-sold/",
+      "open_graph_title": "STIIIZY Premium THC Pods vape cartridges locations sold",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Query Loop 4",
+      "twitter_title": "STIIIZY Premium THC Pods vape cartridges locations sold",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/11/query-loop-4/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/stiiizy-premium-thc-pods-vape-cartridges-locations-sold/"
   }
 }
