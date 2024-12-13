@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-25T16:42:32",
-    "updated_date": "2024-12-10T22:21:56",
+    "updated_date": "2024-12-10T22:58:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,17 +18,17 @@
     "date": "2024-11-25T08:42:32",
     "date_gmt": "2024-11-25T16:42:32",
     "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20995",
-    "modified": "2024-12-10T14:21:56",
-    "modified_gmt": "2024-12-10T22:21:56",
+    "modified": "2024-12-10T14:58:00",
+    "modified_gmt": "2024-12-10T22:58:00",
     "slug": "query-loop-why-do-we-use-it",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/",
+    "link": "https://live-testmj-com.pantheonsite.io/applicants/application-resources/query-loop-why-do-we-use-it/",
     "title": "Query Loop 4 &#8211; Application resources",
     "excerpt": "<p>&#8220;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…&#8221;&#8220;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain…&#8221; Why do we use it? It is a long established fact that a reader will be distracted by the readable [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
-    "parent": 0,
+    "parent": 698,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/applicants/application-resources/query-loop-why-do-we-use-it/",
       "page_title": "Query Loop 4 - Application resources",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Query Loop 4 - Application resources",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/applicants/application-resources/query-loop-why-do-we-use-it/",
       "open_graph_title": "Query Loop 4 - Application resources",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Query Loop 4 - Application resources",
@@ -91,6 +91,6 @@
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/query-loop-why-do-we-use-it/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/applicants/application-resources/query-loop-why-do-we-use-it/"
   }
 }
