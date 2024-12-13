@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-11-26T22:38:11",
-    "updated_date": "2024-12-10T21:14:26",
+    "updated_date": "2024-12-10T23:06:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-11-26T14:38:11",
     "date_gmt": "2024-11-26T22:38:11",
     "guid": "https://live-testmj-com.pantheonsite.io/?p=21010",
-    "modified": "2024-12-10T13:14:26",
-    "modified_gmt": "2024-12-10T21:14:26",
+    "modified": "2024-12-10T15:06:48",
+    "modified_gmt": "2024-12-10T23:06:48",
     "slug": "query-loop-3",
     "status": "publish",
     "type": "post",
