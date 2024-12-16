@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-12-13T17:39:43",
-    "updated_date": "2024-12-13T18:01:05",
+    "created_date": "2024-12-13T18:32:49",
+    "updated_date": "2024-12-13T18:32:49",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21237",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21258",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,24 +14,24 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 21237,
-    "date": "2024-12-13T09:39:43",
-    "date_gmt": "2024-12-13T17:39:43",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=21237",
-    "modified": "2024-12-13T10:01:05",
-    "modified_gmt": "2024-12-13T18:01:05",
-    "slug": "connected-flowers",
+    "id": 21258,
+    "date": "2024-12-13T10:32:49",
+    "date_gmt": "2024-12-13T18:32:49",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=21258",
+    "modified": "2024-12-13T10:32:49",
+    "modified_gmt": "2024-12-13T18:32:49",
+    "slug": "connected-pre-roll-and-flower-locations-sold",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers/",
-    "title": "Connected flowers",
-    "excerpt": "<p>The Department of Cannabis Control (DCC) is issuing this notice of voluntary recall&nbsp;for multiple Connected flower products due to the presence of Aspergillus, and due to inaccurate labeling, that reports more cannabinoid content than the products contain. Business Recall Date December 13, 2024 Recall Type Voluntary Product Type Flower Legal Business Name Hypeereon Corporation Legal [&hellip;]</p>\n",
-    "author": 47,
+    "link": "https://live-testmj-com.pantheonsite.io/2024/12/connected-pre-roll-and-flower-locations-sold/",
+    "title": "Connected pre-roll and flower locations sold",
+    "excerpt": "<p>This location data is related to the following recall: Connected pre-roll and flower County Legal Business Name&nbsp; License Number SAN DIEGO VALLEY GREENS RETAIL OUTLET, INC. C10-0000076-LIC SAN DIEGO THE GROVE LA MESA, INC. C10-0000079-LIC SANTA BARBARA SOCAL&#8217;S CHOICE INC. C10-0000080-LIC SAN FRANCISCO BAY AREA SAFE ALTERNATIVES COLLECTIVE INC C10-0000158-LIC LOS ANGELES ALTERNATE HEALTH COLLECTIVE [&hellip;]</p>\n",
+    "author": 36,
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
+    "template": "",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column"
+      "template": "post"
     },
     "og_meta": {
       "editor": {
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers/",
-      "page_title": "Connected flowers",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-pre-roll-and-flower-locations-sold/",
+      "page_title": "Connected pre-roll and flower locations sold",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Connected flowers",
+      "meta_title": "Connected pre-roll and flower locations sold",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers/",
-      "open_graph_title": "Connected flowers",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-pre-roll-and-flower-locations-sold/",
+      "open_graph_title": "Connected pre-roll and flower locations sold",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Connected flowers",
+      "twitter_title": "Connected pre-roll and flower locations sold",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-pre-roll-and-flower-locations-sold/"
   }
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-12-13T17:44:35",
-    "updated_date": "2024-12-13T18:01:28",
+    "created_date": "2024-12-13T16:39:18",
+    "updated_date": "2024-12-13T22:03:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21252",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21245",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 21252,
-    "date": "2024-12-13T09:44:35",
-    "date_gmt": "2024-12-13T17:44:35",
-    "guid": "https://live-testmj-com.pantheonsite.io/?p=21252",
-    "modified": "2024-12-13T10:01:28",
-    "modified_gmt": "2024-12-13T18:01:28",
-    "slug": "connected-flowers-locations-sold",
+    "id": 21245,
+    "date": "2024-12-13T08:39:18",
+    "date_gmt": "2024-12-13T16:39:18",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=21245",
+    "modified": "2024-12-13T14:03:08",
+    "modified_gmt": "2024-12-13T22:03:08",
+    "slug": "dixie-elixir-beverage-locations-sold",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers-locations-sold/",
-    "title": "Connected flowers locations sold",
-    "excerpt": "<p>This location data is related to the following recall: Connected flowers County Legal Business Name&nbsp; License Number SHASTA SUNDIAL COLLECTIVE, LLC C10-0000036-LIC SAN FRANCISCO PURPLE STAR MD COLLECTIVE C10-0000133-LIC STANISLAUS Pacafi, Inc. C10-0000195-LIC STANISLAUS PACAFI, INC. C10-0000196-LIC STANISLAUS PHENOS COLLECTIVE, INC. C10-0000197-LIC LOS ANGELES VALLEY COLLECTIVE CARE, INC. C10-0000226-LIC LOS ANGELES ORGANIC CENTURY FARMACY, INC. [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2024/12/dixie-elixir-beverage-locations-sold/",
+    "title": "Dixie Elixir beverage locations sold",
+    "excerpt": "<p>This location data is related to the following recall: Dixie Elixir beverage County Legal Business Name&nbsp; License Number SAN MATEO Lytt, LLC C10-0000159-LIC ORANGE SCSA GROUP, INC. C10-0000170-LIC SAN DIEGO SUSTAINABLE THERAPEUTICS COMPANY, INC. C10-0000174-LIC CONTRA COSTA HOLISTIC HEALING COLLECTIVE, INC. C10-0000185-LIC LOS ANGELES VALLEY COLLECTIVE CARE, INC. C10-0000226-LIC SAN DIEGO NS Harbor, Inc. C10-0000262-LIC [&hellip;]</p>\n",
     "author": 36,
     "featured_media": 0,
     "comment_status": "closed",
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers-locations-sold/",
-      "page_title": "Connected flowers locations sold",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/dixie-elixir-beverage-locations-sold/",
+      "page_title": "Dixie Elixir beverage locations sold",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Connected flowers locations sold",
+      "meta_title": "Dixie Elixir beverage locations sold",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers-locations-sold/",
-      "open_graph_title": "Connected flowers locations sold",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/12/dixie-elixir-beverage-locations-sold/",
+      "open_graph_title": "Dixie Elixir beverage locations sold",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Connected flowers locations sold",
+      "twitter_title": "Dixie Elixir beverage locations sold",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/connected-flowers-locations-sold/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/12/dixie-elixir-beverage-locations-sold/"
   }
 }
