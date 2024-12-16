@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 266,
+      "redirects": 270,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7131,6 +7131,110 @@
       "regex": false,
       "group_id": 1,
       "position": 265,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 518,
+      "url": "/2024/12/connected-flowers/",
+      "match_url": "/2024/12/connected-flowers",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/connected-flower/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 266,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 519,
+      "url": "/2024/12/connected-flowers-locations-sold/",
+      "match_url": "/2024/12/connected-flowers-locations-sold",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/connected-flower-locations-sold/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 267,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 520,
+      "url": "/2024/12/dixie-elixir-beverages/",
+      "match_url": "/2024/12/dixie-elixir-beverages",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/dixie-elixir-beverage/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 268,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 521,
+      "url": "/2024/12/dixie-elixir-beverages-locations-sold/",
+      "match_url": "/2024/12/dixie-elixir-beverages-locations-sold",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/12/dixie-elixir-beverage-locations-sold/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 269,
       "last_access": "-",
       "enabled": true
     }
