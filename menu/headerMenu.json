@@ -1139,7 +1139,7 @@
           "object": "page",
           "type": "post_type",
           "type_label": "Page",
-          "url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/dcc-regulations/",
+          "url": "https://live-testmj-com.pantheonsite.io/?page_id=9437",
           "title": "DCC regulations",
           "target": "",
           "attr_title": "",
@@ -1148,7 +1148,7 @@
             ""
           ],
           "xfn": "",
-          "slug": "dcc-regulations"
+          "slug": ""
         },
         {
           "ID": 11648,
@@ -1223,7 +1223,7 @@
           "object": "page",
           "type": "post_type",
           "type_label": "Page",
-          "url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/rulemaking/",
+          "url": "https://live-testmj-com.pantheonsite.io/?page_id=710",
           "title": "Rulemaking",
           "target": "",
           "attr_title": "",
@@ -1232,7 +1232,7 @@
             ""
           ],
           "xfn": "",
-          "slug": "rulemaking"
+          "slug": ""
         },
         {
           "ID": 11650,
