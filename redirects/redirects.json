@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 270,
+      "redirects": 272,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7235,6 +7235,58 @@
       "regex": false,
       "group_id": 1,
       "position": 269,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 522,
+      "url": "/2024/08/california-seizes-over-120-million-in-illegal-cannabis-since-january/",
+      "match_url": "/2024/08/california-seizes-over-120-million-in-illegal-cannabis-since-january",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/2024/08/california-seizes-illegal-cannabis-january/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 270,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 523,
+      "url": "/dcc-2025-02-r-animal-cannabis-product-standards/",
+      "match_url": "/dcc-2025-02-r-animal-cannabis-product-standards",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/cannabis-laws/rulemaking/dcc-2025-02-r-animal-cannabis-product-standards/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 271,
       "last_access": "-",
       "enabled": true
     }
