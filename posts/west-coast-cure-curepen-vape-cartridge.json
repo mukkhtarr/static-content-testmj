@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2024-07-02T16:47:13",
-    "updated_date": "2024-10-17T22:43:03",
+    "updated_date": "2025-05-09T17:20:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2024-07-02T09:47:13",
     "date_gmt": "2024-07-02T16:47:13",
     "guid": "https://api.cannabis.ca.gov/?p=18671",
-    "modified": "2024-10-17T15:43:03",
-    "modified_gmt": "2024-10-17T22:43:03",
+    "modified": "2025-05-09T10:20:36",
+    "modified_gmt": "2025-05-09T17:20:36",
     "slug": "west-coast-cure-curepen-vape-cartridge",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Mandatory recalls"
+      "Mandatory recalls",
+      "Recall Press"
     ],
     "tags": [
       "Cartridges",
@@ -89,6 +90,22 @@
         "cat_name": "Mandatory recalls",
         "category_nicename": "mandatory-recalls",
         "category_parent": 812
+      },
+      {
+        "term_id": 956,
+        "name": "Recall Press",
+        "slug": "recall-press",
+        "term_group": 0,
+        "term_taxonomy_id": 956,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 14,
+        "filter": "raw",
+        "cat_ID": 956,
+        "category_description": "",
+        "cat_name": "Recall Press",
+        "category_nicename": "recall-press",
+        "category_parent": 14
       }
     ],
     "headless_tags": [
