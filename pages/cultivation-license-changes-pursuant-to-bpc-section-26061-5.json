@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-10-07T20:05:37",
-    "updated_date": "2025-07-03T17:50:30",
+    "created_date": "2025-02-11T19:04:23",
+    "updated_date": "2025-03-25T16:30:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/12100",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/20748",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 12100,
-    "date": "2022-10-07T13:05:37",
-    "date_gmt": "2022-10-07T20:05:37",
-    "guid": "https://api.cannabis.ca.gov/?page_id=12100",
-    "modified": "2025-07-03T10:50:30",
-    "modified_gmt": "2025-07-03T17:50:30",
-    "slug": "cannabis-academic-research-grants",
+    "id": 20748,
+    "date": "2025-02-11T11:04:23",
+    "date_gmt": "2025-02-11T19:04:23",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=20748",
+    "modified": "2025-03-25T09:30:54",
+    "modified_gmt": "2025-03-25T16:30:54",
+    "slug": "cultivation-license-changes-pursuant-to-bpc-section-26061-5",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/about-us/grant-funding/cannabis-academic-research-grants/",
-    "title": "Cannabis Academic Research Grants",
-    "excerpt": "<p>As of May 2025, the vast majority of states allow medical use, and 24 states allow adult use of cannabis. Despite changes in state policy, cannabis is still classified by the federal government as a Schedule I Controlled Substance. This limits research opportunities and our collective understanding of cannabis and its effects. Funding opportunity DCC [&hellip;]</p>\n",
-    "author": 22,
+    "link": "https://live-testmj-com.pantheonsite.io/cultivation-license-changes-pursuant-to-bpc-section-26061-5/",
+    "title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
+    "excerpt": "<p>The Department of Cannabis Control is proposing to permanently adopt emergency regulations allowing cultivation licensees to make changes to their license under certain circumstances. Type:   Regular Rulemaking Status: Approved and filed with Secretary of State on March 17, 2025. Effective March 17, 2025. Summary:  The Office of Administrative Law (OAL) has approved and filed the [&hellip;]</p>\n",
+    "author": 43,
     "featured_media": 0,
-    "parent": 703,
+    "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/about-us/grant-funding/cannabis-academic-research-grants/",
-      "page_title": "Cannabis Academic Research Grants",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cultivation-license-changes-pursuant-to-bpc-section-26061-5/",
+      "page_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "Cannabis Academic Research Grants",
+      "meta_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/about-us/grant-funding/cannabis-academic-research-grants/",
-      "open_graph_title": "Cannabis Academic Research Grants",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cultivation-license-changes-pursuant-to-bpc-section-26061-5/",
+      "open_graph_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "Cannabis Academic Research Grants",
+      "twitter_title": "Cultivation License Changes Pursuant to BPC Section 26061.5",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/about-us/grant-funding/cannabis-academic-research-grants/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cultivation-license-changes-pursuant-to-bpc-section-26061-5/"
   }
 }
