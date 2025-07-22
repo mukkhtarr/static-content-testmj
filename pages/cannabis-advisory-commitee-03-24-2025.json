@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-03-03T10:34:46",
-    "updated_date": "2025-06-16T20:43:05",
+    "created_date": "2025-03-24T18:30:59",
+    "updated_date": "2025-04-28T20:20:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/9443",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/pages/21432",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 9443,
-    "date": "2022-03-03T02:34:46",
-    "date_gmt": "2022-03-03T10:34:46",
-    "guid": "https://cannabis.ca.gov/?page_id=9443",
-    "modified": "2025-06-16T13:43:05",
-    "modified_gmt": "2025-06-16T20:43:05",
-    "slug": "how-regulations-are-made",
+    "id": 21432,
+    "date": "2025-03-24T11:30:59",
+    "date_gmt": "2025-03-24T18:30:59",
+    "guid": "https://live-testmj-com.pantheonsite.io/?page_id=21432",
+    "modified": "2025-04-28T13:20:03",
+    "modified_gmt": "2025-04-28T20:20:03",
+    "slug": "cannabis-advisory-commitee-03-24-2025",
     "status": "publish",
     "type": "page",
-    "link": "https://live-testmj-com.pantheonsite.io/cannabis-laws/how-regulations-are-made/",
-    "title": "How regulations are made",
-    "excerpt": "<p>Regulations are changed through a process called rulemaking. The rulemaking process:&nbsp;&nbsp; There are two main types of rulemaking:&nbsp;&nbsp; DCC must follow the Administrative Procedures Act (APA) when adopting regulations. The Office of Administrative Law (OAL) reviews proposed changes; they make sure the APA is followed.&nbsp;&nbsp; Steps in the rulemaking process&nbsp; Before the rulemaking process, DCC:&nbsp;&nbsp; [&hellip;]</p>\n",
-    "author": 2,
+    "link": "https://live-testmj-com.pantheonsite.io/cannabis-advisory-commitee-03-24-2025/",
+    "title": "Cannabis Advisory Commitee: 03/24/2025",
+    "excerpt": "<p>Meeting details Date and time April 01, 2025, 10:00 AM PST Cost Free Meeting materials: Public comment How to join Join by computer (WebEx) Meeting link https://events-cannabis.webex.com/events-cannabis/j.php?MTID=m6a488c9ad7b8091e08b257286da330b4 Meeting number 2663 552 5292 Webinar Password DecCACPublic (33222278 when dialing from a phone or video system) Join by phone Meeting number Access code Meeting agenda Committee Administration [&hellip;]</p>\n",
+    "author": 50,
     "featured_media": 0,
-    "parent": 9438,
-    "menu_order": 4,
+    "parent": 0,
+    "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/how-regulations-are-made/",
-      "page_title": "How regulations are made",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-advisory-commitee-03-24-2025/",
+      "page_title": "Cannabis Advisory Commitee: 03/24/2025",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "How regulations are made",
+      "meta_title": "Cannabis Advisory Commitee: 03/24/2025",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/how-regulations-are-made/",
-      "open_graph_title": "How regulations are made",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/cannabis-advisory-commitee-03-24-2025/",
+      "open_graph_title": "Cannabis Advisory Commitee: 03/24/2025",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "How regulations are made",
+      "twitter_title": "Cannabis Advisory Commitee: 03/24/2025",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannabis-laws/how-regulations-are-made/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/cannabis-advisory-commitee-03-24-2025/"
   }
 }
