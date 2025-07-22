@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2024-08-26T19:55:21",
-    "updated_date": "2025-03-24T19:45:13",
+    "created_date": "2025-04-07T17:49:56",
+    "updated_date": "2025-04-07T17:51:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/19602",
+    "object_url": "https://live-testmj-com.pantheonsite.io/wp-json/wp/v2/posts/21448",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://live-testmj-com.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 19602,
-    "date": "2024-08-26T12:55:21",
-    "date_gmt": "2024-08-26T19:55:21",
-    "guid": "https://api.cannabis.ca.gov/?p=19602",
-    "modified": "2025-03-24T12:45:13",
-    "modified_gmt": "2025-03-24T19:45:13",
-    "slug": "cac-agenda-month-dd-yyyy-template",
+    "id": 21448,
+    "date": "2025-04-07T10:49:56",
+    "date_gmt": "2025-04-07T17:49:56",
+    "guid": "https://live-testmj-com.pantheonsite.io/?p=21448",
+    "modified": "2025-04-07T10:51:03",
+    "modified_gmt": "2025-04-07T17:51:03",
+    "slug": "event-or-meeting-title",
     "status": "publish",
     "type": "post",
-    "link": "https://live-testmj-com.pantheonsite.io/2024/08/cac-agenda-month-dd-yyyy-template/",
-    "title": "CAC agenda: [Month dd yyyy] -template",
-    "excerpt": "<p>Join the Cannabis Advisory Committee (CAC) meeting on [Month Day Year], at [time of meeting]. No registration is required. This meeting is live-streamed and open to the public. How to join Pursuant to Government Code section 11133, this meeting will be held by teleconference with no physical public locations. To view or participate in the [&hellip;]</p>\n",
+    "link": "https://live-testmj-com.pantheonsite.io/2025/04/event-or-meeting-title/",
+    "title": "Event or meeting title",
+    "excerpt": "<p>Include a short overview of what the purpose of the meeting or event is. It should clearly communicate who would be interested in the event, the outcome, and any keywords that will help people to find this event/meeting through our search or Google search. Keep it short (2-3 sentences) Overview Lorem ipsum dolor sit amet [&hellip;]</p>\n",
     "author": 32,
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,11 +38,9 @@
       "_modified_date": ""
     },
     "categories": [
-      "_Templates"
+      "All"
     ],
-    "tags": [
-      "staging"
-    ],
+    "tags": [],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -57,52 +55,40 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://live-testmj-com.pantheonsite.io",
-      "canonical_url": "https://live-testmj-com.pantheonsite.io/2024/08/cac-agenda-month-dd-yyyy-template/",
-      "page_title": "CAC agenda: [Month dd yyyy] -template",
+      "canonical_url": "https://live-testmj-com.pantheonsite.io/2025/04/event-or-meeting-title/",
+      "page_title": "Event or meeting title",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://api.cannabis.ca.gov/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "CAC agenda: [Month dd yyyy] -template",
+      "meta_title": "Event or meeting title",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2024/08/cac-agenda-month-dd-yyyy-template/",
-      "open_graph_title": "CAC agenda: [Month dd yyyy] -template",
+      "meta_canonical_url": "https://live-testmj-com.pantheonsite.io/2025/04/event-or-meeting-title/",
+      "open_graph_title": "Event or meeting title",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "CAC agenda: [Month dd yyyy] -template",
+      "twitter_title": "Event or meeting title",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 955,
-        "name": "_Templates",
-        "slug": "_templates",
+        "term_id": 1,
+        "name": "All",
+        "slug": "all",
         "term_group": 0,
-        "term_taxonomy_id": 955,
+        "term_taxonomy_id": 1,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 955,
+        "cat_ID": 1,
         "category_description": "",
-        "cat_name": "_Templates",
-        "category_nicename": "_templates",
+        "cat_name": "All",
+        "category_nicename": "all",
         "category_parent": 0
       }
     ],
-    "headless_tags": [
-      {
-        "term_id": 797,
-        "name": "staging",
-        "slug": "staging",
-        "term_group": 0,
-        "term_taxonomy_id": 797,
-        "taxonomy": "post_tag",
-        "description": "",
-        "parent": 0,
-        "filter": "raw"
-      }
-    ],
+    "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
@@ -113,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2024/08/cac-agenda-month-dd-yyyy-template/"
+    "wordpress_url": "https://live-testmj-com.pantheonsite.io/2025/04/event-or-meeting-title/"
   }
 }
