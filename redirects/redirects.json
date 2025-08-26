@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Redirections",
-      "redirects": 272,
+      "redirects": 273,
       "module_id": 1,
       "moduleName": "WordPress",
       "enabled": true
@@ -7287,6 +7287,32 @@
       "regex": false,
       "group_id": 1,
       "position": 271,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 524,
+      "url": "/license-denials-citations-and-disciplinary-actions/",
+      "match_url": "/license-denials-citations-and-disciplinary-actions",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/compliance-actions-records/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 272,
       "last_access": "-",
       "enabled": true
     }
